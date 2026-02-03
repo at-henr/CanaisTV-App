@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/at-henr/CanaisTV-App/releases/download/1.1.7/5app-release.apk",
-  "changelog": "Remoção temporaria dos canais ao vivo, adição de filtros em filmes e series e nova tela de novela e doramas."
+  "version": "1.0.7",
+  "url": "https://github.com/at-henr/CanaisTV-App/releases/download/1.1.7/7app-release.apk",
+  "changelog": "Nova tela canais ao vivo agora como IPTV, a antiga continua funcionando pela home, melhorias na interface e segurança."
 }
