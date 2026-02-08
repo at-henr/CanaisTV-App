@@ -1,0 +1,14 @@
+{
+  "Recomendado": {
+    "filme": "https://superflixapi.one/filme/{id}#noLink",
+    "serie": "https://superflixapi.one/serie/{id}/{s}/{e}#noEpList#noLink"
+  },
+  "Rápido": {
+    "filme": "https://playerflixapi.com/filme/{id}",
+    "serie": "https://playerflixapi.com/serie/{id}/{s}/{e}"
+  },
+  "Ultra": {
+    "filme": "https://megaembed.com/embed/{id}",
+    "serie": "https://megaembed.com/embed/{id}/{s}/{e}"
+  }
+}
