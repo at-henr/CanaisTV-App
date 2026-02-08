@@ -9,6 +9,6 @@
   },
   "Ultra": {
     "filme": "https://megaembed.com/embed/{id}",
-    "serie": "https://megaembed.com/embed/{id}/{s}/{e}"
+    "serie": "https://megaembed.com/embed/{id}-{s}-{e}"
   }
 }
