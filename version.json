@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/at-henr/CanaisTV-App/releases/download/1.1.7/9app-release.apk",
-  "changelog": "Melhorias na interface e segurança."
+  "version": "1.0.10",
+  "url": "https://github.com/at-henr/CanaisTV-App/releases/download/1.1.7/10app-release.apk",
+  "changelog": "Melhorias na interface. Remoção do PIP. Adição Provedor 'New'. Correção navegação para TV."
 }
