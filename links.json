@@ -10,5 +10,9 @@
   "Ultra": {
     "movie": "https://superflixapi.one/filme/$id#noLink",
     "tv": "https://superflixapi.one/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
+  },
+  "New": {
+    "movie": "https://embedplayapi.site/embed/$id",
+    "tv": "https://embedplayapi.site/embed/$id/$seasonNum/$episodeNum"
   }
 }
