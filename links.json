@@ -8,8 +8,8 @@
     "tv": "https://playerflixapi.com/serie/$id/$seasonNum/$episodeNum"
   },
   "Ultra": {
-    "movie": "https://superflixapi.help/filme/$id#noLink",
-    "tv": "https://superflixapi.help/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
+    "movie": "https://superflixapi.rest/filme/$id#noLink",
+    "tv": "https://superflixapi.rest/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
   },
   "New": {
     "movie": "https://embedplayapi.site/embed/$id",
