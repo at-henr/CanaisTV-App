@@ -81,7 +81,7 @@
   {"nome":"NOVELAS","arquivo":"novelas.json","total":31137},
   {"nome":"Novelas","arquivo":"novelas.json","total":36074},
   {"nome":"SÉRIES | NETFLIX","arquivo":"s_ries_netflix.json","total":45979},
-   {"nome":"Series | Reality Show","arquivo":"series_reality_show.json","total":4},
+  {"nome":"Series | Reality Show","arquivo":"series_reality_show.json","total":4},
   {"nome":"SÉRIES | TERROR","arquivo":"s_ries_terror.json","total":6},
   {"nome":"SÉRIES | Crime","arquivo":"s_ries_crime.json","total":6},
   {"nome":"Series | Apple TV/Apple TV+","arquivo":"series_apple_tv_apple_tv_.json","total":10},
