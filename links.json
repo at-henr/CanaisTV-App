@@ -12,7 +12,7 @@
     "tv": "https://superflixapi.online/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
   },
   "New": {
-    "movie": "https://embedplayapi.site/embed/$id",
-    "tv": "https://embedplayapi.site/embed/$id/$seasonNum/$episodeNum"
+    "movie": "https://embedplayapi.top/embed/$id",
+    "tv": "https://embedplayapi.top/embed/$id/$seasonNum/$episodeNum"
   }
 }
