@@ -1,520 +1,519 @@
-
 #EXTM3U
-#EXTINF:-1 group-title="GERAL",SBT HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_139_sbt.png" group-title="TV Aberta",SBT HD
 http://46.151.196.223:14004
-#EXTINF:-1 group-title="GERAL",SBT SD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_139_sbt.png" group-title="TV Aberta",SBT SD
 http://46.151.196.223:14006
-#EXTINF:-1 group-title="ESPORTES",NBA 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 1
 http://46.151.196.223:14036
-#EXTINF:-1 group-title="GERAL",Pluto tv
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/24h.png" group-title="Entretenimento",Pluto tv
 http://46.151.196.223:14037
-#EXTINF:-1 group-title="ESPORTES",NBA 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 2
 http://46.151.196.223:14038
-#EXTINF:-1 group-title="GERAL",Variedades
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",Variedades
 http://46.151.196.223:14039
-#EXTINF:-1 group-title="KIDS",Infantil 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_84_gloob.png" group-title="Infantil",Infantil 1
 http://46.151.196.223:14040
-#EXTINF:-1 group-title="ESPORTES",NBA 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 3
 http://46.151.196.223:14041
-#EXTINF:-1 group-title="ESPORTES",NBA 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 4
 http://46.151.196.223:14042
-#EXTINF:-1 group-title="ENTRETENIMENTO",MULTISHOW
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_110_multishow.png" group-title="Entretenimento",MULTISHOW
 http://46.151.196.223:14043
-#EXTINF:-1 group-title="ENTRETENIMENTO",Multishow 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_110_multishow.png" group-title="Entretenimento",Multishow 2
 http://46.151.196.223:14044
-#EXTINF:-1 group-title="ENTRETENIMENTO",MULTISHOW 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_110_multishow.png" group-title="Entretenimento",MULTISHOW 3
 http://46.151.196.223:14045
-#EXTINF:-1 group-title="ENTRETENIMENTO",MULTISHOW 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_110_multishow.png" group-title="Entretenimento",MULTISHOW 4
 http://46.151.196.223:14046
-#EXTINF:-1 group-title="ENTRETENIMENTO",MULTISHOW 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_110_multishow.png" group-title="Entretenimento",MULTISHOW 5
 http://46.151.196.223:14047
-#EXTINF:-1 group-title="ENTRETENIMENTO",Multishow 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_110_multishow.png" group-title="Entretenimento",Multishow 6
 http://46.151.196.223:14048
-#EXTINF:-1 group-title="ENTRETENIMENTO",box music 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",box music 1
 http://46.151.196.223:14049
-#EXTINF:-1 group-title="ENTRETENIMENTO",MUSIC_BOX
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",MUSIC_BOX
 http://46.151.196.223:14050
-#EXTINF:-1 group-title="ENTRETENIMENTO",Music Box Brazil
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",Music Box Brazil
 http://46.151.196.223:14051
-#EXTINF:-1 group-title="ENTRETENIMENTO",Music Box Brazil 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",Music Box Brazil 2
 http://46.151.196.223:14052
-#EXTINF:-1 group-title="ENTRETENIMENTO",Music Box Brazil 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",Music Box Brazil 3
 http://46.151.196.223:14053
-#EXTINF:-1 group-title="ENTRETENIMENTO",Music Box Brazil 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",Music Box Brazil 4
 http://46.151.196.223:14054
-#EXTINF:-1 group-title="FILMES",Box prime 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_105_megapix.png" group-title="Filmes",Box prime 1
 http://46.151.196.223:14055
-#EXTINF:-1 group-title="FILMES",Box prime 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_105_megapix.png" group-title="Filmes",Box prime 2
 http://46.151.196.223:14056
-#EXTINF:-1 group-title="GERAL",TravelBoxBrazil
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_97_hgtv.png" group-title="Documentarios",TravelBoxBrazil
 http://46.151.196.223:14061
-#EXTINF:-1 group-title="GERAL",Travel
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_97_hgtv.png" group-title="Documentarios",Travel
 http://46.151.196.223:14062
-#EXTINF:-1 group-title="GERAL",Travel 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_97_hgtv.png" group-title="Documentarios",Travel 2
 http://46.151.196.223:14063
-#EXTINF:-1 group-title="ENTRETENIMENTO",Mtv
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_26_bis.png" group-title="Entretenimento",Mtv
 http://46.151.196.223:14072
-#EXTINF:-1 group-title="ESPORTES",NBA 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 5
 http://46.151.196.223:14073
-#EXTINF:-1 group-title="GERAL",Discovery Channel
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_49_discoverychannel.png" group-title="Documentarios",Discovery Channel
 http://46.151.196.223:14074
-#EXTINF:-1 group-title="GERAL",Band FHD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_14_band.png" group-title="TV Aberta",Band FHD
 http://46.151.196.223:14076
-#EXTINF:-1 group-title="GERAL",Band SD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_14_band.png" group-title="TV Aberta",Band SD
 http://46.151.196.223:14077
-#EXTINF:-1 group-title="NOTICIAS",Band News HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Band News HD
 http://46.151.196.223:14078
-#EXTINF:-1 group-title="NOTICIAS",Band News FHD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Band News FHD
 http://46.151.196.223:14079
-#EXTINF:-1 group-title="NOTICIAS",Band News SD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Band News SD
 http://46.151.196.223:14080
-#EXTINF:-1 group-title="NOTICIAS",Band News HD 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Band News HD 1
 http://46.151.196.223:14081
-#EXTINF:-1 group-title="NOTICIAS",Band News HD 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Band News HD 2
 http://46.151.196.223:14082
-#EXTINF:-1 group-title="NOTICIAS",Band News HD 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Band News HD 3
 http://46.151.196.223:14083
-#EXTINF:-1 group-title="GERAL",CGNT
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",CGNT
 http://46.151.196.223:14084
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil FHD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Brasil FHD
 http://46.151.196.223:14085
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Brasil HD
 http://46.151.196.223:14086
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil SD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Brasil SD
 http://46.151.196.223:14087
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil FHD 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Brasil FHD 1
 http://46.151.196.223:14088
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil FHD 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Brasil FHD 2
 http://46.151.196.223:14089
-#EXTINF:-1 group-title="NOTICIAS",CNN Brasil FHD 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Brasil FHD 3
 http://46.151.196.223:14090
-#EXTINF:-1 group-title="GERAL",+SBT
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_139_sbt.png" group-title="TV Aberta",+SBT
 http://46.151.196.223:14091
-#EXTINF:-1 group-title="NOTICIAS",Globo News
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_81_globonews.png" group-title="Noticias",Globo News
 http://46.151.196.223:14092
-#EXTINF:-1 group-title="GERAL",GNT
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_86_gnt.png" group-title="Entretenimento",GNT
 http://46.151.196.223:14093
-#EXTINF:-1 group-title="NOTICIAS",Globo News FHD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_81_globonews.png" group-title="Noticias",Globo News FHD
 http://46.151.196.223:14094
-#EXTINF:-1 group-title="NOTICIAS",Globo News HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_81_globonews.png" group-title="Noticias",Globo News HD
 http://46.151.196.223:14095
-#EXTINF:-1 group-title="GERAL",Humor
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Humor
 http://46.151.196.223:14096
-#EXTINF:-1 group-title="GERAL",RecordTV HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV HD
 http://46.151.196.223:14097
-#EXTINF:-1 group-title="ESPORTES",Premiere
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_121_premiere.png" group-title="Esportes",Premiere
 http://46.151.196.223:14098
-#EXTINF:-1 group-title="NOTICIAS",Record News HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",Record News HD
 http://46.151.196.223:14099
-#EXTINF:-1 group-title="NOTICIAS",Record News FHD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",Record News FHD
 http://46.151.196.223:14100
-#EXTINF:-1 group-title="NOTICIAS",Record News HD 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",Record News HD 1
 http://46.151.196.223:14101
-#EXTINF:-1 group-title="NOTICIAS",Record News HD 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",Record News HD 2
 http://46.151.196.223:14102
-#EXTINF:-1 group-title="NOTICIAS",Record News HD 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",Record News HD 3
 http://46.151.196.223:14103
-#EXTINF:-1 group-title="NOTICIAS",Record News HD 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",Record News HD 4
 http://46.151.196.223:14104
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/logo_15424.png" group-title="Noticias",Jovem Pan News
 http://46.151.196.223:14105
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/logo_15424.png" group-title="Noticias",Jovem Pan News 1
 http://46.151.196.223:14106
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/logo_15424.png" group-title="Noticias",Jovem Pan News 2
 http://46.151.196.223:14107
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/logo_15424.png" group-title="Noticias",Jovem Pan News 3
 http://46.151.196.223:14108
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/logo_15424.png" group-title="Noticias",Jovem Pan News 4
 http://46.151.196.223:14109
-#EXTINF:-1 group-title="NOTICIAS",Jovem Pan News 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/logo_15424.png" group-title="Noticias",Jovem Pan News 5
 http://46.151.196.223:14110
-#EXTINF:-1 group-title="NOTICIAS",CNN Internacional
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Internacional
 http://46.151.196.223:14112
-#EXTINF:-1 group-title="NOTICIAS",CNN INTERNACIONAL 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN INTERNACIONAL 2
 http://46.151.196.223:14113
-#EXTINF:-1 group-title="GERAL",TV5 Monde
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV5 Monde
 http://46.151.196.223:14114
-#EXTINF:-1 group-title="GERAL",SIC
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",SIC
 http://46.151.196.223:14115
-#EXTINF:-1 group-title="GERAL",Rai italia
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Rai italia
 http://46.151.196.223:14117
-#EXTINF:-1 group-title="GERAL",Rai Italia 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Rai Italia 2
 http://46.151.196.223:14118
-#EXTINF:-1 group-title="GERAL",France 24
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",France 24
 http://46.151.196.223:14119
-#EXTINF:-1 group-title="GERAL",France 24 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",France 24 2
 http://46.151.196.223:14120
-#EXTINF:-1 group-title="GERAL",Unknown 121
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Unknown 121
 http://46.151.196.223:14121
-#EXTINF:-1 group-title="GERAL",Bloomberg
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Bloomberg
 http://46.151.196.223:14122
-#EXTINF:-1 group-title="GERAL",Bloomberg 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_15_bandnews.png" group-title="Noticias",Bloomberg 2
 http://46.151.196.223:14123
-#EXTINF:-1 group-title="GERAL",CazeTV
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",CazeTV
 http://46.151.196.223:14124
-#EXTINF:-1 group-title="GERAL",CazeTV 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",CazeTV 2
 http://46.151.196.223:14125
-#EXTINF:-1 group-title="FILMES",Paramount Plus
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",Paramount Plus
 http://46.151.196.223:14127
-#EXTINF:-1 group-title="FILMES",Paramount Plus 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",Paramount Plus 2
 http://46.151.196.223:14128
-#EXTINF:-1 group-title="FILMES",Paramount Plus 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",Paramount Plus 3
 http://46.151.196.223:14129
-#EXTINF:-1 group-title="FILMES",Paramount Plus4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",Paramount Plus4
 http://46.151.196.223:14130
-#EXTINF:-1 group-title="FILMES",Paramount 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",Paramount 1
 http://46.151.196.223:14131
-#EXTINF:-1 group-title="FILMES",Prime Vídeo 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_105_megapix.png" group-title="Filmes",Prime Vídeo 1
 http://46.151.196.223:14132
-#EXTINF:-1 group-title="FILMES",Prime Vídeo 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_105_megapix.png" group-title="Filmes",Prime Vídeo 2
 http://46.151.196.223:14133
-#EXTINF:-1 group-title="FILMES",Amazon Prime
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_105_megapix.png" group-title="Filmes",Amazon Prime
 http://46.151.196.223:14134
-#EXTINF:-1 group-title="ESPORTES",Goat 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Goat 1
 http://46.151.196.223:14146
-#EXTINF:-1 group-title="ESPORTES",Goat 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Goat 2
 http://46.151.196.223:14148
-#EXTINF:-1 group-title="ESPORTES",Goat 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Goat 3
 http://46.151.196.223:14149
-#EXTINF:-1 group-title="ESPORTES",Nsports
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Nsports
 http://46.151.196.223:14152
-#EXTINF:-1 group-title="ESPORTES",Premiere 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_121_premiere.png" group-title="Esportes",Premiere 2
 http://46.151.196.223:14196
-#EXTINF:-1 group-title="ESPORTES",Premiere 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_121_premiere.png" group-title="Esportes",Premiere 3
 http://46.151.196.223:14197
-#EXTINF:-1 group-title="GERAL",RecordTV 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV 3
 http://46.151.196.223:14198
-#EXTINF:-1 group-title="GERAL",RecordTV 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV 4
 http://46.151.196.223:14199
-#EXTINF:-1 group-title="GERAL",RecordTV 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV 6
 http://46.151.196.223:14200
-#EXTINF:-1 group-title="GERAL",RecordTV 7
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV 7
 http://46.151.196.223:14202
-#EXTINF:-1 group-title="GERAL",RecordTV 9
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV 9
 http://46.151.196.223:14203
-#EXTINF:-1 group-title="GERAL",RecordTV 10
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",RecordTV 10
 http://46.151.196.223:14204
-#EXTINF:-1 group-title="GERAL",SBT HD7
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_139_sbt.png" group-title="TV Aberta",SBT HD7
 http://46.151.196.223:14273
-#EXTINF:-1 group-title="ESPORTES",SporTV HD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",SporTV HD
 http://46.151.196.223:14558
-#EXTINF:-1 group-title="ESPORTES",SporTV FHD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",SporTV FHD
 http://46.151.196.223:14284
-#EXTINF:-1 group-title="ESPORTES",SporTV SD
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",SporTV SD
 http://46.151.196.223:14285
-#EXTINF:-1 group-title="ESPORTES",SporTV 1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",SporTV 1
 http://46.151.196.223:14286
-#EXTINF:-1 group-title="ESPORTES",SporTV 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_144_sportv2.png" group-title="Esportes",SporTV 2
 http://46.151.196.223:14287
-#EXTINF:-1 group-title="ESPORTES",SporTV 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_145_sportv3.png" group-title="Esportes",SporTV 3
 http://46.151.196.223:14288
-#EXTINF:-1 group-title="FILMES",TelecineAction
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_152_telecineaction.png" group-title="Filmes",TelecineAction
 http://46.151.196.223:14326
-#EXTINF:-1 group-title="FILMES",TelecineAction 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_152_telecineaction.png" group-title="Filmes",TelecineAction 2
 http://46.151.196.223:14327
-#EXTINF:-1 group-title="GERAL",sbt 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_139_sbt.png" group-title="TV Aberta",sbt 2
 http://46.151.196.223:14328
-#EXTINF:-1 group-title="FILMES",TelecineAction 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_152_telecineaction.png" group-title="Filmes",TelecineAction 3
 http://46.151.196.223:14329
-#EXTINF:-1 group-title="FILMES",TelecineCult
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_153_telecinecult.png" group-title="Filmes",TelecineCult
 http://46.151.196.223:14333
-#EXTINF:-1 group-title="FILMES",TelecineCult 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_153_telecinecult.png" group-title="Filmes",TelecineCult 2
 http://46.151.196.223:14334
-#EXTINF:-1 group-title="FILMES",TelecineCult 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_153_telecinecult.png" group-title="Filmes",TelecineCult 3
 http://46.151.196.223:14335
-#EXTINF:-1 group-title="FILMES",TelecineFun
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_154_telecinefun.png" group-title="Filmes",TelecineFun
 http://46.151.196.223:14337
-#EXTINF:-1 group-title="FILMES",TelecineFun 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_154_telecinefun.png" group-title="Filmes",TelecineFun 2
 http://46.151.196.223:14338
-#EXTINF:-1 group-title="FILMES",TelecineFun 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_154_telecinefun.png" group-title="Filmes",TelecineFun 3
 http://46.151.196.223:14339
-#EXTINF:-1 group-title="FILMES",TelecineFun 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_154_telecinefun.png" group-title="Filmes",TelecineFun 4
 http://46.151.196.223:14340
-#EXTINF:-1 group-title="FILMES",TelecineFun 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_154_telecinefun.png" group-title="Filmes",TelecineFun 5
 http://46.151.196.223:14341
-#EXTINF:-1 group-title="FILMES",TelecinePipoca
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_155_telecinepipoca.png" group-title="Filmes",TelecinePipoca
 http://46.151.196.223:14343
-#EXTINF:-1 group-title="FILMES",TelecinePipoca 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_155_telecinepipoca.png" group-title="Filmes",TelecinePipoca 2
 http://46.151.196.223:14344
-#EXTINF:-1 group-title="FILMES",TelecinePipoca 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_155_telecinepipoca.png" group-title="Filmes",TelecinePipoca 3
 http://46.151.196.223:14345
-#EXTINF:-1 group-title="FILMES",TelecinePipoca 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_155_telecinepipoca.png" group-title="Filmes",TelecinePipoca 4
 http://46.151.196.223:14346
-#EXTINF:-1 group-title="FILMES",TelecinePipoca 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_155_telecinepipoca.png" group-title="Filmes",TelecinePipoca 5
 http://46.151.196.223:14347
-#EXTINF:-1 group-title="FILMES",TelecinePremium
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_156_telecinepremium.png" group-title="Filmes",TelecinePremium
 http://46.151.196.223:14349
-#EXTINF:-1 group-title="FILMES",TelecinePremium 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_156_telecinepremium.png" group-title="Filmes",TelecinePremium 2
 http://46.151.196.223:14350
-#EXTINF:-1 group-title="FILMES",TelecinePremium 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_156_telecinepremium.png" group-title="Filmes",TelecinePremium 3
 http://46.151.196.223:14351
-#EXTINF:-1 group-title="FILMES",TelecinePremium 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_156_telecinepremium.png" group-title="Filmes",TelecinePremium 4
 http://46.151.196.223:14352
-#EXTINF:-1 group-title="FILMES",TelecineTouch
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_157_telecinetouch.png" group-title="Filmes",TelecineTouch
 http://46.151.196.223:14354
-#EXTINF:-1 group-title="FILMES",TelecineTouch 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_157_telecinetouch.png" group-title="Filmes",TelecineTouch 2
 http://46.151.196.223:14355
-#EXTINF:-1 group-title="FILMES",Telecine Touch
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_157_telecinetouch.png" group-title="Filmes",Telecine Touch
 http://46.151.196.223:14356
-#EXTINF:-1 group-title="FILMES",Telecine Touch 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_157_telecinetouch.png" group-title="Filmes",Telecine Touch 2
 http://46.151.196.223:14357
-#EXTINF:-1 group-title="FILMES",Telecine Touch 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_157_telecinetouch.png" group-title="Filmes",Telecine Touch 3
 http://46.151.196.223:14358
-#EXTINF:-1 group-title="FILMES",Telecine Touch 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_157_telecinetouch.png" group-title="Filmes",Telecine Touch 4
 http://46.151.196.223:14359
-#EXTINF:-1 group-title="GERAL",Arte1
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Arte1
 http://46.151.196.223:14360
-#EXTINF:-1 group-title="GERAL",Arte1 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Arte1 2
 http://46.151.196.223:14361
-#EXTINF:-1 group-title="GERAL",Arte1 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Arte1 3
 http://46.151.196.223:14362
-#EXTINF:-1 group-title="GERAL",Arte1 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Arte1 4
 http://46.151.196.223:14363
-#EXTINF:-1 group-title="GERAL",Arte1 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Arte1 5
 http://46.151.196.223:14364
-#EXTINF:-1 group-title="GERAL",Arte1 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Arte1 6
 http://46.151.196.223:14365
-#EXTINF:-1 group-title="ESPORTES",ESPN
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_67_espn.png" group-title="Esportes",ESPN
 http://46.151.196.223:14366
-#EXTINF:-1 group-title="ESPORTES",NBA 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 6
 http://46.151.196.223:14367
-#EXTINF:-1 group-title="ESPORTES",NBA 7
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 7
 http://46.151.196.223:14368
-#EXTINF:-1 group-title="GERAL",Comedy Central
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Comedy Central
 http://46.151.196.223:14369
-#EXTINF:-1 group-title="ESPORTES",Nfl
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Nfl
 http://46.151.196.223:14370
-#EXTINF:-1 group-title="ESPORTES",NBA 8
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Esportes",NBA 8
 http://46.151.196.223:14372
-#EXTINF:-1 group-title="GERAL",Curta
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Curta
 http://46.151.196.223:14373
-#EXTINF:-1 group-title="GERAL",Curta 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",Curta 2
 http://46.151.196.223:14374
-#EXTINF:-1 group-title="KIDS",Dogtv
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_84_gloob.png" group-title="Infantil",Dogtv
 http://46.151.196.223:14381
-#EXTINF:-1 group-title="KIDS",Dogtv 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_84_gloob.png" group-title="Infantil",Dogtv 2
 http://46.151.196.223:14382
-#EXTINF:-1 group-title="KIDS",Dogtv 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_84_gloob.png" group-title="Infantil",Dogtv 3
 http://46.151.196.223:14383
-#EXTINF:-1 group-title="KIDS",Dogtv 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_84_gloob.png" group-title="Infantil",Dogtv 4
 http://46.151.196.223:14384
-#EXTINF:-1 group-title="GERAL",E!
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",E!
 http://46.151.196.223:14385
-#EXTINF:-1 group-title="GERAL",E! 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_11_arte1.png" group-title="Entretenimento",E! 2
 http://46.151.196.223:14386
-#EXTINF:-1 group-title="FILMES",Paramount+
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",Paramount+
 http://46.151.196.223:14392
-#EXTINF:-1 group-title="ESPORTES",Goat 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Goat 4
 http://46.151.196.223:14401
-#EXTINF:-1 group-title="GERAL",Record
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",Record
 http://46.151.196.223:14403
-#EXTINF:-1 group-title="GERAL",Record Brasilia
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_133_record.png" group-title="TV Aberta",Record Brasilia
 http://46.151.196.223:14404
-#EXTINF:-1 group-title="GERAL",History
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_98_history.png" group-title="Documentarios",History
 http://46.151.196.223:14409
-#EXTINF:-1 group-title="GERAL",History 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_99_history2.png" group-title="Documentarios",History 2
 http://46.151.196.223:14410
-#EXTINF:-1 group-title="GERAL",History 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_98_history.png" group-title="Documentarios",History 3
 http://46.151.196.223:14411
-#EXTINF:-1 group-title="GERAL",History 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_98_history.png" group-title="Documentarios",History 4
 http://46.151.196.223:14412
-#EXTINF:-1 group-title="GERAL",History 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_98_history.png" group-title="Documentarios",History 5
 http://46.151.196.223:14413
-#EXTINF:-1 group-title="ESPORTES",Dazn2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Dazn2
 http://46.151.196.223:14421
-#EXTINF:-1 group-title="ESPORTES",Dazn3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Dazn3
 http://46.151.196.223:14422
-#EXTINF:-1 group-title="ESPORTES",Dazn4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Dazn4
 http://46.151.196.223:14423
-#EXTINF:-1 group-title="ESPORTES",Dazn5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_143_sportv.png" group-title="Esportes",Dazn5
 http://46.151.196.223:14424
-#EXTINF:-1 group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN 2
 http://46.151.196.223:14432
-#EXTINF:-1 group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN 3
 http://46.151.196.223:14433
-#EXTINF:-1 group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN 4
 http://46.151.196.223:14435
-#EXTINF:-1 group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN 5
 http://46.151.196.223:14449
-#EXTINF:-1 group-title="ESPORTES",ESPN2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN2
 http://46.151.196.223:14438
-#EXTINF:-1 group-title="ESPORTES",ESPN2 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN2 2
 http://46.151.196.223:14440
-#EXTINF:-1 group-title="ESPORTES",ESPN2 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN2 3
 http://46.151.196.223:14441
-#EXTINF:-1 group-title="ESPORTES",ESPN3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN3
 http://46.151.196.223:14442
-#EXTINF:-1 group-title="ESPORTES",ESPN3 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN3 2
 http://46.151.196.223:14443
-#EXTINF:-1 group-title="ESPORTES",ESPN3 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN3 3
 http://46.151.196.223:14444
-#EXTINF:-1 group-title="ESPORTES",ESPN3 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN3 4
 http://46.151.196.223:14445
-#EXTINF:-1 group-title="ESPORTES",ESPN3 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN3 5
 http://46.151.196.223:14446
-#EXTINF:-1 group-title="ESPORTES",ESPN3 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN3 6
 http://46.151.196.223:14447
-#EXTINF:-1 group-title="ESPORTES",espn4 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",espn4 2
 http://46.151.196.223:14342
-#EXTINF:-1 group-title="ESPORTES",ESPN4 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN4 3
 http://46.151.196.223:14760
-#EXTINF:-1 group-title="ESPORTES",ESPN4 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN4 4
 http://46.151.196.223:14448
-#EXTINF:-1 group-title="ESPORTES",ESPN4 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN4 5
 http://46.151.196.223:14450
-#EXTINF:-1 group-title="ESPORTES",ESPN4 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN4 6
 http://46.151.196.223:14451
-#EXTINF:-1 group-title="ESPORTES",ESPN5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN5
 http://46.151.196.223:14457
-#EXTINF:-1 group-title="ESPORTES",ESPN5 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN5 2
 http://46.151.196.223:14458
-#EXTINF:-1 group-title="ESPORTES",ESPN5 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN5 3
 http://46.151.196.223:14459
-#EXTINF:-1 group-title="ESPORTES",ESPN6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN6
 http://46.151.196.223:14460
-#EXTINF:-1 group-title="ESPORTES",ESPN6 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN6 2
 http://46.151.196.223:14461
-#EXTINF:-1 group-title="ESPORTES",ESPN6 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN6 3
 http://46.151.196.223:14462
-#EXTINF:-1 group-title="ESPORTES",ESPN6 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN6 4
 http://46.151.196.223:14463
-#EXTINF:-1 group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_71_espn5.png" group-title="Esportes",ESPN 6
 http://46.151.196.223:14495
-#EXTINF:-1 group-title="NOTICIAS",RecordNews
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_134_recordnews.png" group-title="Noticias",RecordNews
 http://46.151.196.223:14500
-#EXTINF:-1 group-title="ENTRETENIMENTO",Viva
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_138_redevida.png" group-title="Entretenimento",Viva
 http://46.151.196.223:14502
-#EXTINF:-1 group-title="GERAL",Unknown 504
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Unknown 504
 http://46.151.196.223:14504
-#EXTINF:-1 group-title="GERAL",RedeTV
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_137_redetv.png" group-title="TV Aberta",RedeTV
 http://46.151.196.223:14512
-#EXTINF:-1 group-title="GERAL",Globo SP
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo SP
 http://46.151.196.223:14514
-#EXTINF:-1 group-title="GERAL",Unknown 523
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Unknown 523
 http://46.151.196.223:14523
-#EXTINF:-1 group-title="GERAL",Unknown 526
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Unknown 526
 http://46.151.196.223:14526
-#EXTINF:-1 group-title="GERAL",RedeTV 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_137_redetv.png" group-title="TV Aberta",RedeTV 2
 http://46.151.196.223:14529
-#EXTINF:-1 group-title="ESPORTES",Combate
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_44_combate.png" group-title="Esportes",Combate
 http://46.151.196.223:14543
-#EXTINF:-1 group-title="ESPORTES",ESPN2 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_70_espn4.png" group-title="Esportes",ESPN2 4
 http://46.151.196.223:14553
-#EXTINF:-1 group-title="ESPORTES",ESPN 7
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_67_espn.png" group-title="Esportes",ESPN 7
 http://46.151.196.223:14554
-#EXTINF:-1 group-title="NOTICIAS",CNN Internacional 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_42_cnnbrasil.png" group-title="Noticias",CNN Internacional 3
 http://46.151.196.223:14565
-#EXTINF:-1 group-title="GERAL",TV Globo
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo
 http://46.151.196.223:14577
-#EXTINF:-1 group-title="ESPORTES",Premiere 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_121_premiere.png" group-title="Esportes",Premiere 4
 http://46.151.196.223:14582
-#EXTINF:-1 group-title="GERAL",Tv Globo 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Tv Globo 2
 http://46.151.196.223:14584
-#EXTINF:-1 group-title="ESPORTES",Premiere 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_121_premiere.png" group-title="Esportes",Premiere 5
 http://46.151.196.223:14588
-#EXTINF:-1 group-title="FILMES",SonyChannel
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_140_sonychannel.png" group-title="Filmes",SonyChannel
 http://46.151.196.223:14601
-#EXTINF:-1 group-title="FILMES",SonyChannel 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_140_sonychannel.png" group-title="Filmes",SonyChannel 2
 http://46.151.196.223:14603
-#EXTINF:-1 group-title="FILMES",SonyChannel 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_140_sonychannel.png" group-title="Filmes",SonyChannel 3
 http://46.151.196.223:14604
-#EXTINF:-1 group-title="FILMES",SonyChannel 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_140_sonychannel.png" group-title="Filmes",SonyChannel 4
 http://46.151.196.223:14605
-#EXTINF:-1 group-title="FILMES",SonyChannel 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_140_sonychannel.png" group-title="Filmes",SonyChannel 5
 http://46.151.196.223:14606
-#EXTINF:-1 group-title="FILMES",Space
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Filmes",Space
 http://46.151.196.223:14607
-#EXTINF:-1 group-title="FILMES",Space 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Filmes",Space 2
 http://46.151.196.223:14608
-#EXTINF:-1 group-title="FILMES",Space 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Filmes",Space 3
 http://46.151.196.223:14609
-#EXTINF:-1 group-title="FILMES",Space 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Filmes",Space 4
 http://46.151.196.223:14610
-#EXTINF:-1 group-title="FILMES",Space 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Filmes",Space 5
 http://46.151.196.223:14611
-#EXTINF:-1 group-title="FILMES",Space 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_142_space.png" group-title="Filmes",Space 6
 http://46.151.196.223:14612
-#EXTINF:-1 group-title="FILMES",StudioUniversal
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_150_studiouniversal.png" group-title="Filmes",StudioUniversal
 http://46.151.196.223:14613
-#EXTINF:-1 group-title="GERAL",Tv Globo 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Tv Globo 3
 http://46.151.196.223:14614
-#EXTINF:-1 group-title="GERAL",Unknown 622
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Unknown 622
 http://46.151.196.223:14622
-#EXTINF:-1 group-title="FILMES",AMC
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_8_amc.png" group-title="Filmes",AMC
 http://46.151.196.223:14636
-#EXTINF:-1 group-title="GERAL",tv globo 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",tv globo 4
 http://46.151.196.223:14664
-#EXTINF:-1 group-title="GERAL",Unknown 683
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Unknown 683
 http://46.151.196.223:14683
-#EXTINF:-1 group-title="GERAL",Universal Premiere
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_176_universaltv.png" group-title="TV Aberta",Universal Premiere
 http://46.151.196.223:14684
-#EXTINF:-1 group-title="ESPORTES",ESPN 3 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_69_espn3.png" group-title="Esportes",ESPN 3 3
 http://46.151.196.223:14701
-#EXTINF:-1 group-title="GERAL",TV Globo 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 5
 http://46.151.196.223:14748
-#EXTINF:-1 group-title="GERAL",Globo
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo
 http://46.151.196.223:14857
-#EXTINF:-1 group-title="GERAL",Globo 2
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 2
 http://46.151.196.223:14858
-#EXTINF:-1 group-title="GERAL",Globo 3
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 3
 http://46.151.196.223:14859
-#EXTINF:-1 group-title="GERAL",Globo 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 4
 http://46.151.196.223:14860
-#EXTINF:-1 group-title="GERAL",TV Globo 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 6
 http://46.151.196.223:14861
-#EXTINF:-1 group-title="GERAL",Globo 5
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 5
 http://46.151.196.223:14862
-#EXTINF:-1 group-title="GERAL",Globo 6
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 6
 http://46.151.196.223:14866
-#EXTINF:-1 group-title="GERAL",TV GLOBO 7
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV GLOBO 7
 http://46.151.196.223:14867
-#EXTINF:-1 group-title="GERAL",Globo 7
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 7
 http://46.151.196.223:14868
-#EXTINF:-1 group-title="GERAL",Globo 8
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 8
 http://46.151.196.223:14869
-#EXTINF:-1 group-title="GERAL",Globo 9
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 9
 http://46.151.196.223:14870
-#EXTINF:-1 group-title="GERAL",Globo 10
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",Globo 10
 http://46.151.196.223:14871
-#EXTINF:-1 group-title="GERAL",TV Globo 8
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 8
 http://46.151.196.223:14872
-#EXTINF:-1 group-title="GERAL",TV Globo 9
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 9
 http://46.151.196.223:14873
-#EXTINF:-1 group-title="GERAL",TV Globo 10
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 10
 http://46.151.196.223:14874
-#EXTINF:-1 group-title="GERAL",TV Globo 11
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 11
 http://46.151.196.223:14875
-#EXTINF:-1 group-title="GERAL",TV Globo 12
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 12
 http://46.151.196.223:14876
-#EXTINF:-1 group-title="GERAL",TV Globo 13
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 13
 http://46.151.196.223:14877
-#EXTINF:-1 group-title="GERAL",TV Globo 14
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 14
 http://46.151.196.223:14878
-#EXTINF:-1 group-title="GERAL",TV Globo 15
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 15
 http://46.151.196.223:14879
-#EXTINF:-1 group-title="GERAL",TV Globo 16
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 16
 http://46.151.196.223:14880
-#EXTINF:-1 group-title="GERAL",TV Globo 17
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 17
 http://46.151.196.223:14881
-#EXTINF:-1 group-title="GERAL",TV Globo 18
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 18
 http://46.151.196.223:14882
-#EXTINF:-1 group-title="GERAL",TV Globo 19
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 19
 http://46.151.196.223:14883
-#EXTINF:-1 group-title="GERAL",TV Globo 20
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 20
 http://46.151.196.223:14884
-#EXTINF:-1 group-title="GERAL",TV Globo 21
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 21
 http://46.151.196.223:14885
-#EXTINF:-1 group-title="GERAL",TV Globo 22
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 22
 http://46.151.196.223:14886
-#EXTINF:-1 group-title="GERAL",TV Globo 23
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 23
 http://46.151.196.223:14887
-#EXTINF:-1 group-title="GERAL",TV Globo 24
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 24
 http://46.151.196.223:14888
-#EXTINF:-1 group-title="GERAL",TV Globo 25
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_80_globo.png" group-title="TV Aberta",TV Globo 25
 http://46.151.196.223:14889
-#EXTINF:-1 group-title="FILMES",HBO_SIGNATURE
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_93_hboplus.png" group-title="Filmes",HBO_SIGNATURE
 http://46.151.196.223:14929
-#EXTINF:-1 group-title="FILMES",TelecineAction 4
+#EXTINF:-1 tvg-logo="https://www.canaistv.fun/assets/assets/Imagens/imgi_152_telecineaction.png" group-title="Filmes",TelecineAction 4
 http://46.151.196.223:14979
-#EXTINF:-1 group-title="GERAL",Falta definir
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="TV Aberta",Falta definir
 http://46.151.196.223:14995
