@@ -1,364 +1,2074 @@
-
 [
   {
     "id": "1",
     "name": "SBT HD",
     "url": "http://46.151.196.223:14004",
-    "logo": "",
-    "category": "GERAL",
+    "logo": "assets/Imagens/imgi_139_sbt.png",
+    "category": "TV Aberta",
     "channelNumber": "1"
   },
   {
     "id": "2",
     "name": "SBT SD",
     "url": "http://46.151.196.223:14006",
-    "logo": "",
-    "category": "GERAL",
+    "logo": "assets/Imagens/imgi_139_sbt.png",
+    "category": "TV Aberta",
     "channelNumber": "2"
   },
   {
     "id": "3",
     "name": "NBA 1",
     "url": "http://46.151.196.223:14036",
-    "logo": "",
-    "category": "ESPORTES",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
     "channelNumber": "3"
   },
   {
     "id": "4",
     "name": "Pluto tv",
     "url": "http://46.151.196.223:14037",
-    "logo": "",
-    "category": "GERAL",
+    "logo": "assets/Imagens/24h.png",
+    "category": "Entretenimento",
     "channelNumber": "4"
   },
   {
     "id": "5",
     "name": "NBA 2",
     "url": "http://46.151.196.223:14038",
-    "logo": "",
-    "category": "ESPORTES",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
     "channelNumber": "5"
   },
   {
     "id": "6",
     "name": "Variedades",
     "url": "http://46.151.196.223:14039",
-    "logo": "",
-    "category": "GERAL",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
     "channelNumber": "6"
   },
   {
     "id": "7",
     "name": "Infantil 1",
     "url": "http://46.151.196.223:14040",
-    "logo": "",
-    "category": "KIDS",
+    "logo": "assets/Imagens/imgi_84_gloob.png",
+    "category": "Infantil",
     "channelNumber": "7"
   },
   {
     "id": "8",
     "name": "NBA 3",
     "url": "http://46.151.196.223:14041",
-    "logo": "",
-    "category": "ESPORTES",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
     "channelNumber": "8"
   },
   {
     "id": "9",
     "name": "NBA 4",
     "url": "http://46.151.196.223:14042",
-    "logo": "",
-    "category": "ESPORTES",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
     "channelNumber": "9"
   },
   {
     "id": "10",
     "name": "MULTISHOW",
     "url": "http://46.151.196.223:14043",
-    "logo": "",
-    "category": "ENTRETENIMENTO",
+    "logo": "assets/Imagens/imgi_110_multishow.png",
+    "category": "Entretenimento",
     "channelNumber": "10"
   },
   {
     "id": "11",
     "name": "Multishow 2",
     "url": "http://46.151.196.223:14044",
-    "logo": "",
-    "category": "ENTRETENIMENTO",
+    "logo": "assets/Imagens/imgi_110_multishow.png",
+    "category": "Entretenimento",
     "channelNumber": "11"
   },
   {
     "id": "12",
     "name": "MULTISHOW 3",
     "url": "http://46.151.196.223:14045",
-    "logo": "",
-    "category": "ENTRETENIMENTO",
+    "logo": "assets/Imagens/imgi_110_multishow.png",
+    "category": "Entretenimento",
     "channelNumber": "12"
   },
   {
     "id": "13",
     "name": "MULTISHOW 4",
     "url": "http://46.151.196.223:14046",
-    "logo": "",
-    "category": "ENTRETENIMENTO",
+    "logo": "assets/Imagens/imgi_110_multishow.png",
+    "category": "Entretenimento",
     "channelNumber": "13"
   },
   {
     "id": "14",
     "name": "MULTISHOW 5",
     "url": "http://46.151.196.223:14047",
-    "logo": "",
-    "category": "ENTRETENIMENTO",
+    "logo": "assets/Imagens/imgi_110_multishow.png",
+    "category": "Entretenimento",
     "channelNumber": "14"
   },
   {
     "id": "15",
     "name": "Multishow 6",
     "url": "http://46.151.196.223:14048",
-    "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "15" },
-  { "id": "16", "name": "box music 1", "url": "http://46.151.196.223:14049", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "16" },
-  { "id": "17", "name": "MUSIC_BOX", "url": "http://46.151.196.223:14050", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "17" },
-  { "id": "18", "name": "Music Box Brazil", "url": "http://46.151.196.223:14051", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "18" },
-  { "id": "19", "name": "Music Box Brazil 2", "url": "http://46.151.196.223:14052", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "19" },
-  { "id": "20", "name": "Music Box Brazil 3", "url": "http://46.151.196.223:14053", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "20" },
-  { "id": "21", "name": "Music Box Brazil 4", "url": "http://46.151.196.223:14054", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "21" },
-  { "id": "22", "name": "Box prime 1", "url": "http://46.151.196.223:14055", "logo": "", "category": "FILMES", "channelNumber": "22" },
-  { "id": "23", "name": "Box prime 2", "url": "http://46.151.196.223:14056", "logo": "", "category": "FILMES", "channelNumber": "23" },
-  { "id": "24", "name": "TravelBoxBrazil", "url": "http://46.151.196.223:14061", "logo": "", "category": "GERAL", "channelNumber": "24" },
-  { "id": "25", "name": "Travel", "url": "http://46.151.196.223:14062", "logo": "", "category": "GERAL", "channelNumber": "25" },
-  { "id": "26", "name": "Travel 2", "url": "http://46.151.196.223:14063", "logo": "", "category": "GERAL", "channelNumber": "26" },
-  { "id": "27", "name": "Mtv", "url": "http://46.151.196.223:14072", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "27" },
-  { "id": "28", "name": "NBA", "url": "http://46.151.196.223:14073", "logo": "", "category": "ESPORTES", "channelNumber": "28" },
-  { "id": "29", "name": "Discovery Channel", "url": "http://46.151.196.223:14074", "logo": "", "category": "GERAL", "channelNumber": "29" },
-  { "id": "30", "name": "Band FHD", "url": "http://46.151.196.223:14076", "logo": "", "category": "GERAL", "channelNumber": "30" },
-  { "id": "31", "name": "Band SD", "url": "http://46.151.196.223:14077", "logo": "", "category": "GERAL", "channelNumber": "31" },
-  { "id": "32", "name": "Band News HD", "url": "http://46.151.196.223:14078", "logo": "", "category": "NOTICIAS", "channelNumber": "32" },
-  { "id": "33", "name": "Band News FHD", "url": "http://46.151.196.223:14079", "logo": "", "category": "NOTICIAS", "channelNumber": "33" },
-  { "id": "34", "name": "Band News SD", "url": "http://46.151.196.223:14080", "logo": "", "category": "NOTICIAS", "channelNumber": "34" },
-  { "id": "35", "name": "Band News HD 1", "url": "http://46.151.196.223:14081", "logo": "", "category": "NOTICIAS", "channelNumber": "35" },
-  { "id": "36", "name": "Band News HD 2", "url": "http://46.151.196.223:14082", "logo": "", "category": "NOTICIAS", "channelNumber": "36" },
-  { "id": "37", "name": "Band News HD 3", "url": "http://46.151.196.223:14083", "logo": "", "category": "NOTICIAS", "channelNumber": "37" },
-  { "id": "38", "name": "CGNT", "url": "http://46.151.196.223:14084", "logo": "", "category": "GERAL", "channelNumber": "38" },
-  { "id": "39", "name": "CNN Brasil FHD", "url": "http://46.151.196.223:14085", "logo": "", "category": "NOTICIAS", "channelNumber": "39" },
-  { "id": "40", "name": "CNN Brasil HD", "url": "http://46.151.196.223:14086", "logo": "", "category": "NOTICIAS", "channelNumber": "40" },
-  { "id": "41", "name": "CNN Brasil SD", "url": "http://46.151.196.223:14087", "logo": "", "category": "NOTICIAS", "channelNumber": "41" },
-  { "id": "42", "name": "CNN Brasil FHD 1", "url": "http://46.151.196.223:14088", "logo": "", "category": "NOTICIAS", "channelNumber": "42" },
-  { "id": "43", "name": "CNN Brasil FHD 2", "url": "http://46.151.196.223:14089", "logo": "", "category": "NOTICIAS", "channelNumber": "43" },
-  { "id": "44", "name": "CNN Brasil FHD 3", "url": "http://46.151.196.223:14090", "logo": "", "category": "NOTICIAS", "channelNumber": "44" },
-  { "id": "45", "name": "+SBT", "url": "http://46.151.196.223:14091", "logo": "", "category": "GERAL", "channelNumber": "45" },
-  { "id": "46", "name": "Globo News", "url": "http://46.151.196.223:14092", "logo": "", "category": "NOTICIAS", "channelNumber": "46" },
-  { "id": "47", "name": "GNT", "url": "http://46.151.196.223:14093", "logo": "", "category": "GERAL", "channelNumber": "47" },
-  { "id": "48", "name": "Globo News FHD", "url": "http://46.151.196.223:14094", "logo": "", "category": "NOTICIAS", "channelNumber": "48" },
-  { "id": "49", "name": "Globo News HD", "url": "http://46.151.196.223:14095", "logo": "", "category": "NOTICIAS", "channelNumber": "49" },
-  { "id": "50", "name": "Humor", "url": "http://46.151.196.223:14096", "logo": "", "category": "GERAL", "channelNumber": "50" },
-  { "id": "51", "name": "RecordTV HD", "url": "http://46.151.196.223:14097", "logo": "", "category": "GERAL", "channelNumber": "51" },
-  { "id": "52", "name": "Premiere", "url": "http://46.151.196.223:14098", "logo": "", "category": "ESPORTES", "channelNumber": "52" },
-  { "id": "53", "name": "Record News HD", "url": "http://46.151.196.223:14099", "logo": "", "category": "NOTICIAS", "channelNumber": "53" },
-  { "id": "54", "name": "Record News FHD", "url": "http://46.151.196.223:14100", "logo": "", "category": "NOTICIAS", "channelNumber": "54" },
-  { "id": "55", "name": "Record News HD 1", "url": "http://46.151.196.223:14101", "logo": "", "category": "NOTICIAS", "channelNumber": "55" },
-  { "id": "56", "name": "Record News HD 2", "url": "http://46.151.196.223:14102", "logo": "", "category": "NOTICIAS", "channelNumber": "56" },
-  { "id": "57", "name": "Record News HD 3", "url": "http://46.151.196.223:14103", "logo": "", "category": "NOTICIAS", "channelNumber": "57" },
-  { "id": "58", "name": "Record News HD 4", "url": "http://46.151.196.223:14104", "logo": "", "category": "NOTICIAS", "channelNumber": "58" },
-  { "id": "59", "name": "Jovem Pan News", "url": "http://46.151.196.223:14105", "logo": "", "category": "NOTICIAS", "channelNumber": "59" },
-  { "id": "60", "name": "Jovem Pan News 1", "url": "http://46.151.196.223:14106", "logo": "", "category": "NOTICIAS", "channelNumber": "60" },
-  { "id": "61", "name": "Jovem Pan News 2", "url": "http://46.151.196.223:14107", "logo": "", "category": "NOTICIAS", "channelNumber": "61" },
-  { "id": "62", "name": "Jovem Pan News 3", "url": "http://46.151.196.223:14108", "logo": "", "category": "NOTICIAS", "channelNumber": "62" },
-  { "id": "63", "name": "Jovem Pan News 4", "url": "http://46.151.196.223:14109", "logo": "", "category": "NOTICIAS", "channelNumber": "63" },
-  { "id": "64", "name": "Jovem Pan News 5", "url": "http://46.151.196.223:14110", "logo": "", "category": "NOTICIAS", "channelNumber": "64" },
-  { "id": "65", "name": "CNN Internacional", "url": "http://46.151.196.223:14112", "logo": "", "category": "NOTICIAS", "channelNumber": "65" },
-  { "id": "66", "name": "CNN INTERNACIONAL 2", "url": "http://46.151.196.223:14113", "logo": "", "category": "NOTICIAS", "channelNumber": "66" },
-  { "id": "67", "name": "TV5 Monde", "url": "http://46.151.196.223:14114", "logo": "", "category": "GERAL", "channelNumber": "67" },
-  { "id": "68", "name": "SIC", "url": "http://46.151.196.223:14115", "logo": "", "category": "GERAL", "channelNumber": "68" },
-  { "id": "69", "name": "Rai italia", "url": "http://46.151.196.223:14117", "logo": "", "category": "GERAL", "channelNumber": "69" },
-  { "id": "70", "name": "Rai Italia 2", "url": "http://46.151.196.223:14118", "logo": "", "category": "GERAL", "channelNumber": "70" },
-  { "id": "71", "name": "France 24", "url": "http://46.151.196.223:14119", "logo": "", "category": "GERAL", "channelNumber": "71" },
-  { "id": "72", "name": "France 24 2", "url": "http://46.151.196.223:14120", "logo": "", "category": "GERAL", "channelNumber": "72" },
-  { "id": "73", "name": "Unknown 121", "url": "http://46.151.196.223:14121", "logo": "", "category": "GERAL", "channelNumber": "73" },
-  { "id": "74", "name": "Bloomberg", "url": "http://46.151.196.223:14122", "logo": "", "category": "GERAL", "channelNumber": "74" },
-  { "id": "75", "name": "Bloomberg 2", "url": "http://46.151.196.223:14123", "logo": "", "category": "GERAL", "channelNumber": "75" },
-  { "id": "76", "name": "CazeTV", "url": "http://46.151.196.223:14124", "logo": "", "category": "GERAL", "channelNumber": "76" },
-  { "id": "77", "name": "CazeTV 2", "url": "http://46.151.196.223:14125", "logo": "", "category": "GERAL", "channelNumber": "77" },
-  { "id": "78", "name": "Paramount Plus", "url": "http://46.151.196.223:14127", "logo": "", "category": "FILMES", "channelNumber": "78" },
-  { "id": "79", "name": "Paramount Plus 2", "url": "http://46.151.196.223:14128", "logo": "", "category": "FILMES", "channelNumber": "79" },
-  { "id": "80", "name": "Paramount Plus 3", "url": "http://46.151.196.223:14129", "logo": "", "category": "FILMES", "channelNumber": "80" },
-  { "id": "81", "name": "Paramount Plus4", "url": "http://46.151.196.223:14130", "logo": "", "category": "FILMES", "channelNumber": "81" },
-  { "id": "82", "name": "Paramount 1", "url": "http://46.151.196.223:14131", "logo": "", "category": "FILMES", "channelNumber": "82" },
-  { "id": "83", "name": "Prime Vídeo 1", "url": "http://46.151.196.223:14132", "logo": "", "category": "FILMES", "channelNumber": "83" },
-  { "id": "84", "name": "Prime Vídeo 2", "url": "http://46.151.196.223:14133", "logo": "", "category": "FILMES", "channelNumber": "84" },
-  { "id": "85", "name": "Amazon Prime", "url": "http://46.151.196.223:14134", "logo": "", "category": "FILMES", "channelNumber": "85" },
-  { "id": "86", "name": "Goat 1", "url": "http://46.151.196.223:14146", "logo": "", "category": "ESPORTES", "channelNumber": "86" },
-  { "id": "87", "name": "Goat 2", "url": "http://46.151.196.223:14148", "logo": "", "category": "ESPORTES", "channelNumber": "87" },
-  { "id": "88", "name": "Goat 3", "url": "http://46.151.196.223:14149", "logo": "", "category": "ESPORTES", "channelNumber": "88" },
-  { "id": "89", "name": "Nsports", "url": "http://46.151.196.223:14152", "logo": "", "category": "ESPORTES", "channelNumber": "89" },
-  { "id": "90", "name": "Premiere 2", "url": "http://46.151.196.223:14196", "logo": "", "category": "ESPORTES", "channelNumber": "90" },
-  { "id": "91", "name": "Premiere 2 2", "url": "http://46.151.196.223:14197", "logo": "", "category": "ESPORTES", "channelNumber": "91" },
-  { "id": "92", "name": "RecordTV 3", "url": "http://46.151.196.223:14198", "logo": "", "category": "GERAL", "channelNumber": "92" },
-  { "id": "93", "name": "RecordTV 4", "url": "http://46.151.196.223:14199", "logo": "", "category": "GERAL", "channelNumber": "93" },
-  { "id": "94", "name": "RecordTV 6", "url": "http://46.151.196.223:14200", "logo": "", "category": "GERAL", "channelNumber": "94" },
-  { "id": "95", "name": "RecordTV 7", "url": "http://46.151.196.223:14202", "logo": "", "category": "GERAL", "channelNumber": "95" },
-  { "id": "96", "name": "RecordTV 9", "url": "http://46.151.196.223:14203", "logo": "", "category": "GERAL", "channelNumber": "96" },
-  { "id": "97", "name": "RecordTV 10", "url": "http://46.151.196.223:14204", "logo": "", "category": "GERAL", "channelNumber": "97" },
-  { "id": "98", "name": "SBT HD7", "url": "http://46.151.196.223:14273", "logo": "", "category": "GERAL", "channelNumber": "98" },
-  { "id": "99", "name": "SporTV HD", "url": "http://46.151.196.223:14558", "logo": "", "category": "ESPORTES", "channelNumber": "99" },
-  { "id": "100", "name": "SporTV FHD", "url": "http://46.151.196.223:14284", "logo": "", "category": "ESPORTES", "channelNumber": "100" },
-  { "id": "101", "name": "SporTV SD", "url": "http://46.151.196.223:14285", "logo": "", "category": "ESPORTES", "channelNumber": "101" },
-  { "id": "102", "name": "SporTV 1", "url": "http://46.151.196.223:14286", "logo": "", "category": "ESPORTES", "channelNumber": "102" },
-  { "id": "103", "name": "SporTV 2", "url": "http://46.151.196.223:14287", "logo": "", "category": "ESPORTES", "channelNumber": "103" },
-  { "id": "104", "name": "SporTV 3", "url": "http://46.151.196.223:14288", "logo": "", "category": "ESPORTES", "channelNumber": "104" },
-  { "id": "105", "name": "TelecineAction", "url": "http://46.151.196.223:14326", "logo": "", "category": "FILMES", "channelNumber": "105" },
-  { "id": "106", "name": "TelecineAction 2", "url": "http://46.151.196.223:14327", "logo": "", "category": "FILMES", "channelNumber": "106" },
-  { "id": "107", "name": "sbt", "url": "http://46.151.196.223:14328", "logo": "", "category": "GERAL", "channelNumber": "107" },
-  { "id": "108", "name": "TelecineAction 3", "url": "http://46.151.196.223:14329", "logo": "", "category": "FILMES", "channelNumber": "108" },
-  { "id": "109", "name": "TelecineCult", "url": "http://46.151.196.223:14333", "logo": "", "category": "FILMES", "channelNumber": "109" },
-  { "id": "110", "name": "TelecineCult 2", "url": "http://46.151.196.223:14334", "logo": "", "category": "FILMES", "channelNumber": "110" },
-  { "id": "111", "name": "TelecineCult 3", "url": "http://46.151.196.223:14335", "logo": "", "category": "FILMES", "channelNumber": "111" },
-  { "id": "112", "name": "TelecineFun", "url": "http://46.151.196.223:14337", "logo": "", "category": "FILMES", "channelNumber": "112" },
-  { "id": "113", "name": "TelecineFun 2", "url": "http://46.151.196.223:14338", "logo": "", "category": "FILMES", "channelNumber": "113" },
-  { "id": "114", "name": "TelecineFun 3", "url": "http://46.151.196.223:14339", "logo": "", "category": "FILMES", "channelNumber": "114" },
-  { "id": "115", "name": "TelecineFun 4", "url": "http://46.151.196.223:14340", "logo": "", "category": "FILMES", "channelNumber": "115" },
-  { "id": "116", "name": "TelecineFun 5", "url": "http://46.151.196.223:14341", "logo": "", "category": "FILMES", "channelNumber": "116" },
-  { "id": "117", "name": "TelecinePipoca", "url": "http://46.151.196.223:14343", "logo": "", "category": "FILMES", "channelNumber": "117" },
-  { "id": "118", "name": "TelecinePipoca 2", "url": "http://46.151.196.223:14344", "logo": "", "category": "FILMES", "channelNumber": "118" },
-  { "id": "119", "name": "TelecinePipoca 3", "url": "http://46.151.196.223:14345", "logo": "", "category": "FILMES", "channelNumber": "119" },
-  { "id": "120", "name": "TelecinePipoca 4", "url": "http://46.151.196.223:14346", "logo": "", "category": "FILMES", "channelNumber": "120" },
-  { "id": "121", "name": "TelecinePipoca 5", "url": "http://46.151.196.223:14347", "logo": "", "category": "FILMES", "channelNumber": "121" },
-  { "id": "122", "name": "TelecinePremium", "url": "http://46.151.196.223:14349", "logo": "", "category": "FILMES", "channelNumber": "122" },
-  { "id": "123", "name": "TelecinePremium 2", "url": "http://46.151.196.223:14350", "logo": "", "category": "FILMES", "channelNumber": "123" },
-  { "id": "124", "name": "TelecinePremium 3", "url": "http://46.151.196.223:14351", "logo": "", "category": "FILMES", "channelNumber": "124" },
-  { "id": "125", "name": "TelecinePremium 4", "url": "http://46.151.196.223:14352", "logo": "", "category": "FILMES", "channelNumber": "125" },
-  { "id": "126", "name": "TelecineTouch", "url": "http://46.151.196.223:14354", "logo": "", "category": "FILMES", "channelNumber": "126" },
-  { "id": "127", "name": "TelecineTouch 2", "url": "http://46.151.196.223:14355", "logo": "", "category": "FILMES", "channelNumber": "127" },
-  { "id": "128", "name": "Telecine Touch", "url": "http://46.151.196.223:14356", "logo": "", "category": "FILMES", "channelNumber": "128" },
-  { "id": "129", "name": "Telecine Touch 2", "url": "http://46.151.196.223:14357", "logo": "", "category": "FILMES", "channelNumber": "129" },
-  { "id": "130", "name": "Telecine Touch 3", "url": "http://46.151.196.223:14358", "logo": "", "category": "FILMES", "channelNumber": "130" },
-  { "id": "131", "name": "Telecine Touch 4", "url": "http://46.151.196.223:14359", "logo": "", "category": "FILMES", "channelNumber": "131" },
-  { "id": "132", "name": "Arte1", "url": "http://46.151.196.223:14360", "logo": "", "category": "GERAL", "channelNumber": "132" },
-  { "id": "133", "name": "Arte1 2", "url": "http://46.151.196.223:14361", "logo": "", "category": "GERAL", "channelNumber": "133" },
-  { "id": "134", "name": "Arte1 3", "url": "http://46.151.196.223:14362", "logo": "", "category": "GERAL", "channelNumber": "134" },
-  { "id": "135", "name": "Arte1 4", "url": "http://46.151.196.223:14363", "logo": "", "category": "GERAL", "channelNumber": "135" },
-  { "id": "136", "name": "Arte1 5", "url": "http://46.151.196.223:14364", "logo": "", "category": "GERAL", "channelNumber": "136" },
-  { "id": "137", "name": "Arte1 6", "url": "http://46.151.196.223:14365", "logo": "", "category": "GERAL", "channelNumber": "137" },
-  { "id": "138", "name": "ESPN", "url": "http://46.151.196.223:14366", "logo": "", "category": "ESPORTES", "channelNumber": "138" },
-  { "id": "139", "name": "NBA 2 2", "url": "http://46.151.196.223:14367", "logo": "", "category": "ESPORTES", "channelNumber": "139" },
-  { "id": "140", "name": "NBA 3 2", "url": "http://46.151.196.223:14368", "logo": "", "category": "ESPORTES", "channelNumber": "140" },
-  { "id": "141", "name": "Comedy Central", "url": "http://46.151.196.223:14369", "logo": "", "category": "GERAL", "channelNumber": "141" },
-  { "id": "142", "name": "Nfl", "url": "http://46.151.196.223:14370", "logo": "", "category": "ESPORTES", "channelNumber": "142" },
-  { "id": "143", "name": "NBA 4 2", "url": "http://46.151.196.223:14372", "logo": "", "category": "ESPORTES", "channelNumber": "143" },
-  { "id": "144", "name": "Curta", "url": "http://46.151.196.223:14373", "logo": "", "category": "GERAL", "channelNumber": "144" },
-  { "id": "145", "name": "Curta 2", "url": "http://46.151.196.223:14374", "logo": "", "category": "GERAL", "channelNumber": "145" },
-  { "id": "146", "name": "Dogtv", "url": "http://46.151.196.223:14381", "logo": "", "category": "KIDS", "channelNumber": "146" },
-  { "id": "147", "name": "Dogtv 2", "url": "http://46.151.196.223:14382", "logo": "", "category": "KIDS", "channelNumber": "147" },
-  { "id": "148", "name": "Dogtv 3", "url": "http://46.151.196.223:14383", "logo": "", "category": "KIDS", "channelNumber": "148" },
-  { "id": "149", "name": "Dogtv 4", "url": "http://46.151.196.223:14384", "logo": "", "category": "KIDS", "channelNumber": "149" },
-  { "id": "150", "name": "E!", "url": "http://46.151.196.223:14385", "logo": "", "category": "GERAL", "channelNumber": "150" },
-  { "id": "151", "name": "E! 2", "url": "http://46.151.196.223:14386", "logo": "", "category": "GERAL", "channelNumber": "151" },
-  { "id": "152", "name": "Paramount+", "url": "http://46.151.196.223:14392", "logo": "", "category": "FILMES", "channelNumber": "152" },
-  { "id": "153", "name": "Goat", "url": "http://46.151.196.223:14401", "logo": "", "category": "ESPORTES", "channelNumber": "153" },
-  { "id": "154", "name": "Record", "url": "http://46.151.196.223:14403", "logo": "", "category": "GERAL", "channelNumber": "154" },
-  { "id": "155", "name": "Record Brasilia", "url": "http://46.151.196.223:14404", "logo": "", "category": "GERAL", "channelNumber": "155" },
-  { "id": "156", "name": "History", "url": "http://46.151.196.223:14409", "logo": "", "category": "GERAL", "channelNumber": "156" },
-  { "id": "157", "name": "History 2", "url": "http://46.151.196.223:14410", "logo": "", "category": "GERAL", "channelNumber": "157" },
-  { "id": "158", "name": "History 3", "url": "http://46.151.196.223:14411", "logo": "", "category": "GERAL", "channelNumber": "158" },
-  { "id": "159", "name": "History 4", "url": "http://46.151.196.223:14412", "logo": "", "category": "GERAL", "channelNumber": "159" },
-  { "id": "160", "name": "History 5", "url": "http://46.151.196.223:14413", "logo": "", "category": "GERAL", "channelNumber": "160" },
-  { "id": "161", "name": "Dazn2", "url": "http://46.151.196.223:14421", "logo": "", "category": "ESPORTES", "channelNumber": "161" },
-  { "id": "162", "name": "Dazn3", "url": "http://46.151.196.223:14422", "logo": "", "category": "ESPORTES", "channelNumber": "162" },
-  { "id": "163", "name": "Dazn4", "url": "http://46.151.196.223:14423", "logo": "", "category": "ESPORTES", "channelNumber": "163" },
-  { "id": "164", "name": "Dazn5", "url": "http://46.151.196.223:14424", "logo": "", "category": "ESPORTES", "channelNumber": "164" },
-  { "id": "165", "name": "ESPN 2", "url": "http://46.151.196.223:14432", "logo": "", "category": "ESPORTES", "channelNumber": "165" },
-  { "id": "166", "name": "ESPN 3", "url": "http://46.151.196.223:14433", "logo": "", "category": "ESPORTES", "channelNumber": "166" },
-  { "id": "167", "name": "ESPN 4", "url": "http://46.151.196.223:14435", "logo": "", "category": "ESPORTES", "channelNumber": "167" },
-  { "id": "168", "name": "ESPN 5", "url": "http://46.151.196.223:14449", "logo": "", "category": "ESPORTES", "channelNumber": "168" },
-  { "id": "169", "name": "ESPN2", "url": "http://46.151.196.223:14438", "logo": "", "category": "ESPORTES", "channelNumber": "169" },
-  { "id": "170", "name": "ESPN2 2", "url": "http://46.151.196.223:14440", "logo": "", "category": "ESPORTES", "channelNumber": "170" },
-  { "id": "171", "name": "ESPN2 3", "url": "http://46.151.196.223:14441", "logo": "", "category": "ESPORTES", "channelNumber": "171" },
-  { "id": "172", "name": "ESPN3", "url": "http://46.151.196.223:14442", "logo": "", "category": "ESPORTES", "channelNumber": "172" },
-  { "id": "173", "name": "ESPN3 2", "url": "http://46.151.196.223:14443", "logo": "", "category": "ESPORTES", "channelNumber": "173" },
-  { "id": "174", "name": "ESPN3 3", "url": "http://46.151.196.223:14444", "logo": "", "category": "ESPORTES", "channelNumber": "174" },
-  { "id": "175", "name": "ESPN3 4", "url": "http://46.151.196.223:14445", "logo": "", "category": "ESPORTES", "channelNumber": "175" },
-  { "id": "176", "name": "ESPN3 5", "url": "http://46.151.196.223:14446", "logo": "", "category": "ESPORTES", "channelNumber": "176" },
-  { "id": "177", "name": "ESPN3 6", "url": "http://46.151.196.223:14447", "logo": "", "category": "ESPORTES", "channelNumber": "177" },
-  { "id": "178", "name": "espn4", "url": "http://46.151.196.223:14342", "logo": "", "category": "ESPORTES", "channelNumber": "178" },
-  { "id": "179", "name": "ESPN4 2", "url": "http://46.151.196.223:14760", "logo": "", "category": "ESPORTES", "channelNumber": "179" },
-  { "id": "180", "name": "ESPN4 3", "url": "http://46.151.196.223:14448", "logo": "", "category": "ESPORTES", "channelNumber": "180" },
-  { "id": "181", "name": "ESPN4 4", "url": "http://46.151.196.223:14450", "logo": "", "category": "ESPORTES", "channelNumber": "181" },
-  { "id": "182", "name": "ESPN4 5", "url": "http://46.151.196.223:14451", "logo": "", "category": "ESPORTES", "channelNumber": "182" },
-  { "id": "183", "name": "ESPN5 2", "url": "http://46.151.196.223:14457", "logo": "", "category": "ESPORTES", "channelNumber": "183" },
-  { "id": "184", "name": "ESPN5 3", "url": "http://46.151.196.223:14458", "logo": "", "category": "ESPORTES", "channelNumber": "184" },
-  { "id": "185", "name": "ESPN5 4", "url": "http://46.151.196.223:14459", "logo": "", "category": "ESPORTES", "channelNumber": "185" },
-  { "id": "186", "name": "ESPN6", "url": "http://46.151.196.223:14460", "logo": "", "category": "ESPORTES", "channelNumber": "186" },
-  { "id": "187", "name": "ESPN6 2", "url": "http://46.151.196.223:14461", "logo": "", "category": "ESPORTES", "channelNumber": "187" },
-  { "id": "188", "name": "ESPN6 3", "url": "http://46.151.196.223:14462", "logo": "", "category": "ESPORTES", "channelNumber": "188" },
-  { "id": "189", "name": "ESPN6 4", "url": "http://46.151.196.223:14463", "logo": "", "category": "ESPORTES", "channelNumber": "189" },
-  { "id": "190", "name": "ESPN 6", "url": "http://46.151.196.223:14495", "logo": "", "category": "ESPORTES", "channelNumber": "190" },
-  { "id": "191", "name": "RecordNews", "url": "http://46.151.196.223:14500", "logo": "", "category": "NOTICIAS", "channelNumber": "191" },
-  { "id": "192", "name": "Viva", "url": "http://46.151.196.223:14502", "logo": "", "category": "ENTRETENIMENTO", "channelNumber": "192" },
-  { "id": "193", "name": "Unknown 504", "url": "http://46.151.196.223:14504", "logo": "", "category": "GERAL", "channelNumber": "193" },
-  { "id": "194", "name": "RedeTV", "url": "http://46.151.196.223:14512", "logo": "", "category": "GERAL", "channelNumber": "194" },
-  { "id": "195", "name": "Globo SP", "url": "http://46.151.196.223:14514", "logo": "", "category": "GERAL", "channelNumber": "195" },
-  { "id": "196", "name": "Unknown 523", "url": "http://46.151.196.223:14523", "logo": "", "category": "GERAL", "channelNumber": "196" },
-  { "id": "197", "name": "Unknown 526", "url": "http://46.151.196.223:14526", "logo": "", "category": "GERAL", "channelNumber": "197" },
-  { "id": "198", "name": "RedeTV 2", "url": "http://46.151.196.223:14529", "logo": "", "category": "GERAL", "channelNumber": "198" },
-  { "id": "199", "name": "Combate", "url": "http://46.151.196.223:14543", "logo": "", "category": "ESPORTES", "channelNumber": "199" },
-  { "id": "200", "name": "ESPN2 4", "url": "http://46.151.196.223:14553", "logo": "", "category": "ESPORTES", "channelNumber": "200" },
-  { "id": "201", "name": "ESPN 7", "url": "http://46.151.196.223:14554", "logo": "", "category": "ESPORTES", "channelNumber": "201" },
-  { "id": "202", "name": "CNN Internacional 3", "url": "http://46.151.196.223:14565", "logo": "", "category": "NOTICIAS", "channelNumber": "202" },
-  { "id": "203", "name": "TV Globo", "url": "http://46.151.196.223:14577", "logo": "", "category": "GERAL", "channelNumber": "203" },
-  { "id": "204", "name": "Premiere 3", "url": "http://46.151.196.223:14582", "logo": "", "category": "ESPORTES", "channelNumber": "204" },
-  { "id": "205", "name": "Tv Globo 2", "url": "http://46.151.196.223:14584", "logo": "", "category": "GERAL", "channelNumber": "205" },
-  { "id": "206", "name": "Premiere 4", "url": "http://46.151.196.223:14588", "logo": "", "category": "ESPORTES", "channelNumber": "206" },
-  { "id": "207", "name": "SonyChannel", "url": "http://46.151.196.223:14601", "logo": "", "category": "FILMES", "channelNumber": "207" },
-  { "id": "208", "name": "SonyChannel 2", "url": "http://46.151.196.223:14603", "logo": "", "category": "FILMES", "channelNumber": "208" },
-  { "id": "209", "name": "SonyChannel 3", "url": "http://46.151.196.223:14604", "logo": "", "category": "FILMES", "channelNumber": "209" },
-  { "id": "210", "name": "SonyChannel 4", "url": "http://46.151.196.223:14605", "logo": "", "category": "FILMES", "channelNumber": "210" },
-  { "id": "211", "name": "SonyChannel 5", "url": "http://46.151.196.223:14606", "logo": "", "category": "FILMES", "channelNumber": "211" },
-  { "id": "212", "name": "Space", "url": "http://46.151.196.223:14607", "logo": "", "category": "FILMES", "channelNumber": "212" },
-  { "id": "213", "name": "Space 2", "url": "http://46.151.196.223:14608", "logo": "", "category": "FILMES", "channelNumber": "213" },
-  { "id": "214", "name": "Space 3", "url": "http://46.151.196.223:14609", "logo": "", "category": "FILMES", "channelNumber": "214" },
-  { "id": "215", "name": "Space 4", "url": "http://46.151.196.223:14610", "logo": "", "category": "FILMES", "channelNumber": "215" },
-  { "id": "216", "name": "Space 5", "url": "http://46.151.196.223:14611", "logo": "", "category": "FILMES", "channelNumber": "216" },
-  { "id": "217", "name": "Space 6", "url": "http://46.151.196.223:14612", "logo": "", "category": "FILMES", "channelNumber": "217" },
-  { "id": "218", "name": "StudioUniversal", "url": "http://46.151.196.223:14613", "logo": "", "category": "FILMES", "channelNumber": "218" },
-  { "id": "219", "name": "Tv Globo 3", "url": "http://46.151.196.223:14614", "logo": "", "category": "GERAL", "channelNumber": "219" },
-  { "id": "220", "name": "Unknown 622", "url": "http://46.151.196.223:14622", "logo": "", "category": "GERAL", "channelNumber": "220" },
-  { "id": "221", "name": "AMC", "url": "http://46.151.196.223:14636", "logo": "", "category": "FILMES", "channelNumber": "221" },
-  { "id": "222", "name": "tv globo 4", "url": "http://46.151.196.223:14664", "logo": "", "category": "GERAL", "channelNumber": "222" },
-  { "id": "223", "name": "Unknown 683", "url": "http://46.151.196.223:14683", "logo": "", "category": "GERAL", "channelNumber": "223" },
-  { "id": "224", "name": "Universal Premiere", "url": "http://46.151.196.223:14684", "logo": "", "category": "GERAL", "channelNumber": "224" },
-  { "id": "225", "name": "ESPN 3 2", "url": "http://46.151.196.223:14701", "logo": "", "category": "ESPORTES", "channelNumber": "225" },
-  { "id": "226", "name": "TV Globo 2", "url": "http://46.151.196.223:14748", "logo": "", "category": "GERAL", "channelNumber": "226" },
-  { "id": "227", "name": "Globo", "url": "http://46.151.196.223:14857", "logo": "", "category": "GERAL", "channelNumber": "227" },
-  { "id": "228", "name": "Globo 2", "url": "http://46.151.196.223:14858", "logo": "", "category": "GERAL", "channelNumber": "228" },
-  { "id": "229", "name": "Globo 3", "url": "http://46.151.196.223:14859", "logo": "", "category": "GERAL", "channelNumber": "229" },
-  { "id": "230", "name": "Globo 4", "url": "http://46.151.196.223:14860", "logo": "", "category": "GERAL", "channelNumber": "230" },
-  { "id": "231", "name": "TV Globo 3", "url": "http://46.151.196.223:14861", "logo": "", "category": "GERAL", "channelNumber": "231" },
-  { "id": "232", "name": "Globo 5", "url": "http://46.151.196.223:14862", "logo": "", "category": "GERAL", "channelNumber": "232" },
-  { "id": "233", "name": "Globo 6", "url": "http://46.151.196.223:14866", "logo": "", "category": "GERAL", "channelNumber": "233" },
-  { "id": "234", "name": "TV GLOBO 4", "url": "http://46.151.196.223:14867", "logo": "", "category": "GERAL", "channelNumber": "234" },
-  { "id": "235", "name": "Globo 7", "url": "http://46.151.196.223:14868", "logo": "", "category": "GERAL", "channelNumber": "235" },
-  { "id": "236", "name": "Globo 8", "url": "http://46.151.196.223:14869", "logo": "", "category": "GERAL", "channelNumber": "236" },
-  { "id": "237", "name": "Globo 9", "url": "http://46.151.196.223:14870", "logo": "", "category": "GERAL", "channelNumber": "237" },
-  { "id": "238", "name": "Globo 10", "url": "http://46.151.196.223:14871", "logo": "", "category": "GERAL", "channelNumber": "238" },
-  { "id": "239", "name": "TV Globo 5", "url": "http://46.151.196.223:14872", "logo": "", "category": "GERAL", "channelNumber": "239" },
-  { "id": "240", "name": "TV Globo 6", "url": "http://46.151.196.223:14873", "logo": "", "category": "GERAL", "channelNumber": "240" },
-  { "id": "241", "name": "TV Globo 7", "url": "http://46.151.196.223:14874", "logo": "", "category": "GERAL", "channelNumber": "241" },
-  { "id": "242", "name": "TV Globo 8", "url": "http://46.151.196.223:14875", "logo": "", "category": "GERAL", "channelNumber": "242" },
-  { "id": "243", "name": "TV Globo 9", "url": "http://46.151.196.223:14876", "logo": "", "category": "GERAL", "channelNumber": "243" },
-  { "id": "244", "name": "TV Globo 10", "url": "http://46.151.196.223:14877", "logo": "", "category": "GERAL", "channelNumber": "244" },
-  { "id": "245", "name": "TV Globo 11", "url": "http://46.151.196.223:14878", "logo": "", "category": "GERAL", "channelNumber": "245" },
-  { "id": "246", "name": "TV Globo 12", "url": "http://46.151.196.223:14879", "logo": "", "category": "GERAL", "channelNumber": "246" },
-  { "id": "247", "name": "TV Globo 13", "url": "http://46.151.196.223:14880", "logo": "", "category": "GERAL", "channelNumber": "247" },
-  { "id": "248", "name": "TV Globo 14", "url": "http://46.151.196.223:14881", "logo": "", "category": "GERAL", "channelNumber": "248" },
-  { "id": "249", "name": "TV Globo 15", "url": "http://46.151.196.223:14882", "logo": "", "category": "GERAL", "channelNumber": "249" },
-  { "id": "250", "name": "TV Globo 16", "url": "http://46.151.196.223:14883", "logo": "", "category": "GERAL", "channelNumber": "250" },
-  { "id": "251", "name": "TV Globo 17", "url": "http://46.151.196.223:14884", "logo": "", "category": "GERAL", "channelNumber": "251" },
-  { "id": "252", "name": "TV Globo 18", "url": "http://46.151.196.223:14885", "logo": "", "category": "GERAL", "channelNumber": "252" },
-  { "id": "253", "name": "TV Globo 19", "url": "http://46.151.196.223:14886", "logo": "", "category": "GERAL", "channelNumber": "253" },
-  { "id": "254", "name": "TV Globo 20", "url": "http://46.151.196.223:14887", "logo": "", "category": "GERAL", "channelNumber": "254" },
-  { "id": "255", "name": "TV Globo 21", "url": "http://46.151.196.223:14888", "logo": "", "category": "GERAL", "channelNumber": "255" },
-  { "id": "256", "name": "TV Globo 22", "url": "http://46.151.196.223:14889", "logo": "", "category": "GERAL", "channelNumber": "256" },
-  { "id": "257", "name": "HBO_SIGNATURE", "url": "http://46.151.196.223:14929", "logo": "", "category": "FILMES", "channelNumber": "257" },
-  { "id": "258", "name": "TelecineAction 4", "url": "http://46.151.196.223:14979", "logo": "", "category": "FILMES", "channelNumber": "258" },
-  { "id": "259", "name": "Falta definir", "url": "http://46.151.196.223:14995", "logo": "", "category": "GERAL", "channelNumber": "259" }
+    "logo": "assets/Imagens/imgi_110_multishow.png",
+    "category": "Entretenimento",
+    "channelNumber": "15"
+  },
+  {
+    "id": "16",
+    "name": "box music 1",
+    "url": "http://46.151.196.223:14049",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "16"
+  },
+  {
+    "id": "17",
+    "name": "MUSIC_BOX",
+    "url": "http://46.151.196.223:14050",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "17"
+  },
+  {
+    "id": "18",
+    "name": "Music Box Brazil",
+    "url": "http://46.151.196.223:14051",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "18"
+  },
+  {
+    "id": "19",
+    "name": "Music Box Brazil 2",
+    "url": "http://46.151.196.223:14052",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "19"
+  },
+  {
+    "id": "20",
+    "name": "Music Box Brazil 3",
+    "url": "http://46.151.196.223:14053",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "20"
+  },
+  {
+    "id": "21",
+    "name": "Music Box Brazil 4",
+    "url": "http://46.151.196.223:14054",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "21"
+  },
+  {
+    "id": "22",
+    "name": "Box prime 1",
+    "url": "http://46.151.196.223:14055",
+    "logo": "assets/Imagens/imgi_105_megapix.png",
+    "category": "Filmes",
+    "channelNumber": "22"
+  },
+  {
+    "id": "23",
+    "name": "Box prime 2",
+    "url": "http://46.151.196.223:14056",
+    "logo": "assets/Imagens/imgi_105_megapix.png",
+    "category": "Filmes",
+    "channelNumber": "23"
+  },
+  {
+    "id": "24",
+    "name": "TravelBoxBrazil",
+    "url": "http://46.151.196.223:14061",
+    "logo": "assets/Imagens/imgi_97_hgtv.png",
+    "category": "Documentarios",
+    "channelNumber": "24"
+  },
+  {
+    "id": "25",
+    "name": "Travel",
+    "url": "http://46.151.196.223:14062",
+    "logo": "assets/Imagens/imgi_97_hgtv.png",
+    "category": "Documentarios",
+    "channelNumber": "25"
+  },
+  {
+    "id": "26",
+    "name": "Travel 2",
+    "url": "http://46.151.196.223:14063",
+    "logo": "assets/Imagens/imgi_97_hgtv.png",
+    "category": "Documentarios",
+    "channelNumber": "26"
+  },
+  {
+    "id": "27",
+    "name": "Mtv",
+    "url": "http://46.151.196.223:14072",
+    "logo": "assets/Imagens/imgi_26_bis.png",
+    "category": "Entretenimento",
+    "channelNumber": "27"
+  },
+  {
+    "id": "28",
+    "name": "NBA",
+    "url": "http://46.151.196.223:14073",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
+    "channelNumber": "28"
+  },
+  {
+    "id": "29",
+    "name": "Discovery Channel",
+    "url": "http://46.151.196.223:14074",
+    "logo": "assets/Imagens/imgi_49_discoverychannel.png",
+    "category": "Documentarios",
+    "channelNumber": "29"
+  },
+  {
+    "id": "30",
+    "name": "Band FHD",
+    "url": "http://46.151.196.223:14076",
+    "logo": "assets/Imagens/imgi_14_band.png",
+    "category": "TV Aberta",
+    "channelNumber": "30"
+  },
+  {
+    "id": "31",
+    "name": "Band SD",
+    "url": "http://46.151.196.223:14077",
+    "logo": "assets/Imagens/imgi_14_band.png",
+    "category": "TV Aberta",
+    "channelNumber": "31"
+  },
+  {
+    "id": "32",
+    "name": "Band News HD",
+    "url": "http://46.151.196.223:14078",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "32"
+  },
+  {
+    "id": "33",
+    "name": "Band News FHD",
+    "url": "http://46.151.196.223:14079",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "33"
+  },
+  {
+    "id": "34",
+    "name": "Band News SD",
+    "url": "http://46.151.196.223:14080",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "34"
+  },
+  {
+    "id": "35",
+    "name": "Band News HD 1",
+    "url": "http://46.151.196.223:14081",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "35"
+  },
+  {
+    "id": "36",
+    "name": "Band News HD 2",
+    "url": "http://46.151.196.223:14082",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "36"
+  },
+  {
+    "id": "37",
+    "name": "Band News HD 3",
+    "url": "http://46.151.196.223:14083",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "37"
+  },
+  {
+    "id": "38",
+    "name": "CGNT",
+    "url": "http://46.151.196.223:14084",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "38"
+  },
+  {
+    "id": "39",
+    "name": "CNN Brasil FHD",
+    "url": "http://46.151.196.223:14085",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "39"
+  },
+  {
+    "id": "40",
+    "name": "CNN Brasil HD",
+    "url": "http://46.151.196.223:14086",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "40"
+  },
+  {
+    "id": "41",
+    "name": "CNN Brasil SD",
+    "url": "http://46.151.196.223:14087",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "41"
+  },
+  {
+    "id": "42",
+    "name": "CNN Brasil FHD 1",
+    "url": "http://46.151.196.223:14088",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "42"
+  },
+  {
+    "id": "43",
+    "name": "CNN Brasil FHD 2",
+    "url": "http://46.151.196.223:14089",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "43"
+  },
+  {
+    "id": "44",
+    "name": "CNN Brasil FHD 3",
+    "url": "http://46.151.196.223:14090",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "44"
+  },
+  {
+    "id": "45",
+    "name": "+SBT",
+    "url": "http://46.151.196.223:14091",
+    "logo": "assets/Imagens/imgi_139_sbt.png",
+    "category": "TV Aberta",
+    "channelNumber": "45"
+  },
+  {
+    "id": "46",
+    "name": "Globo News",
+    "url": "http://46.151.196.223:14092",
+    "logo": "assets/Imagens/imgi_81_globonews.png",
+    "category": "Noticias",
+    "channelNumber": "46"
+  },
+  {
+    "id": "47",
+    "name": "GNT",
+    "url": "http://46.151.196.223:14093",
+    "logo": "assets/Imagens/imgi_86_gnt.png",
+    "category": "Entretenimento",
+    "channelNumber": "47"
+  },
+  {
+    "id": "48",
+    "name": "Globo News FHD",
+    "url": "http://46.151.196.223:14094",
+    "logo": "assets/Imagens/imgi_81_globonews.png",
+    "category": "Noticias",
+    "channelNumber": "48"
+  },
+  {
+    "id": "49",
+    "name": "Globo News HD",
+    "url": "http://46.151.196.223:14095",
+    "logo": "assets/Imagens/imgi_81_globonews.png",
+    "category": "Noticias",
+    "channelNumber": "49"
+  },
+  {
+    "id": "50",
+    "name": "Humor",
+    "url": "http://46.151.196.223:14096",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "50"
+  },
+  {
+    "id": "51",
+    "name": "RecordTV HD",
+    "url": "http://46.151.196.223:14097",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "51"
+  },
+  {
+    "id": "52",
+    "name": "Premiere",
+    "url": "http://46.151.196.223:14098",
+    "logo": "assets/Imagens/imgi_121_premiere.png",
+    "category": "Esportes",
+    "channelNumber": "52"
+  },
+  {
+    "id": "53",
+    "name": "Record News HD",
+    "url": "http://46.151.196.223:14099",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "53"
+  },
+  {
+    "id": "54",
+    "name": "Record News FHD",
+    "url": "http://46.151.196.223:14100",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "54"
+  },
+  {
+    "id": "55",
+    "name": "Record News HD 1",
+    "url": "http://46.151.196.223:14101",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "55"
+  },
+  {
+    "id": "56",
+    "name": "Record News HD 2",
+    "url": "http://46.151.196.223:14102",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "56"
+  },
+  {
+    "id": "57",
+    "name": "Record News HD 3",
+    "url": "http://46.151.196.223:14103",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "57"
+  },
+  {
+    "id": "58",
+    "name": "Record News HD 4",
+    "url": "http://46.151.196.223:14104",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "58"
+  },
+  {
+    "id": "59",
+    "name": "Jovem Pan News",
+    "url": "http://46.151.196.223:14105",
+    "logo": "assets/Imagens/logo_15424.png",
+    "category": "Noticias",
+    "channelNumber": "59"
+  },
+  {
+    "id": "60",
+    "name": "Jovem Pan News 1",
+    "url": "http://46.151.196.223:14106",
+    "logo": "assets/Imagens/logo_15424.png",
+    "category": "Noticias",
+    "channelNumber": "60"
+  },
+  {
+    "id": "61",
+    "name": "Jovem Pan News 2",
+    "url": "http://46.151.196.223:14107",
+    "logo": "assets/Imagens/logo_15424.png",
+    "category": "Noticias",
+    "channelNumber": "61"
+  },
+  {
+    "id": "62",
+    "name": "Jovem Pan News 3",
+    "url": "http://46.151.196.223:14108",
+    "logo": "assets/Imagens/logo_15424.png",
+    "category": "Noticias",
+    "channelNumber": "62"
+  },
+  {
+    "id": "63",
+    "name": "Jovem Pan News 4",
+    "url": "http://46.151.196.223:14109",
+    "logo": "assets/Imagens/logo_15424.png",
+    "category": "Noticias",
+    "channelNumber": "63"
+  },
+  {
+    "id": "64",
+    "name": "Jovem Pan News 5",
+    "url": "http://46.151.196.223:14110",
+    "logo": "assets/Imagens/logo_15424.png",
+    "category": "Noticias",
+    "channelNumber": "64"
+  },
+  {
+    "id": "65",
+    "name": "CNN Internacional",
+    "url": "http://46.151.196.223:14112",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "65"
+  },
+  {
+    "id": "66",
+    "name": "CNN INTERNACIONAL 2",
+    "url": "http://46.151.196.223:14113",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "66"
+  },
+  {
+    "id": "67",
+    "name": "TV5 Monde",
+    "url": "http://46.151.196.223:14114",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "67"
+  },
+  {
+    "id": "68",
+    "name": "SIC",
+    "url": "http://46.151.196.223:14115",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "68"
+  },
+  {
+    "id": "69",
+    "name": "Rai italia",
+    "url": "http://46.151.196.223:14117",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "69"
+  },
+  {
+    "id": "70",
+    "name": "Rai Italia 2",
+    "url": "http://46.151.196.223:14118",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "70"
+  },
+  {
+    "id": "71",
+    "name": "France 24",
+    "url": "http://46.151.196.223:14119",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "71"
+  },
+  {
+    "id": "72",
+    "name": "France 24 2",
+    "url": "http://46.151.196.223:14120",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "72"
+  },
+  {
+    "id": "73",
+    "name": "Unknown 121",
+    "url": "http://46.151.196.223:14121",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "73"
+  },
+  {
+    "id": "74",
+    "name": "Bloomberg",
+    "url": "http://46.151.196.223:14122",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "74"
+  },
+  {
+    "id": "75",
+    "name": "Bloomberg 2",
+    "url": "http://46.151.196.223:14123",
+    "logo": "assets/Imagens/imgi_15_bandnews.png",
+    "category": "Noticias",
+    "channelNumber": "75"
+  },
+  {
+    "id": "76",
+    "name": "CazeTV",
+    "url": "http://46.151.196.223:14124",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "76"
+  },
+  {
+    "id": "77",
+    "name": "CazeTV 2",
+    "url": "http://46.151.196.223:14125",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "77"
+  },
+  {
+    "id": "78",
+    "name": "Paramount Plus",
+    "url": "http://46.151.196.223:14127",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "78"
+  },
+  {
+    "id": "79",
+    "name": "Paramount Plus 2",
+    "url": "http://46.151.196.223:14128",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "79"
+  },
+  {
+    "id": "80",
+    "name": "Paramount Plus 3",
+    "url": "http://46.151.196.223:14129",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "80"
+  },
+  {
+    "id": "81",
+    "name": "Paramount Plus4",
+    "url": "http://46.151.196.223:14130",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "81"
+  },
+  {
+    "id": "82",
+    "name": "Paramount 1",
+    "url": "http://46.151.196.223:14131",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "82"
+  },
+  {
+    "id": "83",
+    "name": "Prime Vídeo 1",
+    "url": "http://46.151.196.223:14132",
+    "logo": "assets/Imagens/imgi_105_megapix.png",
+    "category": "Filmes",
+    "channelNumber": "83"
+  },
+  {
+    "id": "84",
+    "name": "Prime Vídeo 2",
+    "url": "http://46.151.196.223:14133",
+    "logo": "assets/Imagens/imgi_105_megapix.png",
+    "category": "Filmes",
+    "channelNumber": "84"
+  },
+  {
+    "id": "85",
+    "name": "Amazon Prime",
+    "url": "http://46.151.196.223:14134",
+    "logo": "assets/Imagens/imgi_105_megapix.png",
+    "category": "Filmes",
+    "channelNumber": "85"
+  },
+  {
+    "id": "86",
+    "name": "Goat 1",
+    "url": "http://46.151.196.223:14146",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "86"
+  },
+  {
+    "id": "87",
+    "name": "Goat 2",
+    "url": "http://46.151.196.223:14148",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "87"
+  },
+  {
+    "id": "88",
+    "name": "Goat 3",
+    "url": "http://46.151.196.223:14149",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "88"
+  },
+  {
+    "id": "89",
+    "name": "Nsports",
+    "url": "http://46.151.196.223:14152",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "89"
+  },
+  {
+    "id": "90",
+    "name": "Premiere 2",
+    "url": "http://46.151.196.223:14196",
+    "logo": "assets/Imagens/imgi_121_premiere.png",
+    "category": "Esportes",
+    "channelNumber": "90"
+  },
+  {
+    "id": "91",
+    "name": "Premiere 2 2",
+    "url": "http://46.151.196.223:14197",
+    "logo": "assets/Imagens/imgi_121_premiere.png",
+    "category": "Esportes",
+    "channelNumber": "91"
+  },
+  {
+    "id": "92",
+    "name": "RecordTV 3",
+    "url": "http://46.151.196.223:14198",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "92"
+  },
+  {
+    "id": "93",
+    "name": "RecordTV 4",
+    "url": "http://46.151.196.223:14199",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "93"
+  },
+  {
+    "id": "94",
+    "name": "RecordTV 6",
+    "url": "http://46.151.196.223:14200",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "94"
+  },
+  {
+    "id": "95",
+    "name": "RecordTV 7",
+    "url": "http://46.151.196.223:14202",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "95"
+  },
+  {
+    "id": "96",
+    "name": "RecordTV 9",
+    "url": "http://46.151.196.223:14203",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "96"
+  },
+  {
+    "id": "97",
+    "name": "RecordTV 10",
+    "url": "http://46.151.196.223:14204",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "97"
+  },
+  {
+    "id": "98",
+    "name": "SBT HD7",
+    "url": "http://46.151.196.223:14273",
+    "logo": "assets/Imagens/imgi_139_sbt.png",
+    "category": "TV Aberta",
+    "channelNumber": "98"
+  },
+  {
+    "id": "99",
+    "name": "SporTV HD",
+    "url": "http://46.151.196.223:14558",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "99"
+  },
+  {
+    "id": "100",
+    "name": "SporTV FHD",
+    "url": "http://46.151.196.223:14284",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "100"
+  },
+  {
+    "id": "101",
+    "name": "SporTV SD",
+    "url": "http://46.151.196.223:14285",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "101"
+  },
+  {
+    "id": "102",
+    "name": "SporTV 1",
+    "url": "http://46.151.196.223:14286",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "102"
+  },
+  {
+    "id": "103",
+    "name": "SporTV 2",
+    "url": "http://46.151.196.223:14287",
+    "logo": "assets/Imagens/imgi_144_sportv2.png",
+    "category": "Esportes",
+    "channelNumber": "103"
+  },
+  {
+    "id": "104",
+    "name": "SporTV 3",
+    "url": "http://46.151.196.223:14288",
+    "logo": "assets/Imagens/imgi_145_sportv3.png",
+    "category": "Esportes",
+    "channelNumber": "104"
+  },
+  {
+    "id": "105",
+    "name": "TelecineAction",
+    "url": "http://46.151.196.223:14326",
+    "logo": "assets/Imagens/imgi_152_telecineaction.png",
+    "category": "Filmes",
+    "channelNumber": "105"
+  },
+  {
+    "id": "106",
+    "name": "TelecineAction 2",
+    "url": "http://46.151.196.223:14327",
+    "logo": "assets/Imagens/imgi_152_telecineaction.png",
+    "category": "Filmes",
+    "channelNumber": "106"
+  },
+  {
+    "id": "107",
+    "name": "sbt",
+    "url": "http://46.151.196.223:14328",
+    "logo": "assets/Imagens/imgi_139_sbt.png",
+    "category": "TV Aberta",
+    "channelNumber": "107"
+  },
+  {
+    "id": "108",
+    "name": "TelecineAction 3",
+    "url": "http://46.151.196.223:14329",
+    "logo": "assets/Imagens/imgi_152_telecineaction.png",
+    "category": "Filmes",
+    "channelNumber": "108"
+  },
+  {
+    "id": "109",
+    "name": "TelecineCult",
+    "url": "http://46.151.196.223:14333",
+    "logo": "assets/Imagens/imgi_153_telecinecult.png",
+    "category": "Filmes",
+    "channelNumber": "109"
+  },
+  {
+    "id": "110",
+    "name": "TelecineCult 2",
+    "url": "http://46.151.196.223:14334",
+    "logo": "assets/Imagens/imgi_153_telecinecult.png",
+    "category": "Filmes",
+    "channelNumber": "110"
+  },
+  {
+    "id": "111",
+    "name": "TelecineCult 3",
+    "url": "http://46.151.196.223:14335",
+    "logo": "assets/Imagens/imgi_153_telecinecult.png",
+    "category": "Filmes",
+    "channelNumber": "111"
+  },
+  {
+    "id": "112",
+    "name": "TelecineFun",
+    "url": "http://46.151.196.223:14337",
+    "logo": "assets/Imagens/imgi_154_telecinefun.png",
+    "category": "Filmes",
+    "channelNumber": "112"
+  },
+  {
+    "id": "113",
+    "name": "TelecineFun 2",
+    "url": "http://46.151.196.223:14338",
+    "logo": "assets/Imagens/imgi_154_telecinefun.png",
+    "category": "Filmes",
+    "channelNumber": "113"
+  },
+  {
+    "id": "114",
+    "name": "TelecineFun 3",
+    "url": "http://46.151.196.223:14339",
+    "logo": "assets/Imagens/imgi_154_telecinefun.png",
+    "category": "Filmes",
+    "channelNumber": "114"
+  },
+  {
+    "id": "115",
+    "name": "TelecineFun 4",
+    "url": "http://46.151.196.223:14340",
+    "logo": "assets/Imagens/imgi_154_telecinefun.png",
+    "category": "Filmes",
+    "channelNumber": "115"
+  },
+  {
+    "id": "116",
+    "name": "TelecineFun 5",
+    "url": "http://46.151.196.223:14341",
+    "logo": "assets/Imagens/imgi_154_telecinefun.png",
+    "category": "Filmes",
+    "channelNumber": "116"
+  },
+  {
+    "id": "117",
+    "name": "TelecinePipoca",
+    "url": "http://46.151.196.223:14343",
+    "logo": "assets/Imagens/imgi_155_telecinepipoca.png",
+    "category": "Filmes",
+    "channelNumber": "117"
+  },
+  {
+    "id": "118",
+    "name": "TelecinePipoca 2",
+    "url": "http://46.151.196.223:14344",
+    "logo": "assets/Imagens/imgi_155_telecinepipoca.png",
+    "category": "Filmes",
+    "channelNumber": "118"
+  },
+  {
+    "id": "119",
+    "name": "TelecinePipoca 3",
+    "url": "http://46.151.196.223:14345",
+    "logo": "assets/Imagens/imgi_155_telecinepipoca.png",
+    "category": "Filmes",
+    "channelNumber": "119"
+  },
+  {
+    "id": "120",
+    "name": "TelecinePipoca 4",
+    "url": "http://46.151.196.223:14346",
+    "logo": "assets/Imagens/imgi_155_telecinepipoca.png",
+    "category": "Filmes",
+    "channelNumber": "120"
+  },
+  {
+    "id": "121",
+    "name": "TelecinePipoca 5",
+    "url": "http://46.151.196.223:14347",
+    "logo": "assets/Imagens/imgi_155_telecinepipoca.png",
+    "category": "Filmes",
+    "channelNumber": "121"
+  },
+  {
+    "id": "122",
+    "name": "TelecinePremium",
+    "url": "http://46.151.196.223:14349",
+    "logo": "assets/Imagens/imgi_156_telecinepremium.png",
+    "category": "Filmes",
+    "channelNumber": "122"
+  },
+  {
+    "id": "123",
+    "name": "TelecinePremium 2",
+    "url": "http://46.151.196.223:14350",
+    "logo": "assets/Imagens/imgi_156_telecinepremium.png",
+    "category": "Filmes",
+    "channelNumber": "123"
+  },
+  {
+    "id": "124",
+    "name": "TelecinePremium 3",
+    "url": "http://46.151.196.223:14351",
+    "logo": "assets/Imagens/imgi_156_telecinepremium.png",
+    "category": "Filmes",
+    "channelNumber": "124"
+  },
+  {
+    "id": "125",
+    "name": "TelecinePremium 4",
+    "url": "http://46.151.196.223:14352",
+    "logo": "assets/Imagens/imgi_156_telecinepremium.png",
+    "category": "Filmes",
+    "channelNumber": "125"
+  },
+  {
+    "id": "126",
+    "name": "TelecineTouch",
+    "url": "http://46.151.196.223:14354",
+    "logo": "assets/Imagens/imgi_157_telecinetouch.png",
+    "category": "Filmes",
+    "channelNumber": "126"
+  },
+  {
+    "id": "127",
+    "name": "TelecineTouch 2",
+    "url": "http://46.151.196.223:14355",
+    "logo": "assets/Imagens/imgi_157_telecinetouch.png",
+    "category": "Filmes",
+    "channelNumber": "127"
+  },
+  {
+    "id": "128",
+    "name": "Telecine Touch",
+    "url": "http://46.151.196.223:14356",
+    "logo": "assets/Imagens/imgi_157_telecinetouch.png",
+    "category": "Filmes",
+    "channelNumber": "128"
+  },
+  {
+    "id": "129",
+    "name": "Telecine Touch 2",
+    "url": "http://46.151.196.223:14357",
+    "logo": "assets/Imagens/imgi_157_telecinetouch.png",
+    "category": "Filmes",
+    "channelNumber": "129"
+  },
+  {
+    "id": "130",
+    "name": "Telecine Touch 3",
+    "url": "http://46.151.196.223:14358",
+    "logo": "assets/Imagens/imgi_157_telecinetouch.png",
+    "category": "Filmes",
+    "channelNumber": "130"
+  },
+  {
+    "id": "131",
+    "name": "Telecine Touch 4",
+    "url": "http://46.151.196.223:14359",
+    "logo": "assets/Imagens/imgi_157_telecinetouch.png",
+    "category": "Filmes",
+    "channelNumber": "131"
+  },
+  {
+    "id": "132",
+    "name": "Arte1",
+    "url": "http://46.151.196.223:14360",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "132"
+  },
+  {
+    "id": "133",
+    "name": "Arte1 2",
+    "url": "http://46.151.196.223:14361",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "133"
+  },
+  {
+    "id": "134",
+    "name": "Arte1 3",
+    "url": "http://46.151.196.223:14362",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "134"
+  },
+  {
+    "id": "135",
+    "name": "Arte1 4",
+    "url": "http://46.151.196.223:14363",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "135"
+  },
+  {
+    "id": "136",
+    "name": "Arte1 5",
+    "url": "http://46.151.196.223:14364",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "136"
+  },
+  {
+    "id": "137",
+    "name": "Arte1 6",
+    "url": "http://46.151.196.223:14365",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "137"
+  },
+  {
+    "id": "138",
+    "name": "ESPN",
+    "url": "http://46.151.196.223:14366",
+    "logo": "assets/Imagens/imgi_67_espn.png",
+    "category": "Esportes",
+    "channelNumber": "138"
+  },
+  {
+    "id": "139",
+    "name": "NBA 2 2",
+    "url": "http://46.151.196.223:14367",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
+    "channelNumber": "139"
+  },
+  {
+    "id": "140",
+    "name": "NBA 3 2",
+    "url": "http://46.151.196.223:14368",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
+    "channelNumber": "140"
+  },
+  {
+    "id": "141",
+    "name": "Comedy Central",
+    "url": "http://46.151.196.223:14369",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "141"
+  },
+  {
+    "id": "142",
+    "name": "Nfl",
+    "url": "http://46.151.196.223:14370",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "142"
+  },
+  {
+    "id": "143",
+    "name": "NBA 4 2",
+    "url": "http://46.151.196.223:14372",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Esportes",
+    "channelNumber": "143"
+  },
+  {
+    "id": "144",
+    "name": "Curta",
+    "url": "http://46.151.196.223:14373",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "144"
+  },
+  {
+    "id": "145",
+    "name": "Curta 2",
+    "url": "http://46.151.196.223:14374",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "145"
+  },
+  {
+    "id": "146",
+    "name": "Dogtv",
+    "url": "http://46.151.196.223:14381",
+    "logo": "assets/Imagens/imgi_84_gloob.png",
+    "category": "Infantil",
+    "channelNumber": "146"
+  },
+  {
+    "id": "147",
+    "name": "Dogtv 2",
+    "url": "http://46.151.196.223:14382",
+    "logo": "assets/Imagens/imgi_84_gloob.png",
+    "category": "Infantil",
+    "channelNumber": "147"
+  },
+  {
+    "id": "148",
+    "name": "Dogtv 3",
+    "url": "http://46.151.196.223:14383",
+    "logo": "assets/Imagens/imgi_84_gloob.png",
+    "category": "Infantil",
+    "channelNumber": "148"
+  },
+  {
+    "id": "149",
+    "name": "Dogtv 4",
+    "url": "http://46.151.196.223:14384",
+    "logo": "assets/Imagens/imgi_84_gloob.png",
+    "category": "Infantil",
+    "channelNumber": "149"
+  },
+  {
+    "id": "150",
+    "name": "E!",
+    "url": "http://46.151.196.223:14385",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "150"
+  },
+  {
+    "id": "151",
+    "name": "E! 2",
+    "url": "http://46.151.196.223:14386",
+    "logo": "assets/Imagens/imgi_11_arte1.png",
+    "category": "Entretenimento",
+    "channelNumber": "151"
+  },
+  {
+    "id": "152",
+    "name": "Paramount+",
+    "url": "http://46.151.196.223:14392",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "152"
+  },
+  {
+    "id": "153",
+    "name": "Goat",
+    "url": "http://46.151.196.223:14401",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "153"
+  },
+  {
+    "id": "154",
+    "name": "Record",
+    "url": "http://46.151.196.223:14403",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "154"
+  },
+  {
+    "id": "155",
+    "name": "Record Brasilia",
+    "url": "http://46.151.196.223:14404",
+    "logo": "assets/Imagens/imgi_133_record.png",
+    "category": "TV Aberta",
+    "channelNumber": "155"
+  },
+  {
+    "id": "156",
+    "name": "History",
+    "url": "http://46.151.196.223:14409",
+    "logo": "assets/Imagens/imgi_98_history.png",
+    "category": "Documentarios",
+    "channelNumber": "156"
+  },
+  {
+    "id": "157",
+    "name": "History 2",
+    "url": "http://46.151.196.223:14410",
+    "logo": "assets/Imagens/imgi_99_history2.png",
+    "category": "Documentarios",
+    "channelNumber": "157"
+  },
+  {
+    "id": "158",
+    "name": "History 3",
+    "url": "http://46.151.196.223:14411",
+    "logo": "assets/Imagens/imgi_98_history.png",
+    "category": "Documentarios",
+    "channelNumber": "158"
+  },
+  {
+    "id": "159",
+    "name": "History 4",
+    "url": "http://46.151.196.223:14412",
+    "logo": "assets/Imagens/imgi_98_history.png",
+    "category": "Documentarios",
+    "channelNumber": "159"
+  },
+  {
+    "id": "160",
+    "name": "History 5",
+    "url": "http://46.151.196.223:14413",
+    "logo": "assets/Imagens/imgi_98_history.png",
+    "category": "Documentarios",
+    "channelNumber": "160"
+  },
+  {
+    "id": "161",
+    "name": "Dazn2",
+    "url": "http://46.151.196.223:14421",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "161"
+  },
+  {
+    "id": "162",
+    "name": "Dazn3",
+    "url": "http://46.151.196.223:14422",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "162"
+  },
+  {
+    "id": "163",
+    "name": "Dazn4",
+    "url": "http://46.151.196.223:14423",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "163"
+  },
+  {
+    "id": "164",
+    "name": "Dazn5",
+    "url": "http://46.151.196.223:14424",
+    "logo": "assets/Imagens/imgi_143_sportv.png",
+    "category": "Esportes",
+    "channelNumber": "164"
+  },
+  {
+    "id": "165",
+    "name": "ESPN 2",
+    "url": "http://46.151.196.223:14432",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "165"
+  },
+  {
+    "id": "166",
+    "name": "ESPN 3",
+    "url": "http://46.151.196.223:14433",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "166"
+  },
+  {
+    "id": "167",
+    "name": "ESPN 4",
+    "url": "http://46.151.196.223:14435",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "167"
+  },
+  {
+    "id": "168",
+    "name": "ESPN 5",
+    "url": "http://46.151.196.223:14449",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "168"
+  },
+  {
+    "id": "169",
+    "name": "ESPN2",
+    "url": "http://46.151.196.223:14438",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "169"
+  },
+  {
+    "id": "170",
+    "name": "ESPN2 2",
+    "url": "http://46.151.196.223:14440",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "170"
+  },
+  {
+    "id": "171",
+    "name": "ESPN2 3",
+    "url": "http://46.151.196.223:14441",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "171"
+  },
+  {
+    "id": "172",
+    "name": "ESPN3",
+    "url": "http://46.151.196.223:14442",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "172"
+  },
+  {
+    "id": "173",
+    "name": "ESPN3 2",
+    "url": "http://46.151.196.223:14443",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "173"
+  },
+  {
+    "id": "174",
+    "name": "ESPN3 3",
+    "url": "http://46.151.196.223:14444",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "174"
+  },
+  {
+    "id": "175",
+    "name": "ESPN3 4",
+    "url": "http://46.151.196.223:14445",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "175"
+  },
+  {
+    "id": "176",
+    "name": "ESPN3 5",
+    "url": "http://46.151.196.223:14446",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "176"
+  },
+  {
+    "id": "177",
+    "name": "ESPN3 6",
+    "url": "http://46.151.196.223:14447",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "177"
+  },
+  {
+    "id": "178",
+    "name": "espn4",
+    "url": "http://46.151.196.223:14342",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "178"
+  },
+  {
+    "id": "179",
+    "name": "ESPN4 2",
+    "url": "http://46.151.196.223:14760",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "179"
+  },
+  {
+    "id": "180",
+    "name": "ESPN4 3",
+    "url": "http://46.151.196.223:14448",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "180"
+  },
+  {
+    "id": "181",
+    "name": "ESPN4 4",
+    "url": "http://46.151.196.223:14450",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "181"
+  },
+  {
+    "id": "182",
+    "name": "ESPN4 5",
+    "url": "http://46.151.196.223:14451",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "182"
+  },
+  {
+    "id": "183",
+    "name": "ESPN5 2",
+    "url": "http://46.151.196.223:14457",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "183"
+  },
+  {
+    "id": "184",
+    "name": "ESPN5 3",
+    "url": "http://46.151.196.223:14458",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "184"
+  },
+  {
+    "id": "185",
+    "name": "ESPN5 4",
+    "url": "http://46.151.196.223:14459",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "185"
+  },
+  {
+    "id": "186",
+    "name": "ESPN6",
+    "url": "http://46.151.196.223:14460",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "186"
+  },
+  {
+    "id": "187",
+    "name": "ESPN6 2",
+    "url": "http://46.151.196.223:14461",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "187"
+  },
+  {
+    "id": "188",
+    "name": "ESPN6 3",
+    "url": "http://46.151.196.223:14462",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "188"
+  },
+  {
+    "id": "189",
+    "name": "ESPN6 4",
+    "url": "http://46.151.196.223:14463",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "189"
+  },
+  {
+    "id": "190",
+    "name": "ESPN 6",
+    "url": "http://46.151.196.223:14495",
+    "logo": "assets/Imagens/imgi_71_espn5.png",
+    "category": "Esportes",
+    "channelNumber": "190"
+  },
+  {
+    "id": "191",
+    "name": "RecordNews",
+    "url": "http://46.151.196.223:14500",
+    "logo": "assets/Imagens/imgi_134_recordnews.png",
+    "category": "Noticias",
+    "channelNumber": "191"
+  },
+  {
+    "id": "192",
+    "name": "Viva",
+    "url": "http://46.151.196.223:14502",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/960px-Canal_Viva_2018_wordmark.svg.png",
+    "category": "Entretenimento",
+    "channelNumber": "192"
+  },
+  {
+    "id": "193",
+    "name": "Unknown 504",
+    "url": "http://46.151.196.223:14504",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "193"
+  },
+  {
+    "id": "194",
+    "name": "RedeTV",
+    "url": "http://46.151.196.223:14512",
+    "logo": "assets/Imagens/imgi_137_redetv.png",
+    "category": "TV Aberta",
+    "channelNumber": "194"
+  },
+  {
+    "id": "195",
+    "name": "Globo SP",
+    "url": "http://46.151.196.223:14514",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "195"
+  },
+  {
+    "id": "196",
+    "name": "Unknown 523",
+    "url": "http://46.151.196.223:14523",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "196"
+  },
+  {
+    "id": "197",
+    "name": "Unknown 526",
+    "url": "http://46.151.196.223:14526",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "197"
+  },
+  {
+    "id": "198",
+    "name": "RedeTV 2",
+    "url": "http://46.151.196.223:14529",
+    "logo": "assets/Imagens/imgi_137_redetv.png",
+    "category": "TV Aberta",
+    "channelNumber": "198"
+  },
+  {
+    "id": "199",
+    "name": "Combate",
+    "url": "http://46.151.196.223:14543",
+    "logo": "assets/Imagens/imgi_44_combate.png",
+    "category": "Esportes",
+    "channelNumber": "199"
+  },
+  {
+    "id": "200",
+    "name": "ESPN2 4",
+    "url": "http://46.151.196.223:14553",
+    "logo": "assets/Imagens/imgi_70_espn4.png",
+    "category": "Esportes",
+    "channelNumber": "200"
+  },
+  {
+    "id": "201",
+    "name": "ESPN 7",
+    "url": "http://46.151.196.223:14554",
+    "logo": "assets/Imagens/imgi_67_espn.png",
+    "category": "Esportes",
+    "channelNumber": "201"
+  },
+  {
+    "id": "202",
+    "name": "CNN Internacional 3",
+    "url": "http://46.151.196.223:14565",
+    "logo": "assets/Imagens/imgi_42_cnnbrasil.png",
+    "category": "Noticias",
+    "channelNumber": "202"
+  },
+  {
+    "id": "203",
+    "name": "TV Globo",
+    "url": "http://46.151.196.223:14577",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "203"
+  },
+  {
+    "id": "204",
+    "name": "Premiere 3",
+    "url": "http://46.151.196.223:14582",
+    "logo": "assets/Imagens/imgi_121_premiere.png",
+    "category": "Esportes",
+    "channelNumber": "204"
+  },
+  {
+    "id": "205",
+    "name": "Tv Globo 2",
+    "url": "http://46.151.196.223:14584",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "205"
+  },
+  {
+    "id": "206",
+    "name": "Premiere 4",
+    "url": "http://46.151.196.223:14588",
+    "logo": "assets/Imagens/imgi_121_premiere.png",
+    "category": "Esportes",
+    "channelNumber": "206"
+  },
+  {
+    "id": "207",
+    "name": "SonyChannel",
+    "url": "http://46.151.196.223:14601",
+    "logo": "assets/Imagens/imgi_140_sonychannel.png",
+    "category": "Series",
+    "channelNumber": "207"
+  },
+  {
+    "id": "208",
+    "name": "SonyChannel 2",
+    "url": "http://46.151.196.223:14603",
+    "logo": "assets/Imagens/imgi_140_sonychannel.png",
+    "category": "Series",
+    "channelNumber": "208"
+  },
+  {
+    "id": "209",
+    "name": "SonyChannel 3",
+    "url": "http://46.151.196.223:14604",
+    "logo": "assets/Imagens/imgi_140_sonychannel.png",
+    "category": "Series",
+    "channelNumber": "209"
+  },
+  {
+    "id": "210",
+    "name": "SonyChannel 4",
+    "url": "http://46.151.196.223:14605",
+    "logo": "assets/Imagens/imgi_140_sonychannel.png",
+    "category": "Series",
+    "channelNumber": "210"
+  },
+  {
+    "id": "211",
+    "name": "SonyChannel 5",
+    "url": "http://46.151.196.223:14606",
+    "logo": "assets/Imagens/imgi_140_sonychannel.png",
+    "category": "Series",
+    "channelNumber": "211"
+  },
+  {
+    "id": "212",
+    "name": "Space",
+    "url": "http://46.151.196.223:14607",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Filmes",
+    "channelNumber": "212"
+  },
+  {
+    "id": "213",
+    "name": "Space 2",
+    "url": "http://46.151.196.223:14608",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Filmes",
+    "channelNumber": "213"
+  },
+  {
+    "id": "214",
+    "name": "Space 3",
+    "url": "http://46.151.196.223:14609",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Filmes",
+    "channelNumber": "214"
+  },
+  {
+    "id": "215",
+    "name": "Space 4",
+    "url": "http://46.151.196.223:14610",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Filmes",
+    "channelNumber": "215"
+  },
+  {
+    "id": "216",
+    "name": "Space 5",
+    "url": "http://46.151.196.223:14611",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Filmes",
+    "channelNumber": "216"
+  },
+  {
+    "id": "217",
+    "name": "Space 6",
+    "url": "http://46.151.196.223:14612",
+    "logo": "assets/Imagens/imgi_142_space.png",
+    "category": "Filmes",
+    "channelNumber": "217"
+  },
+  {
+    "id": "218",
+    "name": "StudioUniversal",
+    "url": "http://46.151.196.223:14613",
+    "logo": "assets/Imagens/imgi_150_studiouniversal.png",
+    "category": "Filmes",
+    "channelNumber": "218"
+  },
+  {
+    "id": "219",
+    "name": "Tv Globo 3",
+    "url": "http://46.151.196.223:14614",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "219"
+  },
+  {
+    "id": "220",
+    "name": "Unknown 622",
+    "url": "http://46.151.196.223:14622",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "220"
+  },
+  {
+    "id": "221",
+    "name": "AMC",
+    "url": "http://46.151.196.223:14636",
+    "logo": "assets/Imagens/imgi_8_amc.png",
+    "category": "Series",
+    "channelNumber": "221"
+  },
+  {
+    "id": "222",
+    "name": "tv globo 4",
+    "url": "http://46.151.196.223:14664",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "222"
+  },
+  {
+    "id": "223",
+    "name": "Unknown 683",
+    "url": "http://46.151.196.223:14683",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "223"
+  },
+  {
+    "id": "224",
+    "name": "Universal Premiere",
+    "url": "http://46.151.196.223:14684",
+    "logo": "assets/Imagens/imgi_176_universaltv.png",
+    "category": "Series",
+    "channelNumber": "224"
+  },
+  {
+    "id": "225",
+    "name": "ESPN 3 2",
+    "url": "http://46.151.196.223:14701",
+    "logo": "assets/Imagens/imgi_69_espn3.png",
+    "category": "Esportes",
+    "channelNumber": "225"
+  },
+  {
+    "id": "226",
+    "name": "TV Globo 2",
+    "url": "http://46.151.196.223:14748",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "226"
+  },
+  {
+    "id": "227",
+    "name": "Globo",
+    "url": "http://46.151.196.223:14857",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "227"
+  },
+  {
+    "id": "228",
+    "name": "Globo 2",
+    "url": "http://46.151.196.223:14858",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "228"
+  },
+  {
+    "id": "229",
+    "name": "Globo 3",
+    "url": "http://46.151.196.223:14859",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "229"
+  },
+  {
+    "id": "230",
+    "name": "Globo 4",
+    "url": "http://46.151.196.223:14860",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "230"
+  },
+  {
+    "id": "231",
+    "name": "TV Globo 3",
+    "url": "http://46.151.196.223:14861",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "231"
+  },
+  {
+    "id": "232",
+    "name": "Globo 5",
+    "url": "http://46.151.196.223:14862",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "232"
+  },
+  {
+    "id": "233",
+    "name": "Globo 6",
+    "url": "http://46.151.196.223:14866",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "233"
+  },
+  {
+    "id": "234",
+    "name": "TV GLOBO 4",
+    "url": "http://46.151.196.223:14867",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "234"
+  },
+  {
+    "id": "235",
+    "name": "Globo 7",
+    "url": "http://46.151.196.223:14868",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "235"
+  },
+  {
+    "id": "236",
+    "name": "Globo 8",
+    "url": "http://46.151.196.223:14869",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "236"
+  },
+  {
+    "id": "237",
+    "name": "Globo 9",
+    "url": "http://46.151.196.223:14870",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "237"
+  },
+  {
+    "id": "238",
+    "name": "Globo 10",
+    "url": "http://46.151.196.223:14871",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "238"
+  },
+  {
+    "id": "239",
+    "name": "TV Globo 5",
+    "url": "http://46.151.196.223:14872",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "239"
+  },
+  {
+    "id": "240",
+    "name": "TV Globo 6",
+    "url": "http://46.151.196.223:14873",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "240"
+  },
+  {
+    "id": "241",
+    "name": "TV Globo 7",
+    "url": "http://46.151.196.223:14874",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "241"
+  },
+  {
+    "id": "242",
+    "name": "TV Globo 8",
+    "url": "http://46.151.196.223:14875",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "242"
+  },
+  {
+    "id": "243",
+    "name": "TV Globo 9",
+    "url": "http://46.151.196.223:14876",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "243"
+  },
+  {
+    "id": "244",
+    "name": "TV Globo 10",
+    "url": "http://46.151.196.223:14877",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "244"
+  },
+  {
+    "id": "245",
+    "name": "TV Globo 11",
+    "url": "http://46.151.196.223:14878",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "245"
+  },
+  {
+    "id": "246",
+    "name": "TV Globo 12",
+    "url": "http://46.151.196.223:14879",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "246"
+  },
+  {
+    "id": "247",
+    "name": "TV Globo 13",
+    "url": "http://46.151.196.223:14880",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "247"
+  },
+  {
+    "id": "248",
+    "name": "TV Globo 14",
+    "url": "http://46.151.196.223:14881",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "248"
+  },
+  {
+    "id": "249",
+    "name": "TV Globo 15",
+    "url": "http://46.151.196.223:14882",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "249"
+  },
+  {
+    "id": "250",
+    "name": "TV Globo 16",
+    "url": "http://46.151.196.223:14883",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "250"
+  },
+  {
+    "id": "251",
+    "name": "TV Globo 17",
+    "url": "http://46.151.196.223:14884",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "251"
+  },
+  {
+    "id": "252",
+    "name": "TV Globo 18",
+    "url": "http://46.151.196.223:14885",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "252"
+  },
+  {
+    "id": "253",
+    "name": "TV Globo 19",
+    "url": "http://46.151.196.223:14886",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "253"
+  },
+  {
+    "id": "254",
+    "name": "TV Globo 20",
+    "url": "http://46.151.196.223:14887",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "254"
+  },
+  {
+    "id": "255",
+    "name": "TV Globo 21",
+    "url": "http://46.151.196.223:14888",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "255"
+  },
+  {
+    "id": "256",
+    "name": "TV Globo 22",
+    "url": "http://46.151.196.223:14889",
+    "logo": "assets/Imagens/imgi_80_globo.png",
+    "category": "TV Aberta",
+    "channelNumber": "256"
+  },
+  {
+    "id": "257",
+    "name": "HBO_SIGNATURE",
+    "url": "http://46.151.196.223:14929",
+    "logo": "assets/Imagens/imgi_93_hboplus.png",
+    "category": "Filmes",
+    "channelNumber": "257"
+  },
+  {
+    "id": "258",
+    "name": "TelecineAction 4",
+    "url": "http://46.151.196.223:14979",
+    "logo": "assets/Imagens/imgi_152_telecineaction.png",
+    "category": "Filmes",
+    "channelNumber": "258"
+  },
+  {
+    "id": "259",
+    "name": "Falta definir",
+    "url": "http://46.151.196.223:14995",
+    "logo": "https://i.imgur.com/sz9gTTr.png",
+    "category": "TV Aberta",
+    "channelNumber": "259"
+  }
 ]
