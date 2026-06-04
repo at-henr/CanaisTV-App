@@ -1,7 +1,7 @@
 {
   "Recomendado": {
-    "movie": "https://megaembed.com/embed/$tmdb",
-    "tv": "https://megaembed.com/embed/$tmdb/$seasonNum/$episodeNum"
+    "movie": "https://api.embedplayer.site/$id/",
+    "tv": "https://api.embedplayer.site/tv/$tmdb/$seasonNum/$episodeNum/$audio"
   },
   "Rápido": {
     "movie": "https://playerflixapi.com/filme/$id",
