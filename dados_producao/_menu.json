@@ -1,0 +1,285 @@
+[
+  {
+    "nome": "DendiHome | Filmes",
+    "arquivos": [
+      "filmes_drama.json"
+    ],
+    "total": 1
+  },
+  {
+    "nome": "DendiHome | Filmes",
+    "arquivos": [
+      "filmes_comedia.json"
+    ],
+    "total": 1
+  },
+  {
+    "nome": "DendiHome | Filmes",
+    "arquivos": [
+      "filmes_thriller.json",
+      "filmes_terror.json",
+      "filmes_aventura.json"
+    ],
+    "total": 3
+  },
+  {
+    "nome": "DendiHome | Filmes",
+    "arquivos": [
+      "geral.json",
+      "filmes_documentario.json",
+      "filmes_acao.json",
+      "filmes_animacao.json"
+    ],
+    "total": 4
+  },
+  {
+    "nome": "DendiHome | Filmes Extras",
+    "arquivos": [
+      "filmes_historia.json",
+      "filmes_ficcao_cientifica.json",
+      "filmes_fantasia.json",
+      "filmes_crime.json",
+      "filmes_misterio.json",
+      "filmes_romance.json",
+      "filmes_star_distribution.json",
+      "filmes_familia.json",
+      "filmes_cinema_tv.json",
+      "filmes_20th_century_studios.json",
+      "filmes_musica.json",
+      "filmes_faroeste.json",
+      "filmes_netflix.json",
+      "filmes_apple_tv.json",
+      "filmes.json",
+      "filmes_amazon_prime.json",
+      "filmes_summit_entertainment.json",
+      "filmes_paramount_pictures.json",
+      "filmes_dreamworks.json",
+      "filmes_amazon_mgm_studios.json",
+      "filmes_new_line_cinema.json",
+      "filmes_nickelodeon.json",
+      "filmes_warner_bros.json",
+      "filmes_disney.json",
+      "filmes_marvel_studios.json",
+      "filmes_neon.json",
+      "filmes_a24.json",
+      "filmes_universal_pictures.json",
+      "filmes_europacorp.json",
+      "filmes_mubi.json",
+      "filmes_h2o_films.json",
+      "filmes_cineverse.json",
+      "filmes_ifc_films.json",
+      "filmes_sony_pictures.json",
+      "filmes_20th_century_fox.json",
+      "filmes_disney_pixar.json"
+    ],
+    "total": 36
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_de_repente_humana_s01.json",
+      "dorama_o_amor_pode_ser_traduzido.json",
+      "dorama_hong_a_infiltrada.json",
+      "dorama_speed_and_love_s01.json"
+    ],
+    "total": 4
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_melhor_de_tudo_s01.json",
+      "dorama_pro_bono_s01.json",
+      "dorama_beijo_explosivo_s01.json"
+    ],
+    "total": 3
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_o_manipulado_s01.json",
+      "dorama_desprazer_em_te_conhecer_s01.json",
+      "dorama_romanticos_anonimos_s01.json",
+      "dorama_gostinho_de_amor_s01.json",
+      "dorama_um_bom_garoto_s01.json"
+    ],
+    "total": 5
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_unicornio_implacavel_s01.json",
+      "dorama_classe_dos_herois_fracos_s01.json",
+      "dorama_classe_dos_herois_fracos_s02.json",
+      "dorama_uma_seul_desconhecida_s01.json",
+      "dorama_amor_de_cinema_s01.json",
+      "dorama_a_boa_mae_ma_s01.json"
+    ],
+    "total": 6
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_karma_s01.json",
+      "dorama_newtopia_s01.json",
+      "dorama_seguro_para_divorciados_s01.json",
+      "dorama_kakegurui_aposta_s01.json",
+      "dorama_extracurricular_s01.json",
+      "dorama_doce_engano_s01.json"
+    ],
+    "total": 6
+  },
+  {
+    "nome": "DendiHome | Dorama",
+    "arquivos": [
+      "dorama_resident_playbook_s01.json",
+      "dorama_depois_do_adeus_s01.json",
+      "dorama_mr_plankton_s01.json",
+      "dorama_amor_e_batatas_s01.json",
+      "dorama_the_trunk_s01.json",
+      "dorama_rainha_das_lagrimas_s01.json"
+    ],
+    "total": 6
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_o_amor_mora_ao_lado_s01.json",
+      "dorama_escola_dos_romances_proibidos_s01.json",
+      "dorama_se_a_vida_te_der_tangerinas_s01.json",
+      "dorama_pergunte_as_estrelas_s01.json"
+    ],
+    "total": 4
+  },
+  {
+    "nome": "DendiHome | Doramas",
+    "arquivos": [
+      "dorama_flores_no_deserto_s01.json",
+      "dorama_agency_s01.json",
+      "dorama_desgraca_ao_seu_dispor_s01.json"
+    ],
+    "total": 3
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "series_drama.json"
+    ],
+    "total": 1
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_sem_piedade_s01.json",
+      "serie_stick_s01.json",
+      "series_careme_o_rebelde_da_culinaria_s01.json",
+      "serie_o_melhor_infarto_da_minha_vida_s01.json",
+      "serie_senna_s01.json",
+      "serie_round_6_s01.json",
+      "serie_round_6_s02.json",
+      "serie_round_6_s03.json"
+    ],
+    "total": 8
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_adamas_s01.json",
+      "serie_o_dia_do_chacal_s01.json",
+      "serie_pure_genius_s01.json",
+      "serie_respira_s01.json",
+      "serie_ted_a_serie_s01.json",
+      "serie_criadas_e_malvadas_s01.json"
+    ],
+    "total": 6
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_criadas_e_malvadas_s02.json",
+      "serie_criadas_e_malvadas_s03.json",
+      "serie_criadas_e_malvadas_s04.json",
+      "serie_impuros_s01.json",
+      "serie_impuros_s02.json"
+    ],
+    "total": 5
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_impuros_s03.json",
+      "serie_impuros_s04.json",
+      "serie_impuros_s05.json",
+      "serie_origem_s01_dub.json",
+      "serie_origem_s02_dub.json",
+      "serie_origem_s03_dub.json"
+    ],
+    "total": 6
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_lupin_s01.json",
+      "serie_lupin_s02.json",
+      "serie_lupin_s03.json",
+      "serie_manual_d_assassinato_para_boas_garotas_s01.json",
+      "serie_sangue_novo_s01.json",
+      "serie_maria_e_o_cangaco_s01.json",
+      "serie_cacador_d_demonios_s01.json",
+      "serie_segundas_intencoes_s01.json",
+      "serie_demolidor_renascido_s01.json"
+    ],
+    "total": 9
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_adolescencia_s01.json",
+      "serie_chewing_gum_s01.json",
+      "serie_chewing_gum_s02.json",
+      "serie_nem_tao_perfeito_assim_s01.json",
+      "serie_nem_tao_perfeito_assim_s02.json",
+      "serie_sintonia_s05.json",
+      "serie_dom_s01.json",
+      "serie_dom_s02.json",
+      "serie_dom_s03.json"
+    ],
+    "total": 9
+  },
+  {
+    "nome": "DendiHome | Séries",
+    "arquivos": [
+      "serie_spider_noir_s01.json",
+      "serie_one_piece_s01.json",
+      "serie_one_piece_s02.json",
+      "serie_the_mick_s01.json",
+      "serie_the_mick_s02.json",
+      "serie_ncis_tony_ziva_s01.json",
+      "serie_musica_e_sonhos_s01.json",
+      "serie_trapped_s01.json",
+      "serie_trapped_s02.json"
+    ],
+    "total": 9
+  },
+  {
+    "nome": "DendiHome | Animes",
+    "arquivos": [
+      "anime_devil_may_cry_s01.json",
+      "anime_attack_on_titan_s01.json",
+      "anime_attack_on_titan_s02.json",
+      "anime_attack_on_titan_s03.json",
+      "anime_attack_on_titan_s04.json"
+    ],
+    "total": 5
+  },
+  {
+    "nome": "DendiHome | Reality Shows",
+    "arquivos": [
+      "reality_meu_namorado_coreano_s01.json",
+      "reality_ilha_da_tentacao_island_s01.json",
+      "reality_ilha_da_tentacao_island_s02.json",
+      "reality_ilha_da_tentacao_island_s03.json",
+      "reality_ilha_da_tentacao_island_s04.json"
+    ],
+    "total": 5
+  }
+]

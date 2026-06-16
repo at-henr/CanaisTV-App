@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <title>Página Não Encontrada - CanaisTV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A página que você está procurando não foi encontrada." />
+    <meta name="theme-color" content="#000000" />
+    <meta name="robots" content="noindex, nofollow" />
+    
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ef4444'%3E%3Cpath d='M4 3.75a.75.75 0 0 0-1.5 0v16.5a.75.75 0 0 0 1.5 0V3.75Z' /%3E%3Cpath d='M19.5 2.25a.75.75 0 0 0-1.5 0v19.5a.75.75 0 0 0 1.5 0V2.25Z' /%3E%3Cpath d='M8.25 2.25a.75.75 0 0 0-1.5 0v19.5a.75.75 0 0 0 1.5 0V2.25Z' /%3E%3Cpath d='M15.75 3.75a.75.75 0 0 0-1.5 0v16.5a.75.75 0 0 0 1.5 0V3.75Z' /%3E%3Cpath fill-rule='evenodd' d='M22.5 12c0-5.23-4.27-9.5-9.5-9.5S3.5 6.77 3.5 12s4.27 9.5 9.5 9.5 9.5-4.27 9.5-9.5Zm-10.5-4.25a.75.75 0 0 0-1 .52l-4.5 9.5a.75.75 0 0 0 1.348.64l1.09-2.3a.75.75 0 0 1 .64-.41h4.844a.75.75 0 0 1 .639.41l1.09 2.3a.75.75 0 0 0 1.348-.64l-4.5-9.5a.75.75 0 0 0-1-.52Z' clip-rule='evenodd' /%3E%3C/svg%3E">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
+    <style>
+        /* Reset básico e variáveis */
+        :root {
+            --primary-red: #ef4444;
+            --dark-bg: #000000;
+            --text-white: #ffffff;
+            --text-gray: #9ca3af;
+            --text-gray-light: #e5e7eb;
+            --btn-bg: #1f2937; /* gray-800 */
+            --btn-hover: #374151; /* gray-700 */
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--dark-bg);
+            color: var(--text-white);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            /* Simulando a classe body-com-fundo se ela tiver algum gradiente ou imagem específica, 
+               aqui coloquei um gradiente sutil padrão para não ficar chapado */
+            background: radial-gradient(circle at top center, #1a1a1a 0%, #000000 100%);
+        }
+
+        /* Layout */
+        .container {
+            width: 100%;
+            max-width: 1280px; /* lg breakpoint aproximado */
+            margin: 0 auto;
+            padding: 0 1rem; /* px-4 */
+        }
+
+        @media (min-width: 640px) { .container { padding: 0 1.5rem; } } /* sm:px-6 */
+        @media (min-width: 1024px) { .container { padding: 0 2rem; } } /* lg:px-8 */
+
+        /* Header */
+        header {
+            padding-top: 1rem;
+            padding-bottom: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo-link {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            gap: 0.5rem; /* space-x-2 */
+        }
+
+        .logo-svg {
+            width: 2.5rem; /* w-10 */
+            height: 2.5rem; /* h-10 */
+            color: var(--primary-red);
+        }
+
+        .logo-text {
+            font-size: 1.875rem; /* text-3xl */
+            font-weight: 800; /* font-extrabold */
+            color: var(--text-white);
+            letter-spacing: 0.05em; /* tracking-wider */
+        }
+
+        .text-highlight {
+            color: var(--primary-red);
+        }
+
+        .nav-buttons {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem; /* space-x-2 */
+        }
+
+        .btn {
+            font-weight: 600; /* font-semibold */
+            font-size: 0.875rem; /* text-sm */
+            padding: 0.5rem 1.5rem; /* py-2 px-6 */
+            border-radius: 9999px; /* rounded-full */
+            text-decoration: none;
+            transition: background-color 0.3s, color 0.3s;
+            display: inline-block;
+        }
+
+        .btn-primary {
+            background-color: var(--btn-bg);
+            color: var(--text-white);
+        }
+
+        .btn-primary:hover {
+            background-color: var(--btn-hover);
+        }
+
+        .btn-secondary {
+            color: #d1d5db; /* gray-300 */
+            padding: 0.5rem 1rem; /* py-2 px-4 */
+        }
+
+        .btn-secondary:hover {
+            color: var(--text-white);
+            background-color: rgba(31, 41, 55, 0.5); /* gray-800/50 */
+        }
+
+        /* Main Content (404) */
+        main {
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .error-code {
+            font-size: 6rem; /* text-8xl base */
+            font-weight: 900; /* font-black */
+            color: var(--primary-red);
+            line-height: 1;
+        }
+
+        .error-title {
+            margin-top: 1rem;
+            font-size: 1.875rem; /* text-3xl */
+            font-weight: 800; /* font-extrabold */
+            color: var(--text-white);
+        }
+
+        .error-desc {
+            margin-top: 1rem;
+            font-size: 1.125rem; /* text-lg */
+            color: var(--text-gray);
+        }
+
+        .btn-home {
+            margin-top: 2rem;
+            background-color: var(--btn-bg);
+            color: var(--text-white);
+            font-weight: 700; /* font-bold */
+            font-size: 1.125rem; /* text-lg */
+            padding: 0.75rem 2rem; /* px-8 py-3 */
+            border-radius: 9999px;
+            text-decoration: none;
+            display: inline-block;
+            transition: transform 0.2s, background-color 0.3s;
+        }
+
+        .btn-home:hover {
+            background-color: var(--btn-hover);
+            transform: scale(1.05);
+        }
+
+        /* Media Queries para tipografia */
+        @media (min-width: 768px) {
+            .error-code { font-size: 8rem; } /* md:text-9xl (aprox) */
+            .error-title { font-size: 3rem; } /* md:text-5xl */
+        }
+
+        /* Footer */
+        footer {
+            padding-top: 3rem;
+            padding-bottom: 3rem;
+            background: rgba(255, 255, 255, 0.05); /* glass effect simulação */
+            backdrop-filter: blur(10px);
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .footer-content {
+            max-width: 64rem; /* max-w-5xl */
+            margin: 0 auto;
+            text-align: center;
+            color: var(--text-gray);
+        }
+
+        .footer-text {
+            margin-bottom: 2rem;
+        }
+
+        .footer-link-highlight {
+            color: var(--text-gray-light);
+            text-decoration: none;
+        }
+
+        .footer-link-highlight:hover {
+            text-decoration: underline;
+        }
+
+        .footer-links-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+            font-size: 0.875rem; /* text-sm */
+        }
+
+        @media (min-width: 640px) {
+            .footer-links-grid {
+                grid-template-columns: repeat(4, 1fr);
+            }
+        }
+
+        .footer-link {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .footer-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header class="container">
+         <a href="index.html" class="logo-link">
+            <svg class="logo-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M4 3.75a.75.75 0 0 0-1.5 0v16.5a.75.75 0 0 0 1.5 0V3.75Z" />
+                <path d="M19.5 2.25a.75.75 0 0 0-1.5 0v19.5a.75.75 0 0 0 1.5 0V2.25Z" />
+                <path d="M8.25 2.25a.75.75 0 0 0-1.5 0v19.5a.75.75 0 0 0 1.5 0V2.25Z" />
+                <path d="M15.75 3.75a.75.75 0 0 0-1.5 0v16.5a.75.75 0 0 0 1.5 0V3.75Z" />
+                <path fill-rule="evenodd" d="M22.5 12c0-5.23-4.27-9.5-9.5-9.5S3.5 6.77 3.5 12s4.27 9.5 9.5 9.5 9.5-4.27 9.5-9.5Zm-10.5-4.25a.75.75 0 0 0-1 .52l-4.5 9.5a.75.75 0 0 0 1.348.64l1.09-2.3a.75.75 0 0 1 .64-.41h4.844a.75.75 0 0 1 .639.41l1.09 2.3a.75.75 0 0 0 1.348-.64l-4.5-9.5a.75.75 0 0 0-1-.52Z" clip-rule="evenodd" />
+            </svg>
+            <span class="logo-text">Canais<span class="text-highlight">TV</span></span>
+        </a>
+        <div class="nav-buttons">
+            <a href="https://canaistv.fun" class="btn btn-primary">Assine Agora</a>
+            <a href="https://canaistv.fun" class="btn btn-secondary">Entrar</a>
+        </div>
+    </header>
+
+    <main class="container">
+        <div>
+            <h1 class="error-code">404</h1>
+            <h2 class="error-title">Página Não Encontrada</h2>
+            <p class="error-desc">Oops! Parece que o conteúdo que você procura não existe ou foi movido.</p>
+            <a href="https://canaistv.fun" class="btn-home">
+                Voltar para a Página Inicial
+            </a>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container footer-content">
+            <p class="footer-text">Dúvidas? <a href="mailto:canaistv@proton.me" class="footer-link-highlight">Entre em contato</a>.</p>
+            <div class="footer-links-grid">
+                <a href="https://canaistv.fun/ajuda.html" class="footer-link">Perguntas frequentes</a>
+                <a href="https://canaistv.fun/ajuda.html" class="footer-link">Central de Ajuda</a>
+                <a href="https://canaistv.fun/termo.html" class="footer-link">Termos de Uso</a>
+                <a href="https://canaistv.fun/privacidade.html" class="footer-link">Privacidade</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

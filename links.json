@@ -1,0 +1,18 @@
+{
+  "Recomendado": {
+    "movie": "https://api.embedplayer.site/$id/",
+    "tv": "https://api.embedplayer.site/tv/$tmdb/$seasonNum/$episodeNum/$audio"
+  },
+  "Rápido": {
+    "movie": "https://playerflixapi.com/filme/$id",
+    "tv": "https://playerflixapi.com/serie/$id/$seasonNum/$episodeNum"
+  },
+  "Ultra": {
+    "movie": "https://superflixapi.online/filme/$id#noLink",
+    "tv": "https://superflixapi.online/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
+  },
+  "New": {
+    "movie": "https://embedplayapi.top/embed/$id",
+    "tv": "https://embedplayapi.top/embed/$id/$seasonNum/$episodeNum"
+  }
+}
