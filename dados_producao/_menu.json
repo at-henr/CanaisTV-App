@@ -1,285 +1,552 @@
 [
   {
-    "nome": "DendiHome | Filmes",
-    "arquivos": [
-      "filmes_drama.json"
-    ],
-    "total": 1
+    "nome": "Filmes - Netflix",
+    "arquivo": "filmes_netflix.json",
+    "total": 32
   },
   {
-    "nome": "DendiHome | Filmes",
-    "arquivos": [
-      "filmes_comedia.json"
-    ],
-    "total": 1
+    "nome": "Filmes - Drama",
+    "arquivo": "filmes_drama.json",
+    "total": 34
   },
   {
-    "nome": "DendiHome | Filmes",
-    "arquivos": [
-      "filmes_thriller.json",
-      "filmes_terror.json",
-      "filmes_aventura.json"
-    ],
-    "total": 3
+    "nome": "Filmes - Terror",
+    "arquivo": "filmes_terror.json",
+    "total": 59
   },
   {
-    "nome": "DendiHome | Filmes",
-    "arquivos": [
-      "geral.json",
-      "filmes_documentario.json",
-      "filmes_acao.json",
-      "filmes_animacao.json"
-    ],
-    "total": 4
+    "nome": "Filmes - Animação",
+    "arquivo": "filmes_animacao.json",
+    "total": 24
   },
   {
-    "nome": "DendiHome | Filmes Extras",
-    "arquivos": [
-      "filmes_historia.json",
-      "filmes_ficcao_cientifica.json",
-      "filmes_fantasia.json",
-      "filmes_crime.json",
-      "filmes_misterio.json",
-      "filmes_romance.json",
-      "filmes_star_distribution.json",
-      "filmes_familia.json",
-      "filmes_cinema_tv.json",
-      "filmes_20th_century_studios.json",
-      "filmes_musica.json",
-      "filmes_faroeste.json",
-      "filmes_netflix.json",
-      "filmes_apple_tv.json",
-      "filmes.json",
-      "filmes_amazon_prime.json",
-      "filmes_summit_entertainment.json",
-      "filmes_paramount_pictures.json",
-      "filmes_dreamworks.json",
-      "filmes_amazon_mgm_studios.json",
-      "filmes_new_line_cinema.json",
-      "filmes_nickelodeon.json",
-      "filmes_warner_bros.json",
-      "filmes_disney.json",
-      "filmes_marvel_studios.json",
-      "filmes_neon.json",
-      "filmes_a24.json",
-      "filmes_universal_pictures.json",
-      "filmes_europacorp.json",
-      "filmes_mubi.json",
-      "filmes_h2o_films.json",
-      "filmes_cineverse.json",
-      "filmes_ifc_films.json",
-      "filmes_sony_pictures.json",
-      "filmes_20th_century_fox.json",
-      "filmes_disney_pixar.json"
-    ],
-    "total": 36
+    "nome": "FILMES",
+    "arquivo": "filmes.json",
+    "total": 40
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_de_repente_humana_s01.json",
-      "dorama_o_amor_pode_ser_traduzido.json",
-      "dorama_hong_a_infiltrada.json",
-      "dorama_speed_and_love_s01.json"
-    ],
-    "total": 4
+    "nome": "Filmes - Thriller",
+    "arquivo": "filmes_thriller.json",
+    "total": 17
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_melhor_de_tudo_s01.json",
-      "dorama_pro_bono_s01.json",
-      "dorama_beijo_explosivo_s01.json"
-    ],
-    "total": 3
+    "nome": "Filmes - Ação",
+    "arquivo": "filmes_acao.json",
+    "total": 78
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_o_manipulado_s01.json",
-      "dorama_desprazer_em_te_conhecer_s01.json",
-      "dorama_romanticos_anonimos_s01.json",
-      "dorama_gostinho_de_amor_s01.json",
-      "dorama_um_bom_garoto_s01.json"
-    ],
-    "total": 5
+    "nome": "Filmes - Comédia",
+    "arquivo": "filmes_comedia.json",
+    "total": 69
+  },
+  
+  {
+    "nome": "Filmes - Família",
+    "arquivo": "filmes_familia.json",
+    "total":17
+  },
+  
+  {
+    "nome": "Filmes - Universal Pictures",
+    "arquivo": "filmes_universal_pictures.json",
+    "total": 22
+  },
+  
+  {
+    "nome": "Filmes - Cinema TV",
+    "arquivo": "filmes_cinema_tv.json",
+    "total": 16
+  },
+  
+  {
+    "nome": "Série - Selecionadas",
+    "arquivo": "serie_one_piece_s01.json",
+    "total": 14
+  },
+  
+  {
+    "nome": "Série | THE MICK S01",
+    "arquivo": "serie_the_mick_s01.json",
+    "total": 32
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_unicornio_implacavel_s01.json",
-      "dorama_classe_dos_herois_fracos_s01.json",
-      "dorama_classe_dos_herois_fracos_s02.json",
-      "dorama_uma_seul_desconhecida_s01.json",
-      "dorama_amor_de_cinema_s01.json",
-      "dorama_a_boa_mae_ma_s01.json"
-    ],
-    "total": 6
+    "nome": "Série | THE MICK S02",
+    "arquivo": "serie_the_mick_s02.json",
+    "total": 38
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_karma_s01.json",
-      "dorama_newtopia_s01.json",
-      "dorama_seguro_para_divorciados_s01.json",
-      "dorama_kakegurui_aposta_s01.json",
-      "dorama_extracurricular_s01.json",
-      "dorama_doce_engano_s01.json"
-    ],
-    "total": 6
+    "nome": "Série | NCIS: Tony & Ziva S01",
+    "arquivo": "serie_ncis_tony_ziva_s01.json",
+    "total": 18
   },
   {
-    "nome": "DendiHome | Dorama",
-    "arquivos": [
-      "dorama_resident_playbook_s01.json",
-      "dorama_depois_do_adeus_s01.json",
-      "dorama_mr_plankton_s01.json",
-      "dorama_amor_e_batatas_s01.json",
-      "dorama_the_trunk_s01.json",
-      "dorama_rainha_das_lagrimas_s01.json"
-    ],
-    "total": 6
+    "nome": "Série | MÚSICA E SONHOS S01",
+    "arquivo": "serie_musica_e_sonhos_s01.json",
+    "total": 14
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_o_amor_mora_ao_lado_s01.json",
-      "dorama_escola_dos_romances_proibidos_s01.json",
-      "dorama_se_a_vida_te_der_tangerinas_s01.json",
-      "dorama_pergunte_as_estrelas_s01.json"
-    ],
-    "total": 4
+    "nome": "Série | TRAPPED S01",
+    "arquivo": "serie_trapped_s01.json",
+    "total": 18
   },
   {
-    "nome": "DendiHome | Doramas",
-    "arquivos": [
-      "dorama_flores_no_deserto_s01.json",
-      "dorama_agency_s01.json",
-      "dorama_desgraca_ao_seu_dispor_s01.json"
-    ],
-    "total": 3
+    "nome": "Série | TRAPPED S02",
+    "arquivo": "serie_trapped_s02.json",
+    "total": 20
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "series_drama.json"
-    ],
-    "total": 1
+    "nome": "Reality | MEU NAMORADO COREANO S01",
+    "arquivo": "reality_meu_namorado_coreano_s01.json",
+    "total": 14
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_sem_piedade_s01.json",
-      "serie_stick_s01.json",
-      "series_careme_o_rebelde_da_culinaria_s01.json",
-      "serie_o_melhor_infarto_da_minha_vida_s01.json",
-      "serie_senna_s01.json",
-      "serie_round_6_s01.json",
-      "serie_round_6_s02.json",
-      "serie_round_6_s03.json"
-    ],
+    "nome": "Dorama | DE REPENTE HUMANA S01",
+    "arquivo": "dorama_de_repente_humana_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama |  O AMOR PODE SER TRADUZIDO?",
+    "arquivo": "dorama_o_amor_pode_ser_traduzido.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | HONG A INFILTRADA",
+    "arquivo": "dorama_hong_a_infiltrada.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | SPEED AND LOVE S01",
+    "arquivo": "dorama_speed_and_love_s01.json",
+    "total": 54
+  },
+  {
+    "nome": "Dorama | MELHOR DE TUDO S01",
+    "arquivo": "dorama_melhor_de_tudo_s01.json",
+    "total": 54
+  },
+  {
+    "nome": "Dorama | PRO BONO S01",
+    "arquivo": "dorama_pro_bono_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | BEIJO EXPLOSIVO S01",
+    "arquivo": "dorama_beijo_explosivo_s01.json",
+    "total": 26
+  },
+  {
+    "nome": "Dorama | O MANIPULADO S01",
+    "arquivo": "dorama_o_manipulado_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | DESPRAZER EM TE CONHECER S01",
+    "arquivo": "dorama_desprazer_em_te_conhecer_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | ROMÂNTICOS ANÔNIMOS S01",
+    "arquivo": "dorama_romanticos_anonimos_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Dorama | GOSTINHO DE AMOR S01",
+    "arquivo": "dorama_gostinho_de_amor_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Dorama | UM BOM GAROTO S01",
+    "arquivo": "dorama_um_bom_garoto_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | UNICÓRNIO IMPLACÁVEL S01",
+    "arquivo": "dorama_unicornio_implacavel_s01.json",
+    "total": 12
+  },
+  {
+    "nome": "Série | SEM PIEDADE S01",
+    "arquivo": "serie_sem_piedade_s01.json",
+    "total": 12
+  },
+  {
+    "nome": "Dorama | CLASSE DOS HERÓIS FRACOS S01",
+    "arquivo": "dorama_classe_dos_herois_fracos_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Dorama | CLASSE DOS HERÓIS FRACOS S02",
+    "arquivo": "dorama_classe_dos_herois_fracos_s02.json",
+    "total": 16
+  },
+  {
+    "nome": "Dorama | UMA SEUL DESCONHECIDA S01",
+    "arquivo": "dorama_uma_seul_desconhecida_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | AMOR DE CINEMA S01",
+    "arquivo": "dorama_amor_de_cinema_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Dorama | A BOA MÃE MÁ S01",
+    "arquivo": "dorama_a_boa_mae_ma_s01.json",
+    "total": 26
+  },
+  {
+    "nome": "Dorama | KARMA S01",
+    "arquivo": "dorama_karma_s01.json",
+    "total": 10
+  },
+  {
+    "nome": "Dorama | NEWTOPIA S01",
+    "arquivo": "dorama_newtopia_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Dorama |  SEGURO PARA DIVORCIADOS S01",
+    "arquivo": "dorama_seguro_para_divorciados_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | KAKEGURUI APOSTA S01",
+    "arquivo": "dorama_kakegurui_aposta_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Dorama | EXTRACURRICULAR  S01",
+    "arquivo": "dorama_extracurricular_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Dorama | DOCE ENGANO S01",
+    "arquivo": "dorama_doce_engano_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | RESIDENT PLAYBOOK S01",
+    "arquivo": "dorama_resident_playbook_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | DEPOIS DO ADEUS S01",
+    "arquivo": "dorama_depois_do_adeus_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Dorama | Mr. PLANKTON S01",
+    "arquivo": "dorama_mr_plankton_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Dorama | AMOR E BATATAS S01",
+    "arquivo": "dorama_amor_e_batatas_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | THE TRUNK S01",
+    "arquivo": "dorama_the_trunk_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Dorama | RAINHA DAS LÁGRIMAS S01",
+    "arquivo": "dorama_rainha_das_lagrimas_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | O AMOR MORA AO LADO S01",
+    "arquivo": "dorama_o_amor_mora_ao_lado_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | ESCOLA DOS ROMANCES PROIBIDOS S01",
+    "arquivo": "dorama_escola_dos_romances_proibidos_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Dorama | SE A VIDA TE DER TANGERINAS S01",
+    "arquivo": "dorama_se_a_vida_te_der_tangerinas_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | PERGUNTE ÀS ESTRELAS S01",
+    "arquivo": "dorama_pergunte_as_estrelas_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | FLORES NO DESERTO S01",
+    "arquivo": "dorama_flores_no_deserto_s01.json",
+    "total": 22
+  },
+  {
+    "nome": "Dorama | Agency S01",
+    "arquivo": "dorama_agency_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Dorama | DESGRAÇA AO SEU DISPOR S01",
+    "arquivo": "dorama_desgraca_ao_seu_dispor_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Série | STICK S01",
+    "arquivo": "serie_stick_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Series | Carême – O Rebelde da Culinária S01",
+    "arquivo": "series_careme_o_rebelde_da_culinaria_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | O MELHOR INFARTO DA MINHA VIDA S01",
+    "arquivo": "serie_o_melhor_infarto_da_minha_vida_s01.json",
+    "total": 10
+  },
+  {
+    "nome": "Série | SENNA S01",
+    "arquivo": "serie_senna_s01.json",
+    "total": 10
+  },
+  {
+    "nome": "Série | ROUND 6 S01",
+    "arquivo": "serie_round_6_s01.json",
+    "total": 16
+  },
+  {
+    "nome": "Série | ROUND 6 S02",
+    "arquivo": "serie_round_6_s02.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | ROUND 6 S03",
+    "arquivo": "serie_round_6_s03.json",
+    "total": 12
+  },
+  {
+    "nome": "Série | ADAMAS S01",
+    "arquivo": "serie_adamas_s01.json",
+    "total": 30
+  },
+  {
+    "nome": "Reality | iLHA DA TENTAÇÃO ISLAND S01",
+    "arquivo": "reality_ilha_da_tentacao_island_s01.json",
+    "total": 20
+  },
+  {
+    "nome": "Reality | iLHA DA TENTAÇÃO ISLAND S02",
+    "arquivo": "reality_ilha_da_tentacao_island_s02.json",
+    "total": 26
+  },
+  {
+    "nome": "Reality | iLHA DA TENTAÇÃO ISLAND S03",
+    "arquivo": "reality_ilha_da_tentacao_island_s03.json",
+    "total": 24
+  },
+  {
+    "nome": "Reality | iLHA DA TENTAÇÃO ISLAND S04",
+    "arquivo": "reality_ilha_da_tentacao_island_s04.json",
+    "total": 23
+  },
+  {
+    "nome": "Série | O DIA DO CHACAL S01",
+    "arquivo": "serie_o_dia_do_chacal_s01.json",
     "total": 8
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_adamas_s01.json",
-      "serie_o_dia_do_chacal_s01.json",
-      "serie_pure_genius_s01.json",
-      "serie_respira_s01.json",
-      "serie_ted_a_serie_s01.json",
-      "serie_criadas_e_malvadas_s01.json"
-    ],
+    "nome": "Serie | PURE GENIUS S01",
+    "arquivo": "serie_pure_genius_s01.json",
+    "total": 24
+  },
+  {
+    "nome": "Serie | RESPIRA S01",
+    "arquivo": "serie_respira_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Serie | TED A SÉRIE S01",
+    "arquivo": "serie_ted_a_serie_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | CRIADAS E MALVADAS S01",
+    "arquivo": "serie_criadas_e_malvadas_s01.json",
+    "total": 24
+  },
+  {
+    "nome": "Série | CRIADAS E MALVADAS S02",
+    "arquivo": "serie_criadas_e_malvadas_s02.json",
+    "total": 26
+  },
+  {
+    "nome": "Série | CRIADAS E MALVADAS S03",
+    "arquivo": "serie_criadas_e_malvadas_s03.json",
+    "total": 26
+  },
+  {
+    "nome": "Série | CRIADAS E MALVADAS S04",
+    "arquivo": "serie_criadas_e_malvadas_s04.json",
+    "total": 18
+  },
+  {
+    "nome": "Serie | IMPUROS S01",
+    "arquivo": "serie_impuros_s01.json",
+    "total": 18
+  },
+  {
+    "nome": "Serie | IMPUROS S02",
+    "arquivo": "serie_impuros_s02.json",
+    "total": 20
+  },
+  {
+    "nome": "Serie | IMPUROS S03",
+    "arquivo": "serie_impuros_s03.json",
+    "total": 20
+  },
+  {
+    "nome": "Serie | IMPUROS S04",
+    "arquivo": "serie_impuros_s04.json",
+    "total": 18
+  },
+  {
+    "nome": "Serie | IMPUROS S05",
+    "arquivo": "serie_impuros_s05.json",
+    "total": 17
+  },
+  {
+    "nome": "Série | ORIGEM S01 DUB",
+    "arquivo": "serie_origem_s01_dub.json",
+    "total": 18
+  },
+  {
+    "nome": "Série | ORIGEM S02 DUB",
+    "arquivo": "serie_origem_s02_dub.json",
+    "total": 20
+  },
+  {
+    "nome": "Série | ORIGEM S03 DUB",
+    "arquivo": "serie_origem_s03_dub.json",
+    "total": 20
+  },
+  {
+    "nome": "Série | LUPIN S01",
+    "arquivo": "serie_lupin_s01.json",
+    "total": 8
+  },
+  {
+    "nome": "Série | LUPIN S02",
+    "arquivo": "serie_lupin_s02.json",
+    "total": 10
+  },
+  {
+    "nome": "Série | LUPIN S03",
+    "arquivo": "serie_lupin_s03.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | MANUAL D ASSASSINATO PARA BOAS GAROTAS S01",
+    "arquivo": "serie_manual_d_assassinato_para_boas_garotas_s01.json",
+    "total": 10
+  },
+  {
+    "nome": "Série | SANGUE NOVO S01",
+    "arquivo": "serie_sangue_novo_s01.json",
+    "total": 12
+  },
+  {
+    "nome": "Série | MARIA E O CANGAÇO S01",
+    "arquivo": "serie_maria_e_o_cangaco_s01.json",
+    "total": 10
+  },
+  {
+    "nome": "Série | CAÇADOR D DEMÔNIOS S01",
+    "arquivo": "serie_cacador_d_demonios_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | SEGUNDAS INTENÇÕES S01",
+    "arquivo": "serie_segundas_intencoes_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | DEMOLIDOR: RENASCIDO S01",
+    "arquivo": "serie_demolidor_renascido_s01.json",
+    "total": 14
+  },
+  {
+    "nome": "Série | ADOLESCÊNCIA S01",
+    "arquivo": "serie_adolescencia_s01.json",
     "total": 6
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_criadas_e_malvadas_s02.json",
-      "serie_criadas_e_malvadas_s03.json",
-      "serie_criadas_e_malvadas_s04.json",
-      "serie_impuros_s01.json",
-      "serie_impuros_s02.json"
-    ],
-    "total": 5
+    "nome": "Série | CHEWING GUM S01",
+    "arquivo": "serie_chewing_gum_s01.json",
+    "total": 10
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_impuros_s03.json",
-      "serie_impuros_s04.json",
-      "serie_impuros_s05.json",
-      "serie_origem_s01_dub.json",
-      "serie_origem_s02_dub.json",
-      "serie_origem_s03_dub.json"
-    ],
-    "total": 6
+    "nome": "Série | CHEWING GUM S02",
+    "arquivo": "serie_chewing_gum_s02.json",
+    "total": 12
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_lupin_s01.json",
-      "serie_lupin_s02.json",
-      "serie_lupin_s03.json",
-      "serie_manual_d_assassinato_para_boas_garotas_s01.json",
-      "serie_sangue_novo_s01.json",
-      "serie_maria_e_o_cangaco_s01.json",
-      "serie_cacador_d_demonios_s01.json",
-      "serie_segundas_intencoes_s01.json",
-      "serie_demolidor_renascido_s01.json"
-    ],
-    "total": 9
+    "nome": "Série | NEM TÃO PERFEITO ASSIM S01",
+    "arquivo": "serie_nem_tao_perfeito_assim_s01.json",
+    "total": 18
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_adolescencia_s01.json",
-      "serie_chewing_gum_s01.json",
-      "serie_chewing_gum_s02.json",
-      "serie_nem_tao_perfeito_assim_s01.json",
-      "serie_nem_tao_perfeito_assim_s02.json",
-      "serie_sintonia_s05.json",
-      "serie_dom_s01.json",
-      "serie_dom_s02.json",
-      "serie_dom_s03.json"
-    ],
-    "total": 9
+    "nome": "Série | NEM TÃO PERFEITO ASSIM S02",
+    "arquivo": "serie_nem_tao_perfeito_assim_s02.json",
+    "total": 16
   },
   {
-    "nome": "DendiHome | Séries",
-    "arquivos": [
-      "serie_spider_noir_s01.json",
-      "serie_one_piece_s01.json",
-      "serie_one_piece_s02.json",
-      "serie_the_mick_s01.json",
-      "serie_the_mick_s02.json",
-      "serie_ncis_tony_ziva_s01.json",
-      "serie_musica_e_sonhos_s01.json",
-      "serie_trapped_s01.json",
-      "serie_trapped_s02.json"
-    ],
-    "total": 9
+    "nome": "Série | SINTONIA S05",
+    "arquivo": "serie_sintonia_s05.json",
+    "total": 10
   },
   {
-    "nome": "DendiHome | Animes",
-    "arquivos": [
-      "anime_devil_may_cry_s01.json",
-      "anime_attack_on_titan_s01.json",
-      "anime_attack_on_titan_s02.json",
-      "anime_attack_on_titan_s03.json",
-      "anime_attack_on_titan_s04.json"
-    ],
-    "total": 5
+    "nome": "Série | DOM S01",
+    "arquivo": "serie_dom_s01.json",
+    "total": 14
   },
   {
-    "nome": "DendiHome | Reality Shows",
-    "arquivos": [
-      "reality_meu_namorado_coreano_s01.json",
-      "reality_ilha_da_tentacao_island_s01.json",
-      "reality_ilha_da_tentacao_island_s02.json",
-      "reality_ilha_da_tentacao_island_s03.json",
-      "reality_ilha_da_tentacao_island_s04.json"
-    ],
-    "total": 5
+    "nome": "Série | DOM S02",
+    "arquivo": "serie_dom_s02.json",
+    "total": 16
+  },
+  {
+    "nome": "Série | DOM S03",
+    "arquivo": "serie_dom_s03.json",
+    "total": 10
+  },
+  {
+    "nome": "Anime | DEVIL MAY CRY S01",
+    "arquivo": "anime_devil_may_cry_s01.json",
+    "total": 7
+  },
+  {
+    "nome": "Anime | ATTACK ON TITAN S01",
+    "arquivo": "anime_attack_on_titan_s01.json",
+    "total": 24
+  },
+  {
+    "nome": "Anime | ATTACK ON TITAN S02",
+    "arquivo": "anime_attack_on_titan_s02.json",
+    "total": 12
+  },
+  {
+    "nome": "Anime | ATTACK ON TITAN S03",
+    "arquivo": "anime_attack_on_titan_s03.json",
+    "total": 22
+  },
+  {
+    "nome": "Anime | ATTACK ON TITAN S04",
+    "arquivo": "anime_attack_on_titan_s04.json",
+    "total": 23
+  },
+  {
+    "nome": "Série | SPIDER-NOIR S01",
+    "arquivo": "serie_spider_noir_s01.json",
+    "total": 7
   }
 ]

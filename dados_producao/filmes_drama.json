@@ -1,703 +1,87 @@
 [
   {
-    "n": "Pasárgada",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472600.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/1TK4KTXt3mQAgq09GxmohNz9PTM.jpg",
-    "s": "Irene é uma ornitóloga solitária na casa dos 50 anos que, durante um projeto de pesquisa no meio da floresta, redescobre sua tropicalidade após conhecer Manuel, um jovem guia que fala a língua das aves e traz à tona seus dilemas como mulher, mãe e profissional.",
-    "r": 8
-  },
-  {
-    "n": "Uma Noite Não é Nada",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472602.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/vlr3SWHswM19qxsBauoRy2jrENJ.jpg",
-    "s": "Em São Paulo, meados da década de 1980, Agostinho, um decadente professor de física de um supletivo noturno, acaba se apaixonando por uma de suas alunas, Márcia, uma mulher bem mais jovem que ele, emocionalmente perturbada e soropositiva. Eles começam um relacionamento e logo Agostinho comece a arriscar seu casamento com Januária.",
-    "r": 3.4
-  },
-  {
-    "n": "Ainda Somos os Mesmos",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472605.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/zV9lYXZ7lO2TSL3HljbSvW5UVbf.jpg",
-    "s": "Em 1973, após o golpe de Pinochet, o Chile era um dos lugares mais perigosos do mundo. O único lugar aparentemente seguro eram as embaixadas. O filme é baseado em relatos reais de João Carlos Bona Garcia que ficou 42 dias dentro da Embaixada nessas condições “de não saber se estaria vivo no dia seguinte” e sobreviveu.",
-    "r": 6
-  },
-  {
-    "n": "Grande Sertão",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472606.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/ps1SI5yGewDlSBANLW5kzAqwQfT.jpg",
-    "s": "A luta entre policiais e bandidos assumiu ares de uma guerra de verdade: a comunidade é cercada por um enorme muro, helicópteros rondam os céus, batalhões desfilam pelas ruas, os bandidos possuem um verdadeiro exército de guerreiros. Tudo isso se passa na gigantesca periferia urbana chamada de \"Grande Sertão\". O filme é uma adaptação do clássico literário homônimo de Guimarães Rosa.",
-    "r": 7.1
-  },
-  {
-    "n": "Saudade Fez Morada Aqui Dentro",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472608.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/bawj0qlu7msZUIvnxk8yGnL5SdD.jpg",
-    "s": "Bruno tem 15 anos e está perdendo a visão de forma irreversível. Com todas as incertezas da adolescência, amplificadas pela cegueira iminente, a história converte o destino de seu protagonista em um relato de aprendizagem coletivo.",
-    "r": 6.9
-  },
-  {
-    "n": "Silvio",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472609.mp4",
-    "p": "",
-    "s": "O silêncio no apartamento carrega histórias. O frenesi das ruas omite nossos sons. Uma conversa em um banco de praça, quebra o caos. Sílvio mora sozinho em São Paulo - Brasil.",
-    "r": 0
-  },
-  {
-    "n": "Maníaco do Parque",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472613.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/vytA7BTXLBD4UjXOVUh2pPBTlUQ.jpg",
-    "s": "Uma jovem jornalista ávida por um artigo que mudará sua carreira entra em rota de colisão com um violento assassino: o Maníaco do Parque.",
-    "r": 5.8
-  },
-  {
-    "n": "Estômago 2: O Poderoso Chef",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472614.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/21zKw6hhZaJxFyCDRHcS3E3BUzd.jpg",
-    "s": "Sequência do premiado filme de 2007, Estômago 2 conta a saborosa e sangrenta disputa entre um líder de facção e um chefão italiano pelo controle do presídio onde estão e o privilégio de ser servido pelo talentoso cozinheiro Raimundo Nonato.",
-    "r": 6.9
-  },
-  {
-    "n": "A História de Daniel",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472615.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/aTG0jw336YpAHMBkPO6kFwokiaV.jpg",
-    "s": "Daniel e seus três amigos começam a trabalhar no palácio do rei Nabucodonosor durante o período de cativeiro na Babilônia. Daniel decide não se contaminar com os costumes babilônicos e, apesar de todas as adversidades, consegue manter sua fé e fidelidade a Deus. “Daniel - O filme” é uma adaptação da novela \"O Rico e Lázaro\".",
-    "r": 0
-  },
-  {
-    "n": "Sem Asas",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472618.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/yiWLES8Qi2asuvowtQjTn2njZeX.jpg",
-    "s": "Zu é um garoto negro de 12 anos. Ele vai à mercearia comprar farinha de trigo para a sua mãe e, na volta para casa, descobre que pode voar.",
-    "r": 0
-  },
-  {
-    "n": "Levante",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472622.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/iiJLc7yQVjEQTdoDJCgylWJBwed.jpg",
-    "s": "Sofia é uma jovem atleta que descobre estar grávida às vésperas de um campeonato de vôlei decisivo para sua carreira como esportista. Na tensão do momento, ela só tem uma certeza: não pode virar mãe.",
-    "r": 7.2
-  },
-  {
-    "n": "Baile",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472623.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/ucHyXnX2gGDjnJPaDN3H5OqX9G7.jpg",
-    "s": "",
-    "r": 6
-  },
-  {
-    "n": "Lia: O Filme",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472626.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/7nDj3Zes1r61tsIpGKV0zIjCn0r.jpg",
-    "s": "Lia perde a mãe no parto da irmã caçula, Raquel. Ela sofre maus-tratos de sua madrasta e é entregue pelo pai em casamento a Jacó, que também desposa Raquel. Desta união, nasce José.",
-    "r": 6
-  },
-  {
-    "n": "Joderism",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472627.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/tIvRKVUUTWle8lrkLxImqfw6ShH.jpg",
-    "s": "Brasil, 2019. Joder é diagnosticado.",
-    "r": 0
-  },
-  {
-    "n": "Duda",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472628.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/6oozwkZnhvgM0RYDp7uHNSAFqfv.jpg",
-    "s": "",
-    "r": 9
-  },
-  {
-    "n": "Dela",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472629.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/eujMrpG5JSsKbL9LpmSBzHcxgcw.jpg",
-    "s": "Fiona e Grant estão casados há 50 anos e precisam enfrentar o fato de que a distração constante de Fiona é um sintoma do mal de Alzheimer. Ela precisa ser internada em uma casa de repouso especializada, onde se esquece lentamente de Grant e passa a dedicar seu afeto a outro paciente.",
-    "r": 7
-  },
-  {
-    "n": "Leme do Destino",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472636.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/bzLAd0GAGqpQl0RFQsOuaVekoWD.jpg",
-    "s": "Duas mulheres, amigas de longa data, vivem uma estória de amor. Ambas escrevem. São escritoras que escrevem para si e não para publicar. Escrevem como uma maneira de viver. A conversa entre elas, os desejos, a arriscada existência e seus fantasmas, o privilégio da ferida e da danação, atravessam a fala, são uma confissão.",
-    "r": 7.3
-  },
-  {
-    "n": "Porto Príncipe",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472637.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/vFgBvvRzCKzll1T4tiu8VnX7Ms7.jpg",
-    "s": "Bertha é viúva e mora sozinha numa chácara isolada na serra catarinense. Começando a enfrentar dificuldades para manter a propriedade funcionando, Bertha vive pressionada pelo filho que deseja que ela vá morar com ele em um bairro nobre de Florianópolis. Ao saber da chegada de um grupo de haitianos em Santa Catarina, Bertha decide trazer o haitiano Bastide para trabalhar e morar com ela, alimentando a hostilidade de seu filho. O convívio transforma a relação de trabalho entre Bertha e Bastide em uma relação de amizade sincera entre duas pessoas de culturas diferentes que compartilham ideias e sentimentos comuns.",
-    "r": 6
-  },
-  {
-    "n": "A Festa de Léo",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472646.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/M9mKw9YVssnrf04tOj67UPDYBQ.jpg",
-    "s": "A história retrata a realidade de uma família da favela do Vidigal e se passa nos dias que antecedem a festa de 12 anos de Léo, filho da batalhadora Rita. Ela não mede esforços para fazer uma grande comemoração para o menino, mas, no dia do evento, descobre que o marido, Dudu, envolvido com drogas, roubou todo o dinheiro destinado à festa.  A partir daí, a protagonista vai precisar superar vários obstáculos para resolver o problema e, para isso, terá que contar com a compreensão do garoto e com uma grande rede de apoio dos amigos.",
-    "r": 6.3
-  },
-  {
-    "n": "Nosso Lar 2: Os Mensageiros",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472655.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/6cP2MENe3zOj77ndC5TvoLq8MtU.jpg",
-    "s": "Cinco espíritos de Nosso Lar vêm à Terra em missão de resgate de projetos de vidas que correm perigo. Médico cuja história foi base do primeiro filme, André Luiz  junta-se ao grupo liderado pelo mentor Aniceto.",
-    "r": 6.9
-  },
-  {
-    "n": "Sem Coração",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472660.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/qaiR2uR6LD3msKhzldjaqNJ4Ju6.jpg",
-    "s": "Verão de 1996, litoral de Alagoas. Tamara está aproveitando suas últimas semanas na vila pesqueira onde mora antes de partir para estudar em Brasília. Um dia, ela ouve falar de uma adolescente apelidada de \"Sem Coração\" por causa de uma cicatriz que tem no peito. Ao longo do verão, Tamara sente uma atração crescente por essa menina misteriosa.",
-    "r": 7
-  },
-  {
-    "n": "Saudosa Maloca",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472662.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/f6ZiesutSqM65BCklfydIwCpgOb.jpg",
-    "s": "Numa mesa de bar, o velho Adoniran Barbosa conta a um jovem garçom histórias de uma São Paulo que já não existe. Lembra com carinho da maloca onde viveu com Joca e Mato Grosso, da paixão deles por Iracema e de outros personagens eternizados em seus sambas, crônicas de uma metrópole engolida pelo apetite voraz do “pogréssio”.",
-    "r": 6.4
-  },
-  {
-    "n": "Domingo à Noite",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472663.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/rZpDHf8sdAkQTinFVxe7qGTgd8R.jpg",
-    "s": "Margot tem 75 anos e é uma das maiores atrizes do Brasil. Ela é casada há mais de 50 anos com Antônio, um escritor premiado e com Alzheimer avançado. Enquanto luta para manter a independência e cuidar do marido sozinha, ela enfrenta grandes dificuldades internas para finalizar seu último filme. Porém, ainda mais importante, ela luta para manter o amor deles vivo diante da falta de memória do marido. Ao descobrir que também tem Alzheimer, Margot precisará se reconectar com os filhos para poder morrer em paz.",
-    "r": 0
-  },
-  {
-    "n": "O Casamento de Romeu e Julieta",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472670.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/aovVE9UNONk8rSisNBVjZFGIM2x.jpg",
-    "s": "Um corinthiano doente se apaixona por uma palmeirense do mesmo nível, ambos de famílias tradicionais dos clubes. Mesmo com a rivalidade entre os times, ambos não ligam para a opção um do outro. Porém, enquanto ele tem que passar por palmeirense para conquistar a família da moça, deve manter a cautela para que sua família não descubra o que está acontecendo.",
-    "r": 6
-  },
-  {
-    "n": "Transamazonia",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472672.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/pGgNLv1NbSW1xYpDU1ILJNxGUPT.jpg",
-    "s": "Rebecca, filha do missionário Lawrence Byrne, foi declarada um milagre por ter sobrevivido a um acidente de avião na Floresta Amazônica quando criança. Anos depois, ela se torna uma curandeira milagrosa, sustentando a missão com sua fama crescente. Quando madeireiros ilegais invadem as terras dos povos indígenas que estão sendo evangelizados, o pai de Rebecca coloca a família no epicentro de um conflito que só tende a piorar.",
-    "r": 6.2
-  },
-  {
-    "n": "Meninas Não Choram",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472674.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/gdX8St8uRIeTtwvRQMI3wQCpknb.jpg",
-    "s": "Diagnosticada com leucemia, uma adolescente alegre e fã de futebol é internada, encontrando motivação na amizade e inspirando as pessoas à sua volta.",
-    "r": 7.5
-  },
-  {
-    "n": "Sonhos Roubados",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472675.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/4ysoZ1Bsjbo12cqe2vtgjX6JA3g.jpg",
-    "s": "Jéssica, Daiane e Sabrina são adolescentes e eventualmente se prostituem, no intuito de conseguir dinheiro para satisfazer seus sonhos de consumo. Entretanto, mesmo com os problemas do dia a dia, elas tentam se divertir e sonhar com um mundo melhor.",
-    "r": 5.7
-  },
-  {
-    "n": "Des-Igualdade - O Filme",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472680.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/7gXomzcKqzz0NRv6vtlxVa0bMs6.jpg",
-    "s": "Julio, um menino negro de classe baixa, consegue realizar o seu sonho e vai estudar no colégio Albuquerque, um dos melhores colégios particulares da cidade. Ao ingressar, Julio logo se depara com a desigualdade social escancarada e começa sentir dificuldades.",
-    "r": 3.5
-  },
-  {
-    "n": "Eu Sou Maria",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472682.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/gnlIchMogl6Y7eLbG1twmvxErc9.jpg",
-    "s": "Maria tem 15 anos, mora com a mãe, Célia, e o irmão Anderson numa favela de São Gonçalo, no Rio de Janeiro. Ela quer mais do que o destino tido como tradicional para uma jovem mulher negra da favela, e deseja estudar em um colégio “forte”. Ao participar de um concurso de redação em uma renomada escola particular da Zona Sul, seu texto impressiona a banca de avaliação e ela é aprovada junto de outros dois bolsistas. Os três precisam encarar o desafio de manter suas notas altas, provar que merecem estar ali e se adaptar a um mundo de privilégio que nunca pertenceu a eles.",
-    "r": 6.1
-  },
-  {
-    "n": "O Livro dos Prazeres",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472684.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/ahQ7b9yJzSpxlPGLYhwZuYctvb8.jpg",
-    "s": "Lóri é uma professora na casa dos 30 anos que não se aprofunda nas suas relações. Conhece e deseja Ulisses, professor de filosofia mais velho que lhe ensina a viver o amor, dizendo que aguardará até que ela esteja pronta.",
-    "r": 4.7
-  },
-  {
-    "n": "Propriedade",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472690.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/yrlKP6OIv2jsQz6qIfHn5dlsYJ6.jpg",
-    "s": "Teresa é uma mulher traumatizada por um episódio de violência urbana, que se refugia na fazenda da família para recuperação. No entanto, quando o marido anuncia para os trabalhadores do local a intenção de vendê-lo, uma revolta acontece e Teresa se vê refugiada dentro de um carro blindado, incapaz de fugir e a aterrorizada demais para destrancar as portas. Separados por uma camada impenetrável de vidro, dois universos estão prestes a colidir.",
-    "r": 7.4
-  },
-  {
-    "n": "Derrapada",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472692.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/rjspLes38Lc4yN3TN584mwINDOx.jpg",
-    "s": "A história de Samuca, que com apenas 17 anos descobre que sua namorada, Alicia, está grávida. A notícia vem à tona em um momento não muito propício da vida de Samuca, justamente quando ele achava que tudo estava correndo muito bem. Por ter cometido a mesma \"derrapada\" que sua mãe Melina, tendo um filho na mesma idade que ela o teve, Samuca se sente pressionado.",
-    "r": 8.3
-  },
-  {
-    "n": "Querência",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472693.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/o6F1JHyxzsaZbCB7AXAhMPa4v3e.jpg",
-    "s": "Marcelo vive no sertão de Minas Gerais. Ama a vida no campo e trabalha como vaqueiro, mas quer se tornar narrador profissional de rodeios. Um dia a fazenda em que vive sofre um grave assalto. O incidente o impacta profundamente. Com a ajuda de seus melhores amigos, encara o desafio de se reerguer para realizar seu maior sonho: o desafio de se tornar um grande narrador de rodeios.",
-    "r": 7
-  },
-  {
-    "n": "Menarca",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472696.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/diDYL9yctYtZStpoRl5YZCST3xm.jpg",
-    "s": "Num vilarejo brasileiro infestado de piranhas, Nanã e Mel estão entrando na adolescência e sonham com formas de se proteger contra uma violência aparentemente inevitável. Quando um misterioso corpo aparece preso na rede de um pescador, elas aprendem o que pode ser sua proteção final.",
-    "r": 6
-  },
-  {
-    "n": "Pedágio",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472703.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/5bdKlxSS3HoTkKFr2ZoWLLUer83.jpg",
-    "s": "Suellen, funcionária de um posto de pedágio, percebe que pode usar seu trabalho para conseguir dinheiro extra ilegalmente. Mas ele faz isso apenas por uma causa: ​​enviar seu filho a uma oficina de conversão gay.",
-    "r": 7.1
-  },
-  {
-    "n": "Tia Virgínia",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472705.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/ee5AXDELCSUPh0otfzy2z1e2VDv.jpg",
-    "s": "Virgínia, uma mulher de 70 anos, nunca se casou e nem teve filhos. Ela foi convencida pelas irmãs a deixar a vida que tinha para cuidar dos pais. Agora, Virgínia se prepara para receber as irmãs, que viajam para celebrar o Natal.",
-    "r": 7.5
-  },
-  {
-    "n": "Mussum: O Filmis",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472708.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/olETegpIsLwrApT1ldOKIwFE8lY.jpg",
-    "s": "A trajetória de Antônio Carlos Bernardes Gomes, o Mussum, dos Trapalhões. A infância pobre, a carreira militar, a relação com a Mangueira e o sucesso com o grupo Originais do Samba, além dos bastidores como integrante dos Trapalhões.",
-    "r": 7.8
-  },
-  {
-    "n": "Fluxo",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472710.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/mB6fwoXBGalwV380YL9u7aPpdO8.jpg",
-    "s": "",
-    "r": 10
-  },
-  {
-    "n": "Nosso Sonho",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472713.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/oRBUJX9a0gZzZ8KQIJ41CzJeErW.jpg",
-    "s": "A cinebiografia de Claudinho e Buchecha, dupla de maior sucesso do funk melody nacional em todos os tempos e ícone máximo do gênero na música popular brasileira. A história de uma amizade que se transforma em força de superação e conquista. Um filme que mostra como o ritmo e a poesia da periferia conquistaram o Brasil. Uma história real repleta de fantasia. Um longa-metragem musical, emocionante e divertido, feito de drama e tragédias, mas também de muito humor, surpresas e redenção.",
-    "r": 7.9
-  },
-  {
-    "n": "No Ritmo da Fé",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472731.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/sVWU32CuOOEuHxwEjI2NsI4WDc4.jpg",
-    "s": "Camila, uma menina completamente cética, se apaixona por um garoto de uma família cristã. A jovem que está abalada emocionalmente pela morte prematura da mãe, acaba encontrando sentido para vida em uma banda de rock cristão.",
-    "r": 7.6
-  },
-  {
-    "n": "Albertina",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472735.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/xm7Fow4H87rnRzyXz0hjny7q8bj.jpg",
-    "s": "No início do século XX no interior do município de Imaruí, no estado de Santa Catarina, nasce uma alma cristã que persiste crer na bondade humana, mesmo diante das iniquidades deste mundo. Ela é Albertina, filha de colonos descendentes de alemães católicos. Mesmo em tenra idade, ela encontra na fé a serenidade e o conforto espiritual. Sua vida é uma resposta e incontestável proposta aos infortúnios e desafios da sociedade em todos os tempos. Seu carisma e testemunho atraem o que há de melhor no ser humano, mas também o que pode existir de pior.",
-    "r": 0
-  },
-  {
-    "n": "Mato Seco em Chamas",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472736.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/c6SjVRKBe0IjMzVduyL035oyGPJ.jpg",
-    "s": "Na favela de Sol Nascente, na Ceilândia, a principal moeda de troca entre grupos inimigos é o petróleo. Chitara, grande gasolineira da região, tenta fidelizar a clientela junto ao seu poço particular com a ajuda da irmã. Quando o Brasil se torna mais conservador e ameaça votar na extrema-direita, o posicionamento de Chitara se transforma em um ato político.",
-    "r": 6.2
-  },
-  {
-    "n": "O Rio do Desejo",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472740.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/kPkRWW0yzxLlOWhLszC3YMMjrQS.jpg",
-    "s": "Ao se apaixonar pela bela e misteriosa Anaíra, Dalberto abandona seu trabalho na polícia e se torna comandante de um barco. O casal passa a viver na casa que Dalberto divide com os dois irmãos, às margens do Rio Negro, mas quando Dalberto é obrigado a se arriscar em uma longa viagem rio acima, desejos proibidos vêm à tona. Enquanto Dalmo, o irmão mais velho, luta para controlar a atração que sente pela cunhada, Anaíra e Armando, o caçula, se aproximam. A volta de Dalberto reúne, sob o mesmo teto, os três irmãos apaixonados pela mesma mulher.",
-    "r": 6.5
-  },
-  {
-    "n": "Um Ano Inesquecível - Primavera",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472741.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/82KpRnPInxlEQsiMdLyhHHxJjgn.jpg",
-    "s": "Prestes a ser reprovada em matemática – a matéria que mais odeia, Jasmine tem que fazer aulas de reforço com um monitor fofo, mas que baseia sua vida em números. Em meio à pressão da família e um amor arriscado, ela precisará superar seus medos e limitações para seguir o verdadeiro sonho: ser artista.",
-    "r": 7.6
-  },
-  {
-    "n": "Urubus",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472742.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/c590OZItnlYKm9tBS6XzaTWtN2E.jpg",
-    "s": "São Paulo. Na quarta maior cidade do mundo, onde a pichação cobre mais muros e prédios do que qualquer outro lugar no planeta, Trinchas comanda um grupo de pichadores que escala os edifícios mais altos para deixar sua marca.",
-    "r": 7.2
-  },
-  {
-    "n": "Um Ano Inesquecível - Inverno",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472744.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/6I60SxaNwnc8I2ZdL5dmfmnkec0.jpg",
-    "s": "Ao invés de participar da viagem de formatura com as amigas, Mabel é forçada a viajar com seus pais para uma estação de ski no Chile. O que ela não esperava era encontrar um grupo secreto de amigos e um possível novo amor.",
-    "r": 7
-  },
-  {
-    "n": "Um Ano Inesquecível: Verão",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472747.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/zEjG2LXebr8rpgZQQA6J2YOl77i.jpg",
-    "s": "Para conseguir estudar moda na tão sonhada Paris, uma jovem do interior que odeia o Carnaval viaja até o Rio de Janeiro para tentar ganhar a ajuda da estilista mais famosa do Brasil. Com a missão de se infiltrar no time de costura da Portela, ela vai descobrir que o Carnaval dura só uma semana, mas uma história de amor pode mudar toda sua vida.",
-    "r": 6.9
-  },
-  {
-    "n": "Depois Daquela Festa",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472748.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/rTPE8nYx2TcFB5jXlovuzOQdKB9.jpg",
-    "s": "Léo nunca pensou que veria seu pai beijando outro cara no meio de uma festa... Até isso acontecer. Agora, com a ajuda de Carol, sua melhor amiga, ele precisa encontrar a maneira perfeita de falar com o pai e mostrar que só quer vê-lo feliz.",
-    "r": 3.8
-  },
-  {
-    "n": "Fendas",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472752.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/k7R6w9kQCa8xeHiOD7mt1zJtpJ2.jpg",
-    "s": "Catarina é uma pesquisadora de física quântica. Ela estuda os espaços sonoros escondidos nas variações de luz. Ela descobre um acesso para outra linha temporal.",
-    "r": 5
-  },
-  {
-    "n": "Sideral",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472754.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/tbwEN2ifCpJBazZK52hXmrTLbyX.jpg",
-    "s": "Em Natal, Rio Grande do Norte, o primeiro lançamento de um foguete brasileiro está prestes a acontecer. Um casal mora com os dois filhos perto do centro espacial. Ele é mecânico, enquanto ela é faxineira. Porém, a mulher sonha com outros horizontes.",
-    "r": 7.1
-  },
-  {
-    "n": "Fogaréu",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472757.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/yFFufzySPbs7ntuGWCfGUO0eF35.jpg",
-    "s": "Ao retornar à cidade de em que nasceu no interior de Goiás com as cinzas da mãe adotiva, Fernanda confronta segredos familiares e desafia a fachada de uma elite rural conservadora, tornando-se uma ameaça à reeleição de seu tio.",
-    "r": 0
-  },
-  {
-    "n": "Aos Nossos Filhos",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472758.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/yJvvPr8pc35tYPZ8VZUiy98OVLv.jpg",
-    "s": "Vera é uma mulher que lutou contra a ditadura e carrega terríveis traumas do passado. Tânia, sua filha, vive um casamento de 15 anos com outra mulher e pretendem ter um filho. A notícia gera um embate intenso na relação entre mãe e filha, que discordam completamente em suas opiniões relacionadas a construção familiar. Uma adaptação do espetáculo teatral homônimo de sucesso.",
-    "r": 5.3
-  },
-  {
-    "n": "Homem Onça",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472759.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/bEdbdPiipYf3SgmC0kjECGn7IoR.jpg",
-    "s": "Dois momentos da vida de Pedro: em 1997, ele vive com a família no RJ e trabalha numa empresa que será privatizada; em 1999, ele está aposentado em Barbosa, sua cidade natal, na companhia das memórias de infância.",
-    "r": 4.2
-  },
-  {
-    "n": "Regra 34",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472760.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/akY8Ci1XCdEeeglQirFSHnLTHtH.jpg",
-    "s": "Simone é uma jovem defensora pública que defende mulheres em casos de abuso. No entanto, seus próprios interesses sexuais a levam a um mundo de violência e erotismo.",
-    "r": 5.3
-  },
-  {
-    "n": "O Faixa Preta",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472761.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/tdXSgI3jxRbZOoBWxvpnMjkRfBV.jpg",
-    "s": "As batalhas de Fernando Tererê dentro dos tatames, com a conquista de grandes competições, e também fora do esporte, onde se envolveu com drogas e apresentou outros problemas.",
-    "r": 6.4
-  },
-  {
-    "n": "O Clube dos Anjos",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472762.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/7u9mXB449pNrjp592Twpzs10cCW.jpg",
-    "s": "Ao longo dos anos, as reuniões mensais do Clube do Picadinho – confraria que há décadas reúne sete amigos de longa data – passaram de rituais de poder a melancólicas assembleias de fracassos. O fim seria seu único destino digno. Até a chegada de um misterioso cozinheiro que passa a lhes servir magníficos banquetes. Os laços de amizade estão de volta, é a gula como celebração da vida. Mas há um porém: depois de cada jantar, um integrante da confraria amanhece morto. Teria sido envenenado? E, sobretudo, por quê estes homens continuam retornando aos jantares? Baseado na obra de Luis Fernando Verissimo.",
-    "r": 6.6
-  },
-  {
-    "n": "Pelé - A Origem",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472765.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/ijLgVtrdIFU1qcKYHr53jpNN1Tw.jpg",
-    "s": "A história de um pequeno garoto chamado Edson, de uma pequena cidade brasileira, que decide superar todos os limites impostos pelo racismo pra se tornar o primeiro negro a ser ícone global, conhecido e amado por toda a humanidade.",
-    "r": 2
-  },
-  {
-    "n": "Ó",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472767.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/8dO92o0yg4BGvGidbwjDWkJdSPQ.jpg",
-    "s": "Odin (Mekhi Phifer) tem tudo o que Hugo (Josh Hartnett) gostaria de ter: Desi (Julia Stiles), a namorada mais bonita e amável, o sucesso no basquete, a admiração de todos e o amor de Duke (Martin Sheen), pai de Hugo e treinador do time. No fim de mais um jogo, Duke entrega a taça da vitória a Odin e o chama na frente de todos. Envergonhado pela demonstração pública da preferência de seu pai por Odin, o manipulador Hugo arquiteta um plano para destruir a imagem do amigo e conquistar seu lugar. Uma trama que envolverá todas as pessoas à sua volta e trará consequências inesperadas… até mesmo para Hugo.",
-    "r": 5.9
-  },
-  {
-    "n": "Rebento",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472773.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/WCfKI0rZc3ujUOcEkUBsOHMNvh.jpg",
-    "s": "Após cometer um crime, Mulher abandona casa e família em busca de um destino desconhecido. Não se sabe quem é ela, nem o porquê de tal crime. O mistério sobre essa mulher é um dos pontos chaves da narrativa. No decorrer da história se chamará Maria, Rosa e Ana, talvez seja um deles o seu nome verdadeiro, talvez nenhum. Ela andará durante um dia inteiro, abraçada a uma melancia e terá breves encontros que marcarão o seu dia e a sua vida, enfrentando um mundo às vezes hostil e às vezes delicado, na tentativa de conviver com o amor e o desamor que traz em si.",
-    "r": 2
-  },
-  {
-    "n": "Cafundó",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472775.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/qkWPnw5xOoSnW7yz66DG6DG77Tt.jpg",
-    "s": "Ex-escravo, João de Camargo se encanta com o mundo que o cerca e, levado pela emoção, entra em um estado alterado, tendo alucinações. Ele passa a ajudar os outros tomado por um espírito de cura e restauração conhecido como Preto Velho.",
-    "r": 5.5
-  },
-  {
-    "n": "Marighella",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472777.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/wm75vgOQwRdRnxUFHhviyKUZYGi.jpg",
-    "s": "Em 1969, Carlos Marighella foi um homem que não teve tempo pra ter medo. De um lado, uma violenta ditadura militar. Do outro, uma esquerda intimidada. Cercado por guerrilheiros 30 anos mais novos e dispostos a reagir, o líder revolucionário escolheu a ação.",
-    "r": 7.6
-  },
-  {
-    "n": "Eu Receberia as Piores Notícias dos Seus Lindos Lábios",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472780.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/jsF1xHkI1Zw384NoM0I4ZVbQqCG.jpg",
-    "s": "Um triângulo amoroso envolve Cauby (Gustavo Machado), um fotógrafo de passagem pelo interior da Amazônia, a bela e instável Lavínia (Camila Pitanga) e seu marido, o pastor Ernani (Zecarlos Machado), que acredita ser possível consertar as contradições do mundo.",
-    "r": 5.9
-  },
-  {
-    "n": "Boa Sorte",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472786.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/jj9nHVm6qtvb39na21C6vEs6rn8.jpg",
-    "s": "João é internado em uma clínica psiquiátrica pela família. Lá ele se apaixona por Judite. Ela não tem muito tempo de vida, mas isso não impede que vivam um intenso romance.",
-    "r": 7.3
-  },
-  {
-    "n": "Amores Possíveis",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472787.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/cP3t4gJhG3zjFSzPVLkje7X0yem.jpg",
-    "s": "O ponto de partida é um desencontro. Carlos e Júlia marcam de ir ao cinema, mas ela não aparece. Desse desencontro são criadas três histórias diferentes sobre os possíveis acontecimentos posteriores.",
-    "r": 5.9
-  },
-  {
-    "n": "Eu Sou Brasileiro",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472788.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/xWDC44rdUfeMscDtpFGoylVWM55.jpg",
-    "s": "Léo passou a sua vida inteira tentando se tornar um jogador de futebol famoso e bem-sucedido, mas nunca teve sucesso. Na intenção de dar a volta por cima, ele arrisca uma última grande chance.",
-    "r": 1
-  },
-  {
-    "n": "Piedade",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472793.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/rYah7RJDnMMV06RznKhTJqoiVAB.jpg",
-    "s": "Praia da Saudade, Piedade. O bar Paraíso do Mar é reconhecido por sua deliciosa moqueca de cação e cerveja sempre gelada. O lugar, construído por Humberto Bezerra há mais de 30 anos, hoje é gerido por sua viúva Dona Carminha e pelo filho mais velho, Omar. O cotidiano dessa família será abalado com a chegada de Aurélio, um executivo de São Paulo que irá trazer à tona segredos há muito tempo escondidos e que, inusitadamente, conectam a família de Dona Carminha a Sandro, dono de um cinema pornô do outro lado da cidade.",
-    "r": 6
-  },
-  {
-    "n": "Que Horas Ela Volta?",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472795.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/d5aIZjwdG87YradTjmtmyZtR1dy.jpg",
-    "s": "A pernambucana Val (Regina Casé) se mudou para São Paulo a fim de dar melhores condições de vida para sua filha Jéssica. Com muito receio, ela deixou a menina no interior de Pernambuco para ser babá de Fabinho, morando integralmente na casa de seus patrões. Treze anos depois, quando o menino (Michel Joelsas) vai prestar vestibular, Jéssica (Camila Márdila) lhe telefona, pedindo ajuda para ir à São Paulo, no intuito de prestar a mesma prova. Os chefes de Val recebem a menina de braços abertos, só que quando ela deixa de seguir certo protocolo, circulando livremente, como não deveria, a situação se complica.",
-    "r": 8
-  },
-  {
-    "n": "Brasília 18%",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472801.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/owdk8D70ytw6Q0mPJBM7MRnUYJU.jpg",
-    "s": "Olavo Bilac (Carlos Alberto Riccelli) é um renomado médico legista que trabalha em Los Angeles. Bilac é convidado pelo Instituto Médico Legal de Brasília a dar seu parecer na perícia de identificação de uma ossada, que supostamente pertence à jovem economista Eugênia Câmara (Karine Carvalho), desaparecida há meses. A decisão de Bilac é cercada de expectativa, pois se for constatado que a ossada é de Eugênia, isto significa que ela foi morta por seu namorado, o cineasta Augusto dos Anjos (Michel Melamed), última pessoa a vê-la antes de seu desaparecimento. Existe o interesse político que Augusto permaneça na cadeia e, em meio às pesquisas através de fotos, vídeos e comentários contraditórios, Bilac termina se apaixonando por Eugênia.",
-    "r": 4.8
-  },
-  {
-    "n": "Heleno",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472813.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/vD3LrZAhvCfVNBXixGxQz8RPRcB.jpg",
-    "s": "Heleno de Freitas era o grande ídolo do futebol brasileiro nos anos 40 durante a II Guerra Mundial, quando dois campeonatos mundiais foram cancelados, 1942 e 1946. O sonho de Heleno era se tornar o melhor jogador brasileiro de todos os tempos, ganhando uma Copa do Mundo. Heleno viveu intensamente sua paixão por si mesmo e pelo futebol. Passou pelos campos e pela vida como um foguete endiabrado, apaixonado, perfeccionista, intolerante, impulsivo. Esse comportamento egoísta e agressivo teve um preço: sua vida.",
-    "r": 6.2
-  },
-  {
-    "n": "Xingu",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472814.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/z41DkjNycIZ5xRMsRJRO6g06rv8.jpg",
-    "s": "Os irmãos Orlando, Cláudio e Leonardo Villas Bôas resolvem trocar o conforto da vida na cidade grande pela aventura de viver nas matas. Para isso, resolvem se alistar no programa de expansão na região do Brasil central, incentivado pelo governo. Com enorme poder de persuação e afinidade com os habitantes da floresta, os três se tornam referência nas relações com os povos indígenas, vivenciando incríveis experiências, entre elas a eterna conquista do Parque Nacional do Xingu.",
-    "r": 7.4
-  },
-  {
-    "n": "Corisco & Dadá",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472820.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/gDroynOujEWWcyCADqmUQK1vjzw.jpg",
-    "s": "Sertão baiano: 1927, Capitão Corisco, cangaceiro conhecido como Diabo Loiro, que rapta Dadá, uma menina de 12 anos, condenando-a ao cangaço. Perseguido por Zé Rufino, chefe da polícia volante, o bando percorre o sertão hostil da Bahia: ataques, morte dos filhos, decapitação de Lampião e Maria Bonita, o filme é um mergulho no universo psíquico e social do homem sertanejo, e nas manifestações místicas e culturais do Nordeste as décadas de 20/30.",
-    "r": 6.9
-  },
-  {
-    "n": "Tropa de Elite 2: O Inimigo Agora é Outro",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472826.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/gW2JzWuOKHkKOr33slfBEQJYYeS.jpg",
-    "s": "O destino da cidade do Rio de Janeiro e de Nascimento se cruzam em \"Tropa de Elite 2\", quando suas obrigações de pai se chocam com as de policial. Mais maduro, estratégico e solitário, o agora Coronel Nascimento faz o bope crescer e coloca o tráfico de drogas de joelho. Isto apenas para descobrir que na segurança pública do Rio de Janeiro nada é o que parece. O sistema se reinventa e descobre como lucrar sem o intermédio do tráfico. Em perseguição ao caminho trilhado pelo sistema, Nascimento vai além dos limites do quartel, revelando as ligações das milícias com o Estado. E o preço por essa descoberta é alto: o inimigo agora é outro.",
-    "r": 7.8
-  },
-  {
-    "n": "Tropa de Elite",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472827.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/jpG8AVzRQabzjHeJ7JWbuXe9T1n.jpg",
-    "s": "Rio de Janeiro, 1997. Nascimento, capitão da Tropa de Elite do Rio de Janeiro, é designado para chefiar uma das equipes que tem como missão \"apaziguar\" o Morro do Turano por um motivo que ele considera insensato. Mas ele tem que cumprir as ordens enquanto procura por um substituto. Sua mulher, Rosane, está no final da gravidez e todos os dias lhe pede para sair da linha de frente do batalhão. Pressionado, o capitão sente os efeitos do estresse.Neste clima, é chamado para mais uma emergência num morro. Em meio a um tiroteio em um baile funk, Nascimento e sua equipe têm que resgatar dois aspirantes a oficiais da PM: Neto e Matias. Ansiosos por entrar em ação e impressionados com a eficiência de seus salvadores, os dois se candidatam ao curso de formação da Tropa de Elite.",
+    "n": "Desolados",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt5770836.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/3q0jJJaLlQ5FkSfbQL3EnGvnI2s.jpg",
+    "s": "Num futuro pós-seca, uma longa estiagem arruinou a civilização rural. A família Stone força o irmão mais novo, Billy, a liderar uma vingança violenta após o assassinato do irmão mais velho durante um roubo que deu errado. Traído e abandonado, Billy é deixado à própria sorte e enfrenta gangues, traições e dificuldades extremas para sobreviver. À medida que luta contra a brutalidade e a deserção familiar, ele trilha um caminho de sobrevivência emocional e caça vingança. Um thriller sobre laços, traição e instinto de sobrevivência.",
+    "r": 5.6
+  },
+  {
+    "n": "Homem com H",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt35301431.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/sOed9XD0TS9d0XRSnTiw5tpXIIO.jpg",
+    "s": "Dono de uma voz inconfundível e de performances memoráveis, Ney Matogrosso morava com os pais e irmãos na pequena cidade de Bela Vista (MS). Os embates com o pai, que insistia que o menino “virasse homem”, levaram Ney a se afastar da família, antes de enveredar para a vida artística. Anos depois de sair de casa, em São Paulo, estreou como vocalista dos Secos e Molhados, dando início às performances históricas que o definiram como um dos maiores artistas brasileiros da atualidade.",
     "r": 8.1
   },
   {
-    "n": "Antônia",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472829.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/774YCGVNZUJ5TTAmk80u37SHqUN.jpg",
-    "s": "Definido como uma celebração da vida e da morte, esta coprodução entre Holanda, Bélgica e Inglaterra ganhadora do Oscar de Melhor Filme Estrangeiro vai além ao contar a história de uma encantadora geração de mulheres. Comandada por Antonia, a saga familiar atravessa três gerações, falando de força, de beleza e de escolhas que desafiam o tempo. Nesse universo conhecemos curiosos personagens, como o filósofo pessimista, a netinha superdotada, a filha lésbica, a avó louca, o padre herege, a amiga que adora procriar, a vizinha que sofre abusos sexuais e os muitos amigos que são acolhidos por sua generosidade.",
-    "r": 6.9
-  },
-  {
-    "n": "Meu País",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472830.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/wHaXe3ieWKObm3nTnFojGr2ZGlD.jpg",
-    "s": "Após anos fora do Brasil, separado da família pela distância e principalmente pelo afeto, Marcos (Rodrigo Santoro) é obrigado a retornar ao país quando seu pai, Armando (Paulo José), sofre um derrame. Executivo, casado e bem-sucedido na Europa, Marcos reencontra Tiago (Cauã Reymond), seu irmão mais novo. Ao contrário do primogênito, Tiago não tem vocação para os negócios, vivendo uma vida de playboy, filho de pai rico. Para aumentar o conflito entre os irmãos, eles descobrem que possuem uma meia-irmã, Manuela (Débora Falabella), vítima de deficiência intelectual. Uma filha que Armando sempre manteve escondida de toda a família.",
-    "r": 5.8
-  },
-  {
-    "n": "Boi Neon",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472831.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/lCJAHuqbmDzcjbUjlXnaMohHqi5.jpg",
-    "s": "Iremar é um vaqueiro de curral que viaja pelo Nordeste, ao lado de Galega e a pequena Geise. Por onde passa Iremar recolhe revistas, panos e restos de manequins, já que seu grande sonho é largar tudo para iniciar uma carreira como estilista no Pólo de Confecções do Agreste.",
-    "r": 6.7
-  },
-  {
-    "n": "Marighella (2019)",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472832.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/wm75vgOQwRdRnxUFHhviyKUZYGi.jpg",
-    "s": "Em 1969, Carlos Marighella foi um homem que não teve tempo pra ter medo. De um lado, uma violenta ditadura militar. Do outro, uma esquerda intimidada. Cercado por guerrilheiros 30 anos mais novos e dispostos a reagir, o líder revolucionário escolheu a ação.",
-    "r": 7.6
-  },
-  {
-    "n": "Uns Bracos",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472834.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/4ruHJpeh3aliNWrOyHpiXxkFqJc.jpg",
-    "s": "Uma adaptação sutil de uma história clássica do maior escritor brasileiro: Machado de Assis. A história se passa no Rio de Janeiro em pleno século XIX. O adolescente Inácio mora na casa de Borges e trabalha como aprendiz. Sua rotina de tédio e solidão só é quebrada em momentos que vê os braços nus do chefe da esposa. Ao perceber que é desejado por ele, passa a tratá-lo com carinho. Um romance silencioso e proibido é contado com romance e poesia.",
-    "r": 6.2
-  },
-  {
-    "n": "Trabalhar Cansa",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472835.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/ieZaCDcDu6B5H74609jC7xCaqG.jpg",
-    "s": "Helena é uma dona de casa que resolve abrir um minimercado. Quando o seu marido perde subitamente o cargo em uma grande corretora, tem início um processo de desestabilização da família",
-    "r": 6.4
-  },
-  {
-    "n": "As Maos de Meu Filho",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472838.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/3SrtBdrxBeXS1EdBMubvYJ6Flyw.jpg",
-    "s": "Na história que se passa nos anos 1920, a história é sobre uma sofrida família humilde que conseguiu superar o drama do alcoolismo do pai (Gustavo Falcão). Com o vício, o pai perde o emprego e Margarida (Ana Petta) passa a sustentar a família. Num certo dia, durante visita à casa de madame Novaes (Adriana Garambone), uma rica cliente, a mãe percebe que o então menino Gilberto (Yago Machado (criança); Antônio Guerra (adulto)) fica fascinado com o piano. Ela o incentiva nas artes, apesar das duras críticas que recebe do marido.",
-    "r": 0
-  },
-  {
-    "n": "Amores de Chumbo",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472839.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/fZPUSJsCEuhDhBqzwF5sd9vuv3w.jpg",
-    "s": "Um misterioso triângulo amoroso do passado ressurge anos depois. Miguel (Aderbal Freire Filho) e Lúcia (Augusta Ferraz) estão prestes a comemorar seu aniversário de 40 anos de casamento, mas a chegada de Maria Eugênia (Juliana Carneiro da Cunha) acaba atrapalhando os planos do casal, já que junto com seu retorno, voltam também as memórias dos amores vividos entre Miguel e Maria, além dos horrores dos anos de chumbo, período da ditadura militar no Brasil.",
-    "r": 5
-  },
-  {
-    "n": "Ó",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472840.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/8dO92o0yg4BGvGidbwjDWkJdSPQ.jpg",
-    "s": "Odin (Mekhi Phifer) tem tudo o que Hugo (Josh Hartnett) gostaria de ter: Desi (Julia Stiles), a namorada mais bonita e amável, o sucesso no basquete, a admiração de todos e o amor de Duke (Martin Sheen), pai de Hugo e treinador do time. No fim de mais um jogo, Duke entrega a taça da vitória a Odin e o chama na frente de todos. Envergonhado pela demonstração pública da preferência de seu pai por Odin, o manipulador Hugo arquiteta um plano para destruir a imagem do amigo e conquistar seu lugar. Uma trama que envolverá todas as pessoas à sua volta e trará consequências inesperadas… até mesmo para Hugo.",
-    "r": 5.9
-  },
-  {
-    "n": "Memórias Póstumas",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472843.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/2YaTajYhJaQ5LbxfKA4KGQ46hUv.jpg",
-    "s": "Após ter morrido, em pleno ano de 1869, Brás Cubas (Reginaldo Faria) decide por narrar sua história e revisitar os fatos mais importantes de sua vida, a fim de se distrair na eternidade. A partir de então ele relembra de amigos como Quincas Borba (Marcos Caruso), de sua displicente formação acadêmica em Portugal, dos amores de sua vida e ainda do privilégio que teve de nunca ter precisado trabalhar em sua vida.",
-    "r": 6.3
-  },
-  {
-    "n": "Cazuza O Tempo Nao Para",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472846.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/5D3vujJhxAl5Kyvfkr6Hfg7YPpU.jpg",
-    "s": "A vida louca que marcou o percurso profissional e pessoal de Cazuza: o sucesso com o Barão Vermelho, a carreira solo, as músicas, o comportamento transgressor e a coragem.",
-    "r": 7.1
-  },
-  {
-    "n": "Carandiru",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472847.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/dvL05T9KtkY6oPpMvrAmu18Nds3.jpg",
-    "s": "Um médico se oferece para realizar um trabalho de prevenção a AIDS no maior presídio da América Latina, o Carandiru. Lá ele convive com a realidade dos cárceres, que inclui violência, superlotação das celas e instalações precárias. Porém, apesar de todos os problemas, o médico logo percebe que os prisioneiros não são figuras demoníacas, existindo dentro da prisão solidariedade, organização e uma grande vontade de viver.",
-    "r": 7.6
-  },
-  {
-    "n": "Irmaos De Fe",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472850.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/8MiFxtBNsI4yrqW4Zqsg4uxQZ3C.jpg",
-    "s": "Em São Paulo dois rapazes sequestram um casal de idosos, na intenção de fazê-lo sacar dinheiro em um caixa eletrônico. Eles enfrentam a polícia, sendo que mais velho é baleado e Paulo (Micael Borges), que ainda é menor de idade, é levado para a FEBEM. Mariana (Sabrina Rosa), irmã de Paulo, pede a ajuda de um padre (Padre Marcelo Rossi), já que o irmão está revoltado por estar preso e por acreditar que foi Mariana quem o dedurou. Paulo trata os dois com hostilidade, mas recebe do padre uma Bíblia, que está marcada em Atos do Apóstolo, trecho que narra a vida do apóstolo Paulo. O garoto inicialmente recusa o livro mas, de madrugada, começa a lê-lo. É quando ele passa a conhecer a história de um homem que foi dos principais perseguidores de cristãos e de como ele se tornou um dos principais santos da Igreja Católica.",
-    "r": 4.9
-  },
-  {
-    "n": "A Cabeça de Gumercindo Saraiva",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472854.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/kQd0KoqaRswX6fmw153Lnpbfx9.jpg",
-    "s": "No fim do século XIX, a Revolução Federalista marcou o sul do Brasil. Na época, o caudilho revolucionário Gumercindo Saraiva foi assassinado pelos legalistas. O filho dele, Francisco Saraiva, parte com cinco cavaleiros para resgatar a cabeça do pai, cortada pelo Major Ramiro de Oliveira.",
-    "r": 4.9
-  },
-  {
-    "n": "Cidade dos Homens",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472855.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/8wq7tVRXXJcfSGBE2zPBNYw7GRv.jpg",
-    "s": "Laranjinha e Acerola se preparam para ingressar na vida adulta! Aos 18 anos, cada um dos meninos está às voltas com suas próprias questões: filho, mulheres, família, emprego, sonhos e desejos esquecidos são alguns dos temperos dessa aventura que, pra ficar ainda mais emocionante, conta com uma guerra no morro que expulsará os jovens adultos da comunidade. Será que todas essas mudanças serão mesmo definitivas?",
-    "r": 7
-  },
-  {
-    "n": "Bróder",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472863.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/iekvJjtqxRFfnHQU5aluWSpG7uQ.jpg",
-    "s": "Focada na amizade, a história, passada em 24 horas, traça o reencontro de três amigos que dividiram a infância no Capão Redondo: Jaiminho, um jogador de futebol em ascensão no exterior; Pibe, um sacrificado corretor de imóveis e Macu, o jovem protagonista que se mantém no bairro, flertando com a criminalidade. Desde que nasceu, Macú vive na periferia de São Paulo. No seu aniversário, ele reencontra seus dois grandes amigos de infância. Eles vieram para a festa de Macú, que poderá ser ainda maior se Jaiminho for convocado para defender o Brasil na Copa do Mundo. Os dois amigos tentarão ajudar Macú a resolver seus problemas com a criminalidade local, enquanto se conscientizam que, embora separados pela vida, algo muito maior os une.",
-    "r": 5.9
-  },
-  {
-    "n": "Hebe: A Estrela do Brasil",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472906.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/7meXcYx9Vlj8rKiuIFtYgPEOwNU.jpg",
-    "s": "Hebe Camargo se consagrou como uma das apresentadoras mais emblemáticas da televisão brasileira. Sua carreira passou por diversas mudanças ao longo dos anos, mas foi durante a década de 80, no período de transição da ditadura para a democracia, que Hebe, ao 60 anos, tomou uma decisão importante. A apresentadora passou a controlar a própria carreira e, independentemente das críticas machistas, do marido ciumento e dos chefes poderosos, se revelou para o público como uma mulher extraordinária, capaz de superar qualquer crise pessoal ou profissional.",
-    "r": 7.1
-  },
-  {
-    "n": "Pendular",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472909.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/6yU9lmNDBihsPpxxdHAi8PbiqmB.jpg",
-    "s": "Um casal composto por um escultor e uma dançarina divide seu apartamento vazio com uma fita adesiva para marcar seus respectivos espaços de trabalho. Essa divisão acabará por afetar a relação. Pouco a pouco, as obras dos jovens artistas começam a se misturar e inspirar um ao outro.",
-    "r": 5.2
-  },
-  {
-    "n": "Meu Passado Me Condena",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472919.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/6N1V0qW86D5jxcPyLlIJpjgNX6p.jpg",
-    "s": "Um advogado proeminente enfrenta um chantagista que ameaça homens gays com divulgação de seus atos homossexuais (que ainda eram ilegais). Mas ele mesmo é gay.  Um verdadeiro pedido de reforma dos estatutos anti-sodomia da Inglaterra, este filme coloca Melville Farr, um advogado casado, contra um chantagista que tem fotos de Farr e um jovem gay no carro de Farr. O jovem é chantageado e se suicida. Após o suicídio, Farr localiza outros homens gays sendo extorquidos pelo mesmo chantagista. O bem-educado policial Detetive Inspetor Harris considera a lei de sodomia nada mais do que um auxílio a chantagistas, e ajuda Farr em enfrentar o blefe de seu chantagista. O filme, muito à frente de seu tempo, termina com Farr e sua esposa chegando a um acordo com sua homossexualidade depois da exposição pública que ele enfrenta no julgamento do chantagista. (e 18 - Estimado 18 Anos)",
-    "r": 7.4
-  },
-  {
-    "n": "Nise O Coracao Da Loucura",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472921.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/eDEu2l4xvmhVuLerpHzzz2i1lgm.jpg",
-    "s": "Ao voltar a trabalhar em um hospital psiquiátrico no subúrbio do Rio de Janeiro, após sair da prisão, a doutora Nise da Silveira (Gloria Pires) propõe uma nova forma de tratamento aos pacientes que sofrem da esquizofrenia, eliminando o eletrochoque e lobotomia. Seus colegas de trabalho discordam do seu meio de tratamento e a isolam, restando a ela assumir o abandonado Setor de Terapia Ocupacional, onde dá início a uma nova forma de lidar com os pacientes, através do amor e da arte.",
-    "r": 8.1
-  },
-  {
-    "n": "Dias Vazios",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472925.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/rUNpAJN6ApR7ERF5FCPqJ59LUoX.jpg",
-    "s": "Dias vazios conta a história de um dia na vida de Jean e Fabiana, um casal de jovens namorados que tentam reinventar suas vidas em uma pequena cidade do interior brasileiro. Eles cursam o último ano do ensino médio e vivem o velho dilema: ou vamos embora desta cidade ou ficamos aqui e continuamos a história de nossos pais. No final desse dia Jean se suicida e Fabiana desaparece. Dois anos depois, Daniel e Alanis, outro casal de jovens namorados, tentam entender como tudo aconteceu.",
-    "r": 4.1
-  },
-  {
-    "n": "Como Nossos Pais",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472926.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/qnB014Lkp5oq6yuSJpr6jH8U91J.jpg",
-    "s": "Rosa é uma mulher que quer ser perfeita em todas suas obrigações: como profissional, mãe, filha, esposa e amante. Quanto mais tenta acertar, mais tem a sensação de estar errando. Filha de intelectuais dos anos 70 e mãe de duas meninas pré-adolescentes, ela se vê pressionada pelas duas gerações que exigem que ela seja engajada, moderna e onipresente, uma super-mulher sem falhas nem vontades próprias. Até que em um almoço de domingo, recebe uma notícia bombástica de sua mãe. A partir desse episódio, Rosa inicia uma redescoberta de si mesma.",
-    "r": 7.2
-  },
-  {
-    "n": "Sob Pressao",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472929.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/lSibFrGTDaXy96lDZnUdtEDMYaw.jpg",
-    "s": "Dr. Evandro (Júlio Andrade) e sua equipe, formada também pelos doutores Paulo (Ícaro Silva) e Carolina (Marjorie Estiano) enfrentam um tenso dia no hospital em que trabalham quando têm que realizar três cirurgias muito complicadas: um traficante, um policial militar e uma criança. O que complica o caso é que os três foram feridos no mesmo tiroteio em uma favela próxima ao hospital.",
-    "r": 7.4
-  },
-  {
-    "n": "Minha Fama de Mau",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472933.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/pyoeEQKLhhypfmHmppIFk8wC6Xl.jpg",
-    "s": "Na Tijuca dos anos sessenta o jovem Erasmo Carlos alimenta uma paixão: o rock and roll. Fã de Elvis, Bill Haley e Chuck Berry, ele aprende a tocar violão enquanto vive de sonhos, bicos e pequenas delinquências. Sua fama de roqueiro atrai Roberto Carlos , e logo se tornam parceiros e amigos. Um mega sucesso chega com a Jovem Guarda, programa de televisão onde Roberto, Erasmo e Wanderlea são a atração principal. \"Minha Fama de Mau\" é um mergulho emocionante na música e na vida de Erasmo Carlos que, com cabeça de homem e coração de menino, se tornou o Tremendão, símbolo vivo do rock nacional.",
-    "r": 6.4
-  },
-  {
-    "n": "Vazante",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472935.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/58l40xpMl2ilJP77VxWe9FsVPPx.jpg",
-    "s": "O que o oceano traz, o oceano leva embora.",
-    "r": 7
-  },
-  {
-    "n": "Querida Mamae",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472937.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/m5KGfJZqj7NlnOS5F5DfI2M03cU.jpg",
-    "s": "Numa sequência de encontros entre a mãe e a filha afloram os ressentimentos de uma convivência marcada por divergências e compreensões. Neste jogo de acusações e cobranças mútuas elas percebem que se querem muito e que é preciso recuperar o tempo perdido.",
+    "n": "Guarda Costas e Assassinos",
+    "u": "http://hd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt1403130.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/y3k500cxVa3sPAF4EnX6oZeeKEk.jpg",
+    "s": "Guarda Costas e Assassinos conta a história de um grupo de revolucionários tentando proteger Sun Yat-sen(1866-1925), líder da Revolução de 1911 contra a corrupta Dinastia Qing, de assassinos em 1905, Hong Kong.",
     "r": 6.8
   },
   {
-    "n": "Gabriel E A Montanha",
-    "u": "http://aguasdecoco.cdnxjp.space:80/movie/03985093485/903482930834/472938.mp4",
-    "p": "https://image.tmdb.org/t/p/w500/wS4CN3Yc5tVLikxJFZHd988SH40.jpg",
-    "s": "Antes de entrar para uma Universidade americana de prestígio, Gabriel Buchmann decide viajar o mundo por um ano, carregado de sonhos. Depois de dez meses na estrada, ele chega ao Quênia determinado a descobrir o continente africano. Até chegar ao topo do Monte Mulanje, seu último destino.",
-    "r": 6.6
+    "n": "Confia: Sonho de Cria",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt34581855.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/6m5ryNvYBc4xZxZkPD4hJSJzQh8.jpg",
+    "s": "Nando sonha em ser um grande cantor de Trap, mas, enquanto seu sonho não se torna realidade, ele faz entregas para o Lanchudo, uma lanchonete de Copacabana.",
+    "r": 7.5
+  },
+  {
+    "n": "O Grande Mestre",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt1220719.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/9uHVviCGGAnWWTBwmQpA85AVCa4.jpg",
+    "s": "",
+    "r": 0
+  },
+  {
+    "n": "Sede de Sangue",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt11584674.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/yGKwpNrfgEQkkdp699ymRQATq8j.jpg",
+    "s": "Um popular e adorável padre de uma pequena cidade, se torna voluntário de uma experimento médico, que dá errado e o transforma em vampiro. Ao tentar reverter o processo, começa a ter um caso com a esposa de um amigo e mergulha cada vez mais na imoralidade.",
+    "r": 7.1
+  },
+  {
+    "n": "Medidas Extremas",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt12330400.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/vhMLm36Bzy4LaMxmN3Em44e0OhF.jpg",
+    "s": "Guy Luthan é um médico inglês que, trabalhando em um hospital de Nova York, começa a fazer perguntas quando repara que o corpo de um homem que morreu na emergência desapareceu. Na verdade não há nem registros de sua entrada. Ao tentar descobrir a verdade, o médico encontra pistas que têm relação com um eminente cirurgião, mas logo se vê em perigo, pois algumas pessoas não querem que os segredos do hospital venham à tona.",
+    "r": 6
+  },
+  {
+    "n": "Relacionamento Aberto",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13868030.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/t65peFW0W66f36g7oiPK9O9a04o.jpg",
+    "s": "Julia tinha uma promissora carreira na política e um casamento perfeito com Matias, até o dia em que ela descobre que o seu marido possui uma amante. Para salvar o casamento, os dois decidem abrir a relação e se aventurar no mundo da poligamia.",
+    "r": 5.9
+  },
+  {
+    "n": "As Vantagens de Ser Invisível",
+    "u": "http://fhd1.oneplayer.site/ertg43r5g34ty34yt543t43wer234t34y3s7/FHD3/tt1659337.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/pUYWbq0I6oCrysxuL0OCxwB8wFp.jpg",
+    "s": "Charlie é um jovem que tem dificuldades para interagir em sua nova escola. Com os nervos à flor da pele, ele se sente deslocado no ambiente. Sua professora de literatura, no entanto, acredita nele e o vê como um gênio. Mas Charlie continua a pensar pouco de si… até o dia em que dois amigos, Patrick e Sam, passam a andar com ele.",
+    "r": 7.8
+  },
+  {
+    "n": "O Vale do amor",
+    "u": "http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rgh5kh4/FHD4/tt13496136.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/ybhlKSMDsTafwHFC24kmH0p6t4u.jpg",
+    "s": "Isabelle e Gerard perderam seu filho seis meses atrás. Antes de morrer, ele deixa uma carta aos pais pedindo que vão ao seu encontro no \"Vale da Morte\", na Califórnia. Apesar do absurdo da situação, eles decidem cumprir o último desejo do filho.",
+    "r": 5.9
+  },
+  {
+    "n": "Acampamento do pecado",
+    "u": "http://fhd5.oneplayer.site/343rt342wtg34wetg34retghksi68ssk/FHD5/tt8949056.mp4",
+    "p": "https://image.tmdb.org/t/p/w500/1L07mlJ5Yhxm7OgZmnzIsROaX4m.jpg",
+    "s": "Nos anos 2000, Alice é uma adolescente do meio-oeste devota ao catolicismo. Quando um chat online faz com que ela descubra a masturbação, ela passa a ser consumida por culpa e procurar desesperadamente por redenção divina.",
+    "r": 6.3
+  },
+  {
+    "n": "S01 E01",
+    "u": "http://shd13.oneplayer.site/SHD13/292493/1x1.mp4",
+    "p": "https://static.tvmaze.com/uploads/images/medium_portrait/415/1038929.jpg",
+    "s": "Pacific Coast Academy, an all boys boarding school is accepting female students for the first time since the school was established. Zoey's little brother Dustin is currently a student there. Zoey decides to be one of the first girls to become a student at PCA. This is very exciting, but also very scary; fitting in at a new school is hard enough, but going away to boarding school and living on your own at age 13 can get crazy! Especially when the girls are heavily outnumbered by the boys...",
+    "r": 5.3
   },
   {
     "n": "S01 E01",
