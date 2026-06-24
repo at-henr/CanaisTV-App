@@ -221,7 +221,7 @@ https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejoofic
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Grande Natal HDTV" tvg-name="Grande Natal HDTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTOf_9WwQG3a_P2kHmUgfG5kCoJs1aR_I5h7vPRAB9SdcC3efFWVWJaebsDF4OIjiOm4GIkY0Ksu9iThgePpGTBEDLLeJ3pVeGJqNt7VN_moWci433y80JK9VzTvAN9A7V6XMD394OByzMF16yCoKUNNeYhV2UsOUCpMPcJUYl47B9kxJa2YkoZuatQm4/s1600/tvgrandenatal2.jpg" group-title="Canais | Músicas",Grande Natal HDTV
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
-#EXTINF:-1 tvg-id="A Folha" tvg-name="A Folha" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtDMV2k1VFXmdhyphenhyphenlf2D4haT0l6HfZANiXeEny9xlu906Vlp_Mil_7PKyaesuzAQj4VYZj3B8JgxHeLBHvV96VgDF8i-5k9YRhF2hkUVGrFtstfftxUENOcI3CF9tCDRrA3G7CWXWV4jsRuDyAUiKt6PosB18TmUjmjEJ2RmB_SWl3ipfSK0OeWKn00-IU/s1600/tvafolha.jpg" group-title="Canais | Músicas",A Folha
+#EXTINF:-1 tvg-id="Sertanejo" tvg-name="Sertanejo" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtDMV2k1VFXmdhyphenhyphenlf2D4haT0l6HfZANiXeEny9xlu906Vlp_Mil_7PKyaesuzAQj4VYZj3B8JgxHeLBHvV96VgDF8i-5k9YRhF2hkUVGrFtstfftxUENOcI3CF9tCDRrA3G7CWXWV4jsRuDyAUiKt6PosB18TmUjmjEJ2RmB_SWl3ipfSK0OeWKn00-IU/s1600/tvafolha.jpg" group-title="Canais | Músicas",Sertanejo
 https://cdn-tiva-video01-logicahost-com-br.smartbit.co/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Liberal" tvg-name="Radio Liberal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx0vjp1OoO032O1SAdgO0taoX4u9sXLaGYHtUJbS2e83GMZd7O6H_-pjlULMqNVbQ-0h8r9JwJelWKcf7J5qC8uNL38oMWQmtm5S2dPHcye_48qKslKAC-u1ei5a6KrgEt2j19hR0LG7x9WXjMVHHhyphenhyphenaCS3ibIg-7uCRou4uiOOcjelOEYWomxoIt1p78/s1600/radioliberal.jpg" group-title="Canais | Músicas",Radio Liberal
 https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
@@ -2301,32 +2301,12 @@ http://tjtor8411.com:80/live/010794/FXz1sY/104937.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/104935.ts
 #EXTINF:-1 tvg-name="Zoomoo SD" tvg-logo="http://tjtor8411.com/images/5dab2df694584172699383cdb1100c18.jpg" group-title="Canais | Infantis",Zoomoo SD
 http://tjtor8411.com:80/live/010794/FXz1sY/104936.ts
-#EXTINF:-1 tvg-name="Zorro [S02]" tvg-logo="http://24horas.cc:80/images/0ce1cfa72377b1ac6cdad3155d500320.jpg" group-title="Canais | Outros",Zorro [S02]
-http://tjtor8411.com:80/live/010794/FXz1sY/136819.ts
-#EXTINF:-1 tvg-name="[Canal YouTube] 4 Amigos Stand Up Comedy" tvg-logo="http://24horas.cc:80/images/3e1755f8b6947d2af046a08504a3da39.jpg" group-title="Canais | YouTube",[Canal YouTube] 4 Amigos Stand Up Comedy
+#EXTINF:-1 tvg-name="Stand Up Comedy" tvg-logo="http://24horas.cc:80/images/3e1755f8b6947d2af046a08504a3da39.jpg" group-title="Canais | YouTube",Stand Up Comedy 4 Amigos
 http://tjtor8411.com:80/live/010794/FXz1sY/138721.ts
-#EXTINF:-1 tvg-name="[Canal YouTube] 5 Alguma Coisa" tvg-logo="http://24horas.cc:80/images/ee0b923e8481b85b188a75b2c71a65be.jpeg" group-title="Canais | YouTube",[Canal YouTube] 5 Alguma Coisa
+#EXTINF:-1 tvg-name="Curiosidades 5 Alguma Coisa" tvg-logo="http://24horas.cc:80/images/ee0b923e8481b85b188a75b2c71a65be.jpeg" group-title="Canais | YouTube",Curiosidade 5 Alguma Coisa
 http://tjtor8411.com:80/live/010794/FXz1sY/138729.ts
-#EXTINF:-1 tvg-name="[Canal YouTube] Master Trash e Panicos Chef" tvg-logo="http://24horas.cc:80/images/3e9427d99daf2b556221820eb698b772.png" group-title="Canais | YouTube",[Canal YouTube] Master Trash e Panicos Chef
+#EXTINF:-1 tvg-name="Master Trash e Panicos Chef" tvg-logo="http://24horas.cc:80/images/3e9427d99daf2b556221820eb698b772.png" group-title="Canais | YouTube",Master Trash e Panicos Chef
 http://tjtor8411.com:80/live/010794/FXz1sY/138790.ts
-#EXTINF:-1 tvg-name="[Filmes] Homem Aranha" tvg-logo="http://24horas.cc:80/images/a33d7452f089cca266c92ead65278631.jpg" group-title="Canais | Outros",[Filmes] Homem Aranha
-http://tjtor8411.com:80/live/010794/FXz1sY/135556.ts
-#EXTINF:-1 tvg-name="[Filmes] Minha Mae E Uma Peca" tvg-logo="http://24horas.cc:80/images/644e30819b79b84951a17755ec1b0ae2.jpg" group-title="Canais | Outros",[Filmes] Minha Mae E Uma Peca
-http://tjtor8411.com:80/live/010794/FXz1sY/141501.ts
-#EXTINF:-1 tvg-name="[Filmes] Transformers" tvg-logo="http://24horas.cc:80/images/f127d98d63c5eba6409a894893ebe686.jpg" group-title="Canais | Outros",[Filmes] Transformers
-http://tjtor8411.com:80/live/010794/FXz1sY/135555.ts
-#EXTINF:-1 tvg-name="[Filmes] Velozes e Furiosos" tvg-logo="http://24horas.cc:80/images/6cd38cab47257e88353ea1667ef021fd.jpg" group-title="Canais | Outros",[Filmes] Velozes e Furiosos
-http://tjtor8411.com:80/live/010794/FXz1sY/137618.ts
-#EXTINF:-1 tvg-name="[Musicas] Top 100 Catolicas 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Músicas",[Musicas] Top 100 Catolicas 2021
-http://tjtor8411.com:80/live/010794/FXz1sY/140541.ts
-#EXTINF:-1 tvg-name="[Musicas] Top 100 Gospel 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Músicas",[Musicas] Top 100 Gospel 2021
-http://tjtor8411.com:80/live/010794/FXz1sY/140494.ts
-#EXTINF:-1 tvg-name="[Musicas] Top 100 MPB 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Músicas",[Musicas] Top 100 MPB 2021
-http://tjtor8411.com:80/live/010794/FXz1sY/140542.ts
-#EXTINF:-1 tvg-name="[Musicas] Top 100 Sertanejo 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Músicas",[Musicas] Top 100 Sertanejo 2021
-http://tjtor8411.com:80/live/010794/FXz1sY/140495.ts
-#EXTINF:-1 tvg-name="[Musicas] Top 100 Spotify 2021" tvg-logo="http://24horas.cc:80/images/1355579d41e116191e150a6c66b8ff97.png" group-title="Canais | Músicas",[Musicas] Top 100 Spotify 2021
-http://tjtor8411.com:80/live/010794/FXz1sY/140496.ts
 #EXTINF:-1 tvg-name="Furacao Live FHD" tvg-logo="" group-title="Canais | PPV",Furacao Live FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/192079.ts
 #EXTINF:-1 tvg-name="Furacao Live HD" tvg-logo="" group-title="Canais | PPV",Furacao Live HD
@@ -2483,7 +2463,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/254764.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/254765.ts
 #EXTINF:-1 tvg-name="Cirurgioes No Limite da Vida" tvg-logo="http://24horas.cc:80/images/a806852c2c2984b0eafb500c6f543485.jpg" group-title="Canais | Series",Cirurgioes No Limite da Vida
 http://tjtor8411.com:80/live/010794/FXz1sY/254766.ts
-#EXTINF:-1 tvg-name="A Nova pantera Cor de Rosa" tvg-logo="http://24horas.cc:80/images/2fae61ebf80a4ae92c215995339cdb21.jpg" group-title="Canais | Desenhos",A Nova pantera Cor de Rosa
+#EXTINF:-1 tvg-name="Nova pantera Cor de Rosa" tvg-logo="http://24horas.cc:80/images/2fae61ebf80a4ae92c215995339cdb21.jpg" group-title="Canais | Desenhos",Nova pantera Cor de Rosa
 http://tjtor8411.com:80/live/010794/FXz1sY/254767.ts
 #EXTINF:-1 tvg-name="Bar do Gogo" tvg-logo="http://24horas.cc:80/images/40ed80fbfcdf888d06ddf732adad4c87.jpg" group-title="Canais | Series",Bar do Gogo
 http://tjtor8411.com:80/live/010794/FXz1sY/254768.ts
@@ -2505,7 +2485,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/254775.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/254776.ts
 #EXTINF:-1 tvg-name="Operacao Fronteira Espanha [S06]" tvg-logo="http://24horas.cc:80/images/1d301113d4018af944e2ede17e91d6ec.jpg" group-title="Canais | Series",Operacao Fronteira Espanha [S06]
 http://tjtor8411.com:80/live/010794/FXz1sY/254777.ts
-#EXTINF:-1 tvg-name="[Canal YouTube] Fritada" tvg-logo="http://24horas.cc:80/images/230b846de5b726ed5a7e4755a2419f98.jpg" group-title="Canais | YouTube",[Canal YouTube] Fritada
+#EXTINF:-1 tvg-name="Fritada" tvg-logo="http://24horas.cc:80/images/230b846de5b726ed5a7e4755a2419f98.jpg" group-title="Canais | YouTube",Fritada
 http://tjtor8411.com:80/live/010794/FXz1sY/255220.ts
 #EXTINF:-1 tvg-name="Restaurando Casas com Dave e Jenny [S01]" tvg-logo="http://24horas.cc:80/images/dc72410ce5dc2fa31359f5be288164d8.jpg" group-title="Canais | Series",Restaurando Casas com Dave e Jenny [S01]
 http://tjtor8411.com:80/live/010794/FXz1sY/255221.ts
@@ -2813,6 +2793,8 @@ http://tjtor8411.com:80/live/010794/FXz1sY/350090.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/350091.ts
 #EXTINF:-1 tvg-name="RecordTV Thathi Campinas SD" tvg-logo="http://tjtor8411.com/static/logos/canais/record.png" group-title="Canais | RecordTV",RecordTV Thathi Campinas SD
 http://tjtor8411.com:80/live/010794/FXz1sY/350092.ts
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="Globo Montes Claros MG HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",Globo Montes Claros MG HD
+http://play.dnsrot.vip/live/huhenz/fa7kum6q4bm/100613.ts
 #EXTINF:-1 tvg-name="SBT VTV Santos Campinas FHD" tvg-logo="http://tjtor8411.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT VTV Santos Campinas FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/350093.ts
 #EXTINF:-1 tvg-name="SBT VTV Santos Campinas HD" tvg-logo="http://tjtor8411.com/images/cdeca592bbb91b4c697cb75440c2bf83.png" group-title="Canais | Abertos",SBT VTV Santos Campinas HD
