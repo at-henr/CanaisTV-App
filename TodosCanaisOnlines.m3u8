@@ -383,13 +383,9 @@ http://46.151.196.223:14456
 http://celoricdn.online:80/live/861970655/687908312/2302900.ts
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 6 HD ALT
 http://hls1.sua.tv:80/live/espnextrafhd/s.ts
-#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
-http://tjtor8411.com:80/live/010794/FXz1sY/71760.ts
-#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
-http://tjtor8411.com:80/live/010794/FXz1sY/71761.ts
 #EXTINF:-1 timeshift="7" tvg-name="A&E HD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
 http://tjtor8411.com:80/live/010794/FXz1sY/71762.ts
-#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E SD
+#EXTINF:-1 tvg-name="1 A&E SD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",1 A&E SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71763.ts
 #EXTINF:-1 tvg-name="AgroMais FHD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71764.ts
@@ -413,7 +409,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71772.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71773.ts
 #EXTINF:-1 timeshift="7" tvg-name="Animal Planet HD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet HD
 http://tjtor8411.com:80/live/010794/FXz1sY/71775.ts
-#EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
+#EXTINF:-1 tvg-name="1 Animal Planet SD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",1 Animal Planet SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71776.ts
 #EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71777.ts
