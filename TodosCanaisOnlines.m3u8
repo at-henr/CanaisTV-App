@@ -383,8 +383,6 @@ http://46.151.196.223:14456
 http://celoricdn.online:80/live/861970655/687908312/2302900.ts
 #EXTINF:-1 tvg-id="ESPN 6" tvg-name="ESPN 6 HD ALT" tvg-logo="https://i.imgur.com/hJr0Ay6.png" group-title="ESPN",ESPN 6 HD ALT
 http://hls1.sua.tv:80/live/espnextrafhd/s.ts
-#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/90647.ts
 #EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71760.ts
 #EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
@@ -393,8 +391,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71761.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71762.ts
 #EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://tjtor8411.com/static/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71763.ts
-#EXTINF:-1 tvg-name="AgroMais 4K" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103532.ts
 #EXTINF:-1 tvg-name="AgroMais FHD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71764.ts
 #EXTINF:-1 tvg-name="AgroMais FHD [H265]" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais FHD [H265]
@@ -403,8 +399,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71765.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71766.ts
 #EXTINF:-1 tvg-name="AgroMais SD" tvg-logo="http://www.acstatic.co/logos/canais/agromais.png" group-title="Canais | Abertos",AgroMais SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71767.ts
-#EXTINF:-1 tvg-name="AMC 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/90646.ts
 #EXTINF:-1 tvg-name="AMC FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71768.ts
 #EXTINF:-1 tvg-name="AMC FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC FHD [H265]
@@ -413,8 +407,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71769.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71770.ts
 #EXTINF:-1 tvg-name="AMC SD" tvg-logo="http://tjtor8411.com/static/logos/canais/amc.png" group-title="Canais | Filmes e Séries",AMC SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71771.ts
-#EXTINF:-1 tvg-name="Animal Planet 4K" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/71774.ts
 #EXTINF:-1 tvg-name="Animal Planet FHD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71772.ts
 #EXTINF:-1 tvg-name="Animal Planet FHD [H265]" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet FHD [H265]
@@ -423,8 +415,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71773.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71775.ts
 #EXTINF:-1 tvg-name="Animal Planet SD" tvg-logo="http://tjtor8411.com/images/42c58ab1d6e79befc171ea4f555ca500.png" group-title="Canais | Documentários",Animal Planet SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71776.ts
-#EXTINF:-1 tvg-name="Arte 1 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103531.ts
 #EXTINF:-1 tvg-name="Arte 1 FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71777.ts
 #EXTINF:-1 tvg-name="Arte 1 FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 FHD [H265]
@@ -432,8 +422,7 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71778.ts
 #EXTINF:-1 tvg-name="Arte 1 HD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 HD
 http://tjtor8411.com:80/live/010794/FXz1sY/71779.ts
 #EXTINF:-1 tvg-name="Arte 1 SD" tvg-logo="http://tjtor8411.com/static/logos/canais/arte1.png" group-title="Canais | Documentários",Arte 1 SD
-http://tjtor8411.com:80/live/010794/FXz1sY/71780.ts
-#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN 4K
+http://tjtor8411.com:80/live/010794/FXz1sY/71780.ts#EXTINF:-1 tvg-name="AXN 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN 4K
 http://tjtor8411.com:80/live/010794/FXz1sY/90645.ts
 #EXTINF:-1 tvg-name="AXN FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71781.ts
@@ -449,8 +438,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/90715.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71784.ts
 #EXTINF:-1 tvg-name="AXN SD [LEG]" tvg-logo="http://tjtor8411.com/static/logos/canais/axn.png" group-title="Canais | Legendados",AXN SD [LEG]
 http://tjtor8411.com:80/live/010794/FXz1sY/90714.ts
-#EXTINF:-1 tvg-name="Band News 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103526.ts
 #EXTINF:-1 tvg-name="Band News FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71789.ts
 #EXTINF:-1 tvg-name="Band News FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/bandnews.png" group-title="Canais | Notícias",Band News FHD [H265]
@@ -467,8 +454,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/104943.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/72597.ts
 #EXTINF:-1 tvg-name="Band SP SD" tvg-logo="http://tjtor8411.com/static/logos/canais/band.png" group-title="Canais | Abertos",Band SP SD
 http://tjtor8411.com:80/live/010794/FXz1sY/79312.ts
-#EXTINF:-1 tvg-name="Band Sports 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103525.ts
 #EXTINF:-1 tvg-name="Band Sports FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71801.ts
 #EXTINF:-1 tvg-name="Band Sports FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports FHD [H265]
@@ -477,8 +462,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71802.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71803.ts
 #EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="http://tjtor8411.com/static/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71804.ts
-#EXTINF:-1 tvg-name="BIS 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103527.ts
 #EXTINF:-1 tvg-name="BIS FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71806.ts
 #EXTINF:-1 tvg-name="BIS FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/bis.png" group-title="Canais | Variedades",BIS FHD [H265]
@@ -489,8 +472,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71808.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71809.ts
 #EXTINF:-1 tvg-name="BJJ STARS FHD" tvg-logo="" group-title="Canais | PPV",BJJ STARS FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/159276.ts
-#EXTINF:-1 tvg-name="Canal Brasil 4K" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103518.ts
 #EXTINF:-1 tvg-name="Canal Brasil FHD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71816.ts
 #EXTINF:-1 tvg-name="Canal Brasil FHD [H265]" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
@@ -499,8 +480,6 @@ http://tjtor8411.com:80/live/010794/FXz1sY/71817.ts
 http://tjtor8411.com:80/live/010794/FXz1sY/71818.ts
 #EXTINF:-1 tvg-name="Canal Brasil SD" tvg-logo="http://tjtor8411.com/static/logos/canais/canalbrasil.png" group-title="Canais | Filmes e Séries",Canal Brasil SD
 http://tjtor8411.com:80/live/010794/FXz1sY/71819.ts
-#EXTINF:-1 tvg-name="Canal do Boi 4K" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi 4K
-http://tjtor8411.com:80/live/010794/FXz1sY/103516.ts
 #EXTINF:-1 tvg-name="Canal do Boi FHD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi FHD
 http://tjtor8411.com:80/live/010794/FXz1sY/71820.ts
 #EXTINF:-1 tvg-name="Canal do Boi HD" tvg-logo="http://acstatic.co/logos/canais/canaldoboi.png" group-title="Canais | Abertos",Canal do Boi HD
