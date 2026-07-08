@@ -1,11 +1,7 @@
 {
   "Recomendado": {
-    "movie": "https://mgeb.top/$id/",
-    "tv": "https://mgeb.top/tv/$tmdb/$seasonNum/$episodeNum/$audio"
-  },
-  "Rápido": {
-    "movie": "https://playerflixapi.com/filme/$id",
-    "tv": "https://playerflixapi.com/serie/$id/$seasonNum/$episodeNum"
+    "movie": "https://mgeb.top/{tmdb_id}",
+    "tv": "https://mgeb.top/tv/{tmdb_id}/{season}/{episode}"
   },
   "Ultra": {
     "movie": "https://superflixapi.pro/filme/$id#noLink",
