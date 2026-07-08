@@ -1,11 +1,15 @@
 {
-  "Recomendado": {
-    "movie": "https://mgeb.top/{tmdb_id}",
-    "tv": "https://mgeb.top/tv/{tmdb_id}/{season}/{episode}"
+  "Master": {
+    "movie": "https://myembed.biz/filme/$id",
+    "tv": "https://myembed.biz/serie/$id/$seasonNum/$episodeNum"
   },
-  "Ultra": {
+  "Rápido": {
     "movie": "https://superflixapi.pro/filme/$id#noLink",
     "tv": "https://superflixapi.pro/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
+  },
+  "Ultra": {
+    "movie": "https://mgeb.top/embed/$tmdb",
+    "tv": "https://mgeb.top/embed/$tmdb/$seasonNum/$episodeNum"
   },
   "New": {
     "movie": "https://embedplayapi.top/embed/$id",
