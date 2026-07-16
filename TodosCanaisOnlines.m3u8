@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FHD FONTE 1
-http://onlivex.pro:80/live/563593/vGfUjy/72071.ts
+http://govsp.org:80/live/3llohwk4g9/kwf099q30o/1168948.ts
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 1
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/42964.ts
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 2
@@ -31,6 +31,8 @@ https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="Tv Guarajá - SBT" tvg-name="Tv Guarajá - SBT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisxR5Z9CcV_hGQ-iBmqI5lGTCwuHeBXM8jsrK_2He8UuHTMrWpl2r2tzQCPH4UzKQkmrs7vug6up5e8n3Ic_Q5EF-DxSOJ4yNLm1GOH7_6ropgObvkE5mMWaDjt9LA8A2VcuWEp_xISQiqerpItA634mC3L_7QmCMaETrHP2kiFQcHU_Uy5iv1nS43c2w/s1600/guaja.webp" group-title="CANAIS | ESTADO DO PARÁ",Tv Guarajá - SBT
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-id="Redeclone.br" tvg-name="Rede Clouding" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaK6eSfFS63zXcjP2U0LeiSoA6ihHsxmL9lif8ZyuTxxMLjeAIMBeI86doSEP-d88x_Mp8Vv5pJip7Z18sPcS-63oo8jNyxruDRmFjNePiKMuVAXVstiw83s7LiX8xQ2GynmCxnRMbUlbvLAYMAKcWGLP7RIGdPEdA-DJ8MPaw_1CvnrFcj9peBJFArxs/s1600/redeclouding.png" group-title="CANAIS | ESTADO DO PARÁ",Rede Clouding
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Casa Do Patrão | Casa Convivência" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2026/02/Casa-do-Patrao-Disney-Plus.jpg" group-title="Canais | Casa do Patrão",Casa Do Patrão | Casa Convivência
 http://celoricdn.online:80/live/861970655/687908312/4621282.ts
 #EXTINF:-1 tvg-id="" tvg-name="Casa Do Patrão | Multicam 1" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2026/02/Casa-do-Patrao-Disney-Plus.jpg" group-title="Canais | Casa do Patrão",Casa Do Patrão | Multicam 1
@@ -67,8 +69,6 @@ https://streaming.cloudecast.com/hls/rederecon/index.m3u8
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/playlist.m3u8
 #EXTINF:-1 tvg-id="AWTV" tvg-name="AWTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5IuirjLniZ_0k4wXFNneypC-S3Ow0qzLAVT9jsKTlyHYrK8Z1jTV3sjKapaDhRNm0dD-QUBV4dn9Ga92k3ebdLRNl4gi_XRTIlfRsfGJ7-TPcKfUTNPXcQw-tEp2DppeBEF8JEhgGzWT2B7meilTlv_ej2vS7ED0kLacLJkW9kE_3lEoB9M4tw20YfxQ/s1600/awtv.webp" group-title="CANAIS | FILMES E SERIES",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Redeclone.br" tvg-name="Rede Clouding" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaK6eSfFS63zXcjP2U0LeiSoA6ihHsxmL9lif8ZyuTxxMLjeAIMBeI86doSEP-d88x_Mp8Vv5pJip7Z18sPcS-63oo8jNyxruDRmFjNePiKMuVAXVstiw83s7LiX8xQ2GynmCxnRMbUlbvLAYMAKcWGLP7RIGdPEdA-DJ8MPaw_1CvnrFcj9peBJFArxs/s1600/redeclouding.png" group-title="CANAIS | FILMES E SERIES",Rede Clouding
-https://stmv7.voxtvhd.com.br/clouding/clouding/playlist.m3u8
 #EXTINF:-1 tvg-id="Runtime" tvg-name="Runtime" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOaWl3zNJjzy9frEgev6nzBshvK4simQhlYQL7qMiKJ58v3l7goA4HeWR6Za0RpzATFf8W6nDncHYXsVgVdqsSUmCKaH5Oak8uj71sKEw9YKBJ0B__px0EnnZJiiCn0lvo1Y1w4dQ8GmKMLc9s-of6vqcUdIsLcB830KuT3Gu21nTSiXxRgX_smDS6Wk4/s1600/runt.webp" group-title="CANAIS | FILMES E SERIES",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-id="Runtime Ação" tvg-name="Runtime Ação" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuqCxDlLY3RnxMBzKQcuu24VloCW2L0drtv90yrLieLRYXlppia_E_3W17rYqyAhtlbpOKgT1N-SNrAKdD7GxBQ0XGjETkmyV0xtkizRu0cNR3GNQs-izT3BXqYASTOi0mNouqcA9eqqXK6lAeVwyehc8JVMiCQaF_2W3MqBFWcJ3aMaSFrrgjwk_uU_k/s1600/rua.webp" group-title="CANAIS | FILMES E SERIES",Runtime Ação
@@ -739,66 +739,7 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/214335.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/214331.ts
 #EXTINF:-1 tvg-id="+SBT TV Zyn" tvg-name="+SBT TV Kids" tvg-logo="https://i.imgur.com/As98iql.png" group-title="Canais | SBT",+SBT TV Kids
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/214300.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 01" tvg-name="1 HORA DE CURIOSIDADES 01" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 01
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958776.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 02" tvg-name="1 HORA DE CURIOSIDADES 02" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 02
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958790.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 03" tvg-name="1 HORA DE CURIOSIDADES 03" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 03
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958791.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 04" tvg-name="1 HORA DE CURIOSIDADES 04" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 04
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958792.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 05" tvg-name="1 HORA DE CURIOSIDADES 05" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 05
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958793.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 06" tvg-name="1 HORA DE CURIOSIDADES 06" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 06
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958794.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 07" tvg-name="1 HORA DE CURIOSIDADES 07" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 07
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958795.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 08" tvg-name="1 HORA DE CURIOSIDADES 08" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 08
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958796.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 09" tvg-name="1 HORA DE CURIOSIDADES 09" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 09
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958797.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 10" tvg-name="1 HORA DE CURIOSIDADES 10" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958798.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 11" tvg-name="1 HORA DE CURIOSIDADES 11" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 11
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958799.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 11" tvg-name="1 HORA DE CURIOSIDADES 12" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 12
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958800.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 13" tvg-name="1 HORA DE CURIOSIDADES 13" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 13
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958801.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 14" tvg-name="1 HORA DE CURIOSIDADES 14" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 14
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958802.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 15" tvg-name="1 HORA DE CURIOSIDADES 15" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 15
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958803.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 16" tvg-name="1 HORA DE CURIOSIDADES 16" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 16
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958804.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 17" tvg-name="1 HORA DE CURIOSIDADES 17" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 17
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958805.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 18" tvg-name="1 HORA DE CURIOSIDADES 18" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 18
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958806.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 19" tvg-name="1 HORA DE CURIOSIDADES 19" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 19
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958807.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 20" tvg-name="1 HORA DE CURIOSIDADES 20" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 20
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958808.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 21" tvg-name="1 HORA DE CURIOSIDADES 21" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 21
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958810.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 22" tvg-name="1 HORA DE CURIOSIDADES 22" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 22
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958811.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 22" tvg-name="1 HORA DE CURIOSIDADES 23" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 23
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958812.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 24" tvg-name="1 HORA DE CURIOSIDADES 24" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 24
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958813.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 25" tvg-name="1 HORA DE CURIOSIDADES 25" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 25
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958815.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 25" tvg-name="1 HORA DE CURIOSIDADES 25" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 25
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958816.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 26" tvg-name="1 HORA DE CURIOSIDADES 26" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 26
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958817.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 27" tvg-name="1 HORA DE CURIOSIDADES 27" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 27
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958818.ts
-#EXTINF:-1 tvg-id="1 HORA DE CURIOSIDADES 28	" tvg-name="1 HORA DE CURIOSIDADES 28" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",1 HORA DE CURIOSIDADES 28
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/958819.ts
-#EXTINF:-1 tvg-id="100 Animais para Crianças" tvg-name="100 Animais para Crianças" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",100 Animais para Crianças
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140440.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas [BR]" tvg-logo="https://i.imgur.com/vTD6SJv.png" group-title="Canais | Diversos",3 Palavrinhas [BR]
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002329.ts
 #EXTINF:-1 tvg-id="89 FM ROCK " tvg-name="89 FM ROCK" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",89 FM ROCK
@@ -807,38 +748,7 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/113404.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37130.ts
 #EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/nUrChh4.png" group-title="Canais | Filmes e Series",A&E HD
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36929.ts
-#EXTINF:-1 tvg-id="AEIOU Comidas" tvg-name="AEIOU Comidas" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",AEIOU Comidas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140442.ts
-#EXTINF:-1 tvg-id="ALPHA FM" tvg-name="ALPHA FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",ALPHA FM
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/113401.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC" tvg-logo="https://i.imgur.com/9rlMvYg.png" group-title="Canais | Filmes e Series",AMC
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/41087.ts
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/9rlMvYg.png" group-title="Canais | Filmes e Series",AMC HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36928.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series HD" tvg-logo="https://i.imgur.com/oE7GAN2.png" group-title="Canais | Filmes e Series",AMC Series HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/984406.ts
-#EXTINF:-1 tvg-id="ANTENA 1 FM " tvg-name="ANTENA 1 FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",ANTENA 1 FM
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/113396.ts
-#EXTINF:-1 tvg-id="ASMR 01" tvg-name="ASMR 01" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 01
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133453.ts
-#EXTINF:-1 tvg-id="ASMR 02" tvg-name="ASMR 02" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 02
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133454.ts
-#EXTINF:-1 tvg-id="ASMR 03" tvg-name="ASMR 03" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 03
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133455.ts
-#EXTINF:-1 tvg-id="ASMR 04" tvg-name="ASMR 04" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 04
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133456.ts
-#EXTINF:-1 tvg-id="ASMR 05" tvg-name="ASMR 05" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 05
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133457.ts
-#EXTINF:-1 tvg-id="ASMR 06" tvg-name="ASMR 06" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 06
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133458.ts
-#EXTINF:-1 tvg-id="ASMR 07" tvg-name="ASMR 07" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 07
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133471.ts
-#EXTINF:-1 tvg-id="ASMR 08" tvg-name="ASMR 08" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 08
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133472.ts
-#EXTINF:-1 tvg-id="ASMR 09" tvg-name="ASMR 09" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 09
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133473.ts
-#EXTINF:-1 tvg-id="ASMR 10" tvg-name="ASMR 10" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",ASMR 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133474.ts
+
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://i.imgur.com/Dx1sycb.png" group-title="Canais | Filmes e Series",AXN
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37132.ts
 #EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Dx1sycb.png" group-title="Canais | Filmes e Series",AXN HD
@@ -887,48 +797,7 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/939692.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002222.ts
 #EXTINF:-1 tvg-id="" tvg-name="AniTV" tvg-logo="https://i.imgur.com/o7p5Ahx.jpeg" group-title="Canais | Infantil",AniTV
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/56468.ts
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37128.ts
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36992.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anime Onegai Action" tvg-logo="https://i.imgur.com/5V7alRE.png" group-title="Canais | Diversos",Anime Onegai Action
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002268.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anime Onegai Comedy" tvg-logo="https://i.imgur.com/5V7alRE.png" group-title="Canais | Diversos",Anime Onegai Comedy
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002266.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anime Onegai Drama" tvg-logo="https://i.imgur.com/5V7alRE.png" group-title="Canais | Diversos",Anime Onegai Drama
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002265.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anime Onegai SCI-FI" tvg-logo="https://i.imgur.com/5V7alRE.png" group-title="Canais | Diversos",Anime Onegai SCI-FI
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002267.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anime Onegai Sports" tvg-logo="https://i.imgur.com/5V7alRE.png" group-title="Canais | Diversos",Anime Onegai Sports
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002269.ts
-#EXTINF:-1 tvg-id="Anime TV HD" tvg-name="Anime TV HD" tvg-logo="https://i.imgur.com/TlJsQT0.png" group-title="Canais | Variedades",Anime TV HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/121560.ts
-#EXTINF:-1 tvg-id="Apple TV+ 01 (B)" tvg-name="Apple TV+ 01 (B)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 01 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/131927.ts
-#EXTINF:-1 tvg-id="Apple TV+ 02 (B)" tvg-name="Apple TV+ 02 (B)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 02 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/131928.ts
-#EXTINF:-1 tvg-id="Apple TV+ 03 (B)" tvg-name="Apple TV+ 03 (B)" tvg-logo="https://i.imgur.com/Mf5rO6u.png" group-title="Canais | Esportes",Apple TV+ 03 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952176.ts
-#EXTINF:-1 tvg-id="Aprenda a ADICIONAR e SUBTRAIR" tvg-name="Aprenda a ADICIONAR e SUBTRAIR" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprenda a ADICIONAR e SUBTRAIR
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140446.ts
-#EXTINF:-1 tvg-id="Aprenda os Números de 1 a 10 Contando Girafas" tvg-name="Aprenda os Números de 1 a 10 Contando Girafas" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprenda os Números de 1 a 10 Contando Girafas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140447.ts
-#EXTINF:-1 tvg-id="A7" tvg-name="Aprendendo a Subtrair" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprendendo a Subtrair
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/137939.ts
-#EXTINF:-1 tvg-id="A5" tvg-name="Aprendendo as Vogais" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprendendo as Vogais
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/137937.ts
-#EXTINF:-1 tvg-id="A11" tvg-name="Aprendendo as Vogais" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprendendo as Vogais
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/137944.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aprender a Ler e Escrever - Quebra-cabeça de Palavras" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprender a Ler e Escrever - Quebra-cabeça de Palavras
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/156923.ts
-#EXTINF:-1 tvg-id="Aprender as Cores em Inglês" tvg-name="Aprender as Cores em Inglês" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprender as Cores em Inglês
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140448.ts
-#EXTINF:-1 tvg-id="Aprender as Silabas" tvg-name="Aprender as Silabas" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprender as Silabas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140449.ts
-#EXTINF:-1 tvg-id="Aprender o Alfabeto em Português" tvg-name="Aprender o Alfabeto em Português" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprender o Alfabeto em Português
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140450.ts
-#EXTINF:-1 tvg-id="Aprender os Números - Contar de 1 a 10" tvg-name="Aprender os Números - Contar de 1 a 10" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Aprender os Números - Contar de 1 a 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140451.ts
+
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1" tvg-logo="https://i.imgur.com/k408ZJ6.png" group-title="Canais | Variedades",Arte 1
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37133.ts
 #EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://i.imgur.com/k408ZJ6.png" group-title="Canais | Variedades",Arte 1 HD
@@ -1027,60 +896,7 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91579.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002205.ts
 #EXTINF:-1 tvg-id="Brasil TV Rural" tvg-name="Brasil TV Rural" tvg-logo="https://i.imgur.com/SBdADwI.png" group-title="Canais | Abertos",Brasil TV Rural
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/121548.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 01 (C)" tvg-name="Brasileirão Feminino 01 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 01 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/187118.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 02 (C)" tvg-name="Brasileirão Feminino 02 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 02 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/187119.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 03 (B)" tvg-name="Brasileirão Feminino 03 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 03 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952180.ts
-#EXTINF:-1 tvg-id="Brasileirão Feminino 04 (B)" tvg-name="Brasileirão Feminino 04 (B)" tvg-logo="https://i.imgur.com/VOX8Vyw.png" group-title="Canais | Brasileirão",Brasileirão Feminino 04 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952181.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 3 (J)" tvg-name="Brasileirão Serie D 03 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 03 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/122904.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 4 (J)" tvg-name="Brasileirão Serie D 04 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 04 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/122905.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 5 (J)" tvg-name="Brasileirão Serie D 05 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 05 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/122906.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 6 (J)" tvg-name="Brasileirão Serie D 06 (B)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 06 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/122907.ts
-#EXTINF:-1 tvg-id="Brasileirão Serie D 1 (S)" tvg-name="Brasileirão Serie D 1 (A)" tvg-logo="https://i.imgur.com/nsG7XMT.png" group-title="Canais | Brasileirão",Brasileirão Serie D 1 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/122902.ts
-#EXTINF:-1 tvg-id="Brasileirão Sub-20 1 (J)" tvg-name="Brasileirão Sub-20 1 (B)" tvg-logo="https://i.imgur.com/sCOmEC1.png" group-title="Canais | Brasileirão",Brasileirão Sub-20 1 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/112048.ts
-#EXTINF:-1 tvg-id="Brasileirão Sub-20 2 (J)" tvg-name="Brasileirão Sub-20 2 (B)" tvg-logo="https://i.imgur.com/sCOmEC1.png" group-title="Canais | Brasileirão",Brasileirão Sub-20 2 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/112049.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 1 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 1 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87227.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 1 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 1 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87226.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 2 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89542.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 2 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 2 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89546.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 3 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 3 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89543.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 3 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 3 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89547.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 4 (A)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 4 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89544.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 4 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 4 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89973.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 5 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 5 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89974.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 6 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 6 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89975.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 7 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 7 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89976.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 8 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 8 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89977.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série C 9 (B)" tvg-logo="https://i.imgur.com/Slu70Js.png" group-title="Canais | Brasileirão",Brasileirão Série C 9 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89978.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D (A)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89545.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D 01 (B)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D 01 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89583.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Brasileirão Série D 02 (B)" tvg-logo="https://i.imgur.com/fhOavDU.png" group-title="Canais | Brasileirão",Brasileirão Série D 02 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89584.ts
+
 #EXTINF:-1 tvg-id="CBN FM" tvg-name="CBN FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",CBN FM
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/931418.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="CBN Rio" tvg-logo="https://i.imgur.com/NEuQRZJ.png" group-title="Canais | Noticias",CBN Rio
@@ -1117,42 +933,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81017.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91565.ts
 #EXTINF:-1 tvg-id="cnt.br" tvg-name="CNT HD" tvg-logo="https://i.imgur.com/YEuCVaU.png" group-title="Canais | Variedades",CNT HD
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91566.ts
-#EXTINF:-1 tvg-id="COCA COLA FM" tvg-name="COCA COLA FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",COCA COLA FM
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/113400.ts
-#EXTINF:-1 tvg-id="[PE] TV Perú" tvg-name="CONCACAF TV" tvg-logo="https://i.imgur.com/aF69hBb.png" group-title="Canais | Esportes",CONCACAF TV
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/931360.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Campeonato Alemão 1 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 1 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87603.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Campeonato Alemão 2 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 2 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87604.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Campeonato Alemão 3 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 3 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87605.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Campeonato Alemão 4 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 4 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87606.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Campeonato Alemão 5 (B)" tvg-logo="https://i.imgur.com/QUX3tNU.png" group-title="Canais | Esportes",Campeonato Alemão 5 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87607.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37122.ts
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63636.ts
-#EXTINF:-1 tvg-id="Canal GOV HD" tvg-name="Canal GOV HD" tvg-logo="https://i.imgur.com/Blho6Hj.png" group-title="Canais | Variedades",Canal GOV HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/162983.ts
-#EXTINF:-1 tvg-id="Canal Goat (A)" tvg-name="Canal Goat 01 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 01 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133438.ts
-#EXTINF:-1 tvg-id="Canal Goat" tvg-name="Canal Goat 01 (B)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 01 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133396.ts
-#EXTINF:-1 tvg-id="Canal Goat 2 (A)" tvg-name="Canal Goat 02 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 02 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/169669.ts
-#EXTINF:-1 tvg-id="Canal Goat 02 (B)" tvg-name="Canal Goat 02 (B)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 02 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176674.ts
-#EXTINF:-1 tvg-id="Canal Goat 3 (A)" tvg-name="Canal Goat 03 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 03 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/169670.ts
-#EXTINF:-1 tvg-id="Canal Goat 03 (B)" tvg-name="Canal Goat 03 (B)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 03 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176675.ts
-#EXTINF:-1 tvg-id="Canal Goat 4 (A)" tvg-name="Canal Goat 04 (A)" tvg-logo="https://i.imgur.com/w0ck7rj.png" group-title="Canais | Esportes",Canal Goat 04 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/169671.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal L!ke [BR]" tvg-logo="https://i.imgur.com/MGSLlsP.png" group-title="Canais | Diversos",Canal L!ke [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002307.ts
 #EXTINF:-1 tvg-id="canalrural.br" tvg-name="Canal Rural" tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png" group-title="Canais | Abertos",Canal Rural
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63217.ts
 #EXTINF:-1 tvg-id="Canal de Carros (Evento)" tvg-name="Canal de Carros (Eventos)" tvg-logo="https://i.imgur.com/e6rjfCG.png" group-title="Canais | Esportes",Canal de Carros (Eventos)
@@ -1331,20 +1111,7 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/41897.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80943.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 02" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 02
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80944.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 03" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 03
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80945.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 04" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 04
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80946.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 06" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 06
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80948.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 07" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 07
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80949.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 08" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 08
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80950.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 09" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 09
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80951.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine Sky 10" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sky 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/80952.ts
+
 #EXTINF:-1 tvg-id="Cine Sucessos" tvg-name="Cine Sucessos" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Sucessos
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/215155.ts
 #EXTINF:-1 tvg-id="Cine Suspense" tvg-name="Cine Suspense" tvg-logo="https://i.imgur.com/C7riu3A.png" group-title="Canais | Cine Bit",Cine Suspense
@@ -1373,34 +1140,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002275.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37119.ts
 #EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/YTCL5so.png" group-title="Canais | Esportes",Combate HD
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36986.ts
-#EXTINF:-1 tvg-id="" tvg-name="Como Aprender a Fazer Contas" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Como Aprender a Fazer Contas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/156921.ts
-#EXTINF:-1 tvg-id="" tvg-name="Como Ensinar a Ler com Música" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Como Ensinar a Ler com Música
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/156920.ts
-#EXTINF:-1 tvg-id="" tvg-name="Compilado de Palavras Simples para Aprender a Ler e Escrever" tvg-logo="https://i.imgur.com/IJuLq5c.png" group-title="Videos Educativos",Compilado de Palavras Simples para Aprender a Ler e Escrever
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/156919.ts
-#EXTINF:-1 tvg-id="Copa Verde 01 (A)" tvg-name="Copa Verde 01 (A)" tvg-logo="https://i.imgur.com/kwDIIm9.png" group-title="Canais | Estaduais",Copa Verde 01 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/184010.ts
-#EXTINF:-1 tvg-id="Copa Verde 02 (A)" tvg-name="Copa Verde 02 (A)" tvg-logo="https://i.imgur.com/kwDIIm9.png" group-title="Canais | Estaduais",Copa Verde 02 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/184011.ts
-#EXTINF:-1 tvg-id="Copa do Brasil 1 (S)" tvg-name="Copa do Brasil Prime Video 1 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 1 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/107423.ts
-#EXTINF:-1 tvg-id="Copa do Brasil 2 (S)" tvg-name="Copa do Brasil Prime Video 2 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/107424.ts
-#EXTINF:-1 tvg-id="Copa do Brasil 3 (S)" tvg-name="Copa do Brasil Prime Video 3 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 3 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/112425.ts
-#EXTINF:-1 tvg-id="Copa do Brasil 4 (S)" tvg-name="Copa do Brasil Prime Video 4 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 4 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/112426.ts
-#EXTINF:-1 tvg-id="Copa do Brasil 5 (S)" tvg-name="Copa do Brasil Prime Video 5 (A)" tvg-logo="https://i.imgur.com/UA5Txbm.png" group-title="Canais | Prime Video",Copa do Brasil Prime Video 5 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/112427.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 01 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 01 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1000556.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 02 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 02 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1000557.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 03 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 03 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1000558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 04 (B)" tvg-logo="https://i.imgur.com/gFmWjUS.png" group-title="Canais | Estaduais",Copa do Nordeste 04 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1000559.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cultne.tv [BR]" tvg-logo="https://i.imgur.com/E5VAbvu.png" group-title="Canais | Diversos",Cultne.tv [BR]
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002310.ts
 #EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="Canais | Abertos",Cultura
@@ -1415,70 +1154,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63646.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/99871.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 1 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 1 (B)
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63216.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 2 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63113.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 2 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/99872.ts
-#EXTINF:-1 tvg-id="DAZN 2 (B)" tvg-name="DAZN 2 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 2 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/168288.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 3 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 3 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/99873.ts
-#EXTINF:-1 tvg-id="DAZN 3 (B)" tvg-name="DAZN 3 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 3 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/168289.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="DAZN 4 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 4 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/99874.ts
-#EXTINF:-1 tvg-id="DAZN 4 (B)" tvg-name="DAZN 4 (B)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 4 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952370.ts
-#EXTINF:-1 tvg-id="DAZN 5 (A)" tvg-name="DAZN 5 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 5 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176793.ts
-#EXTINF:-1 tvg-id="DAZN 6 (A)" tvg-name="DAZN 6 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 6 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176794.ts
-#EXTINF:-1 tvg-id="DAZN 7 (A)" tvg-name="DAZN 7 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 7 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176795.ts
-#EXTINF:-1 tvg-id="DAZN 8 (A)" tvg-name="DAZN 8 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 8 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176796.ts
-#EXTINF:-1 tvg-id="DAZN 9 (A)" tvg-name="DAZN 9 (A)" tvg-logo="https://i.imgur.com/EFxXOld.png" group-title="Canais | DAZN",DAZN 9 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176797.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 01h TUNISIA x JAPAO - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",DOM 01h TUNISIA x JAPAO - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016471.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 01h TUNISIA x JAPAO - GLOBO (A)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",DOM 01h TUNISIA x JAPAO - GLOBO (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016467.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 01h TUNISIA x JAPAO - GLOBO (B)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",DOM 01h TUNISIA x JAPAO - GLOBO (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016468.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 01h TUNISIA x JAPAO - SPORTV (A)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",DOM 01h TUNISIA x JAPAO - SPORTV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016469.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 01h TUNISIA x JAPAO - SPORTV (B)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",DOM 01h TUNISIA x JAPAO - SPORTV (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016470.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 13h ESPANHA x ARABIA SAUDITA - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",DOM 13h ESPANHA x ARABIA SAUDITA - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016472.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 16h BELGICA x IRA - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",DOM 16h BELGICA x IRA - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016473.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016480.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - GLOBO (A)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - GLOBO (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016474.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - GLOBO (B)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - GLOBO (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016475.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - SBT (A)" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - SBT (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016476.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - SBT (B)" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - SBT (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016477.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - SPORTV (A)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - SPORTV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016478.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 19h URUGUAI x CABO VERDE - SPORTV (B)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",DOM 19h URUGUAI x CABO VERDE - SPORTV (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016479.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 22h NOVA ZELANDIA x EGITO - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",DOM 22h NOVA ZELANDIA x EGITO - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016485.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 22h NOVA ZELANDIA x EGITO - GLOBO (A)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",DOM 22h NOVA ZELANDIA x EGITO - GLOBO (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016481.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 22h NOVA ZELANDIA x EGITO - GLOBO (B)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",DOM 22h NOVA ZELANDIA x EGITO - GLOBO (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016482.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 22h NOVA ZELANDIA x EGITO - SPORTV (A)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",DOM 22h NOVA ZELANDIA x EGITO - SPORTV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016483.ts
-#EXTINF:-1 tvg-id="" tvg-name="DOM 22h NOVA ZELANDIA x EGITO - SPORTV (B)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",DOM 22h NOVA ZELANDIA x EGITO - SPORTV (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016484.ts
-#EXTINF:-1 tvg-id="DPA Fast" tvg-name="DPA Fast" tvg-logo="https://i.imgur.com/L0fxDXa.png" group-title="Canais | Variedades",DPA Fast
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/215361.ts
 #EXTINF:-1 tvg-id="" tvg-name="DSports HD" tvg-logo="https://i.imgur.com/Z44q0M1.png" group-title="Canais | Esportes",DSports HD
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/963775.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dark Matter TV Brazil" tvg-logo="https://image.xumo.com/v1/channels/channel/99992147/600x200.png?type=white_cropped" group-title="Canais | Diversos",Dark Matter TV Brazil
@@ -1525,180 +1200,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176744.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91275.ts
 #EXTINF:-1 tvg-id="Disney+ Mosaico (B)" tvg-name="Disney+ 11 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 11 (B)
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952476.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 12 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 12 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1012429.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 13 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 13 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1012430.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 14 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 14 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1012431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 15 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 15 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1012432.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ 16 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 16 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1012433.ts
-#EXTINF:-1 tvg-id="Disney+ 2 (B)" tvg-name="Disney+ 2 Alt (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 Alt (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952473.ts
-#EXTINF:-1 tvg-id="Star+ HD 10 (B)" tvg-name="Disney+ 2 HD (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 2 HD (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176743.ts
-#EXTINF:-1 tvg-id="Star+ HD 9 (B)" tvg-name="Disney+ 3 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 3 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176742.ts
-#EXTINF:-1 tvg-id="Star+ HD 8 (B)" tvg-name="Disney+ 4 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 4 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176741.ts
-#EXTINF:-1 tvg-id="Star+ HD 7 (B)" tvg-name="Disney+ 5 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 5 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/176740.ts
-#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 6 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 6 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91276.ts
-#EXTINF:-1 tvg-id="Disney+ 7 (B)" tvg-name="Disney+ 7 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 7 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/931356.ts
-#EXTINF:-1 tvg-id="Disney+ 8 (B)" tvg-name="Disney+ 8 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 8 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/931357.ts
-#EXTINF:-1 tvg-id="Disney+ 9 (B)" tvg-name="Disney+ 9 (B)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ 9 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/931358.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/82245.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 2 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/82510.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 3 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 3 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/82512.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 4 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 4 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/85329.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 5 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 5 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/85330.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Disney+ HD 6 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 6 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/89548.ts
-#EXTINF:-1 tvg-id="Disney+ HD 7 (A)" tvg-name="Disney+ HD 7 (A)" tvg-logo="https://i.imgur.com/8mInTOX.png" group-title="Canais | Disney+",Disney+ HD 7 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/931459.ts
-#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DogTV HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Canais | Variedades",DogTV HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63767.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dove" tvg-logo="https://image.xumo.com/v1/channels/channel/99992492/600x200.png?type=white_cropped" group-title="Canais | Diversos",Dove
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002247.ts
-#EXTINF:-1 tvg-id="DreamWorks" tvg-name="DreamWorks" tvg-logo="https://i.imgur.com/Gl1fWkn.png" group-title="Canais | Filmes e Series",DreamWorks
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952168.ts
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV [BR]" tvg-logo="https://i.imgur.com/d0KCO68.jpeg" group-title="Canais | Diversos",Duck TV [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002333.ts
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="DumDum" tvg-logo="https://i.imgur.com/7w0k1TF.png" group-title="Canais | Infantil",DumDum
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/59355.ts
-#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="DumDum HD" tvg-logo="https://i.imgur.com/7w0k1TF.png" group-title="Canais | Infantil",DumDum HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63779.ts
-#EXTINF:-1 tvg-id="e!.br" tvg-name="E!" tvg-logo="https://i.imgur.com/HwQDcv3.png" group-title="Canais | Variedades",E!
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37108.ts
-#EXTINF:-1 tvg-id="e!.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/HwQDcv3.png" group-title="Canais | Variedades",E! HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36920.ts
-#EXTINF:-1 tvg-id="e!.br" tvg-name="E! HD [L]" tvg-logo="https://i.imgur.com/HwQDcv3.png" group-title=" Canais | Legendados",E! HD [L]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/221863.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Campinas" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Campinas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/40248.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Campinas HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Campinas HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/42952.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Central" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Central
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/75169.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Central HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Central HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/108346.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Ribeirão" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Ribeirão
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/40514.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Ribeirão HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Ribeirão HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/38640.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Sul de Minas" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Sul de Minas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/73063.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV Sul de Minas HD" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV Sul de Minas HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/73062.ts
-#EXTINF:-1 tvg-id="globosãopaulo.br" tvg-name="EPTV São Carlos" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Canais | Globo",EPTV São Carlos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/42955.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37104.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37105.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 2 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36977.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/62745.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 3 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36976.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/85335.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36970.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 4 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/85336.ts
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37098.ts
-#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="ESPN 5 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 5 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36971.ts
-#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/129622.ts
-#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN 6 HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN 6 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/129623.ts
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="Canais | ESPN",ESPN HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/73051.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports Channel 1 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 1 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81007.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 10 (S)" tvg-name="Eleven Sports Channel 10 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 10 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81016.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports Channel 2 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81008.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 5 (S)" tvg-name="Eleven Sports Channel 5 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 5 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81011.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 6 (S)" tvg-name="Eleven Sports Channel 6 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 6 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81012.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 7 (S)" tvg-name="Eleven Sports Channel 7 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 7 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81013.ts
-#EXTINF:-1 tvg-id="Eleven Sports Channel 8 (S)" tvg-name="Eleven Sports Channel 8 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 8 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81014.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Eleven Sports Channel 9 (A)" tvg-logo="https://i.imgur.com/RBZYQfH.png" group-title="Canais | Esportes",Eleven Sports Channel 9 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81015.ts
-#EXTINF:-1 tvg-id="" tvg-name="Esperanca" tvg-logo="http://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/espca/lgartwork/Logo.png" group-title="Canais | Diversos",Esperanca
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002232.ts
-#EXTINF:-1 tvg-id="esporteinterativo.br" tvg-name="Esporte Interativo HD" tvg-logo="https://i.imgur.com/7RZoyMq.png" group-title="Canais | Esportes",Esporte Interativo HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/61879.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 1" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 1
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015057.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 10" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015067.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 11" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 11
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015069.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 12" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 12
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015086.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 13" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 13
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015087.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 14" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 14
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015089.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 15" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 15
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015090.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 16" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 16
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015092.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 17" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 17
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015094.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 18" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 18
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015095.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 19" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 19
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015097.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 2" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 2
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015058.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 20" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 20
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015099.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 21" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 21
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015100.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 22" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 22
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015102.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 3" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 3
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015059.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 4" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 4
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015060.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 5" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 5
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015061.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 6" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 6
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015062.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 7" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 7
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015063.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 8" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 8
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015064.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Car 9" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Car 9
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015065.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Data" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Data
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015055.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Driver" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Driver
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015056.ts
-#EXTINF:-1 tvg-id="" tvg-name="F1 Main" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Main
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015053.ts
 #EXTINF:-1 tvg-id="" tvg-name="F1 Presentation" tvg-logo="https://i.imgur.com/hmbvqux.png" group-title="Canais | Fórmula 1",F1 Presentation
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1015054.ts
 #EXTINF:-1 tvg-id="" tvg-name="FIFA+" tvg-logo="https://img.platform.wurl.dev/channel/1776/lg/b3f128/LG-Logo-PNG-100x100_v2.png" group-title="Canais | Diversos",FIFA+
@@ -2183,50 +1684,12 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002279.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/935081.ts
 #EXTINF:-1 tvg-id="" tvg-name="Kongsuni" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_105/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Canais | Diversos",Kongsuni
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002276.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kpop by CJ ENM" tvg-logo="https://i.imgur.com/JTIMxBF.png" group-title="Canais | Diversos",Kpop by CJ ENM
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002355.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="LNF - Liga Futsal 1 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 1 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87189.ts
-#EXTINF:-1 tvg-id="LNF - Liga Futsal 1 (J)" tvg-name="LNF - Liga Futsal 1 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 1 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/111278.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="LNF - Liga Futsal 2 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 2 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87190.ts
-#EXTINF:-1 tvg-id="LNF - Liga Futsal 2 (J)" tvg-name="LNF - Liga Futsal 2 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 2 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/111279.ts
-#EXTINF:-1 tvg-id="LNF - Liga Futsal 3 (S)" tvg-name="LNF - Liga Futsal 3 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 3 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/111276.ts
-#EXTINF:-1 tvg-id="LNF - Liga Futsal 3 (J)" tvg-name="LNF - Liga Futsal 3 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 3 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/111280.ts
-#EXTINF:-1 tvg-id="LNF - Liga Futsal 4 (S)" tvg-name="LNF - Liga Futsal 4 (A)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 4 (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/111277.ts
-#EXTINF:-1 tvg-id="LNF - Liga Futsal 4 (J)" tvg-name="LNF - Liga Futsal 4 (B)" tvg-logo="https://i.imgur.com/CvfakIs.png" group-title="Canais | Futsal",LNF - Liga Futsal 4 (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/111281.ts
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime" tvg-logo="https://i.imgur.com/nIx0vbe.png" group-title="Canais | Filmes e Series",Lifetime
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37077.ts
 #EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://i.imgur.com/nIx0vbe.png" group-title="Canais | Filmes e Series",Lifetime HD
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36914.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="Like HD" tvg-logo="https://i.imgur.com/UPERkum.png" group-title="Canais | Variedades",Like HD
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91508.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar" tvg-name="Lofi Hip Hop - Estudar/Relaxar 01" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 01
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133492.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 02" tvg-name="Lofi Hip Hop - Estudar/Relaxar 02" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 02
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133493.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 03" tvg-name="Lofi Hip Hop - Estudar/Relaxar 03" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 03
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133494.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 04" tvg-name="Lofi Hip Hop - Estudar/Relaxar 04" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 04
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133495.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 05" tvg-name="Lofi Hip Hop - Estudar/Relaxar 05" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 05
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133496.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 06" tvg-name="Lofi Hip Hop - Estudar/Relaxar 06" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 06
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133497.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 07" tvg-name="Lofi Hip Hop - Estudar/Relaxar 07" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 07
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133498.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 08" tvg-name="Lofi Hip Hop - Estudar/Relaxar 08" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 08
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133499.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 09" tvg-name="Lofi Hip Hop - Estudar/Relaxar 09" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 09
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133500.ts
-#EXTINF:-1 tvg-id="Lofi Hip Hop - Estudar/Relaxar 10" tvg-name="Lofi Hip Hop - Estudar/Relaxar 10" tvg-logo="https://i.imgur.com/WOk5JUK.png" group-title="Canais | Dormir e Relaxar",Lofi Hip Hop - Estudar/Relaxar 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/133501.ts
 #EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://i.imgur.com/jmACHJA.jpg" group-title="Canais | Variedades",Love Nature
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91588.ts
 #EXTINF:-1 tvg-id="" tvg-name="Lutas Netflix (A)" tvg-logo="https://i.imgur.com/C87o0qz.png" group-title="Canais | Esportes",Lutas Netflix (A)
@@ -2985,38 +2448,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/225138.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/225137.ts
 #EXTINF:-1 tvg-id="Runtime Romance" tvg-name="Runtime Romance" tvg-logo="https://i.imgur.com/urLrIMt.png" group-title="Canais | Filmes e Series",Runtime Romance
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/225136.ts
-#EXTINF:-1 tvg-id="" tvg-name="Runtime TV e Filmes [BR]" tvg-logo="https://i.imgur.com/lzISMtK.png" group-title="Canais | Diversos",Runtime TV e Filmes [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002377.ts
-#EXTINF:-1 tvg-id="Rural Noar" tvg-name="Rural Noar" tvg-logo="https://i.imgur.com/KVnUn17.png" group-title="Canais | Abertos",Rural Noar
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/215346.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 00h TURQUIA x PARAGUAI - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SAB 00h TURQUIA x PARAGUAI - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016273.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 00h TURQUIA x PARAGUAI - GLOBO (A)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",SAB 00h TURQUIA x PARAGUAI - GLOBO (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016269.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 00h TURQUIA x PARAGUAI - GLOBO (B)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",SAB 00h TURQUIA x PARAGUAI - GLOBO (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016270.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 00h TURQUIA x PARAGUAI - SPORTV (A)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",SAB 00h TURQUIA x PARAGUAI - SPORTV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016271.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 00h TURQUIA x PARAGUAI - SPORTV (B)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",SAB 00h TURQUIA x PARAGUAI - SPORTV (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016272.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 14h HOLANDA x SUECIA - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SAB 14h HOLANDA x SUECIA - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016274.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016283.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - GLOBO (A)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - GLOBO (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016275.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - GLOBO (B)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - GLOBO (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016277.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - SBT (A)" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - SBT (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016279.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - SBT (B)" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - SBT (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016280.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - SPORTV (A)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - SPORTV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016281.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 17h ALEMANHA x COSTA DO MARFIM - SPORTV (B)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",SAB 17h ALEMANHA x COSTA DO MARFIM - SPORTV (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016282.ts
-#EXTINF:-1 tvg-id="" tvg-name="SAB 21h EQUADOR x CURACAO - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SAB 21h EQUADOR x CURACAO - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016284.ts
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37048.ts
 #EXTINF:-1 tvg-id="tvmaralagoas.br" tvg-name="SBT Alagoas HD" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT Alagoas HD
@@ -3083,28 +2514,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/952167.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/57773.ts
 #EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV Thathi" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Canais | SBT",SBT TV Thathi
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/218192.ts
-#EXTINF:-1 tvg-id="SAMBA E PAGODE FM " tvg-name="SERTANEJO FM" tvg-logo="https://i.imgur.com/IXo94zb.png" group-title=" Rádios",SERTANEJO FM
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/113412.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 16h ESTADOS UNIDOS x AUSTRALIA - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SEX 16h ESTADOS UNIDOS x AUSTRALIA - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016219.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 19h ESCOCIA x MARROCOS - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SEX 19h ESCOCIA x MARROCOS - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016220.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - CAZETV (A)" tvg-logo="https://i.imgur.com/3j8ejKY.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - CAZETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016227.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - GETV (A)" tvg-logo="https://i.imgur.com/OALlIWf.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - GETV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016228.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - GLOBO (A)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - GLOBO (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016221.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - GLOBO (B)" tvg-logo="https://i.imgur.com/v3JuPi6.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - GLOBO (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016222.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - SBT (A)" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - SBT (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016223.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - SBT (B)" tvg-logo="https://i.imgur.com/d9snXVm.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - SBT (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016224.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - SPORTV (A)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - SPORTV (A)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016225.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX 21:30h BRASIL x HAITI - SPORTV (B)" tvg-logo="https://i.imgur.com/jgCda8X.png" group-title="Copa do Mundo 2026",SEX 21:30h BRASIL x HAITI - SPORTV (B)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1016226.ts
 #EXTINF:-1 tvg-id="" tvg-name="SFT Combat [BR]" tvg-logo="https://i.imgur.com/R1ucsv9.png" group-title="Canais | Diversos",SFT Combat [BR]
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002345.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="SK Fight" tvg-logo="https://i.imgur.com/QX4n82z.png" group-title="Canais | Esportes",SK Fight
@@ -3743,652 +3152,6 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002271.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002308.ts
 #EXTINF:-1 tvg-id="" tvg-name="Where Stars Land" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_206/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Canais | Diversos",Where Stars Land
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002207.ts
-#EXTINF:-1 tvg-id="" tvg-name="While You Were Sleeping" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_205/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Canais | Diversos",While You Were Sleeping
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002203.ts
-#EXTINF:-1 tvg-id="" tvg-name="Wild Earth [BR]" tvg-logo="https://i.imgur.com/C3xnKFH.jpeg" group-title="Canais | Diversos",Wild Earth [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002323.ts
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="https://i.imgur.com/1sETXNO.png" group-title="Canais | Variedades",Woohoo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37025.ts
-#EXTINF:-1 tvg-id="[SHOW] The Offspring 2021" tvg-name="Woohoo Esportes HD" tvg-logo="https://i.imgur.com/6C087m6.png" group-title="Canais | Esportes",Woohoo Esportes HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139184.ts
-#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="https://i.imgur.com/1sETXNO.png" group-title="Canais | Variedades",Woohoo HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36899.ts
-#EXTINF:-1 tvg-id="" tvg-name="World Billiards TV" tvg-logo="https://i.imgur.com/cmpqoIk.png" group-title="Canais | Diversos",World Billiards TV
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002186.ts
-#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour em Portuguese [BR]" tvg-logo="https://i.imgur.com/YxmEyip.png" group-title="Canais | Diversos",World Poker Tour em Portuguese [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002327.ts
-#EXTINF:-1 tvg-id="" tvg-name="World Poker Tour em Portuguese [BR]" tvg-logo="https://i.imgur.com/4pfrmz0.png" group-title="Canais | Diversos",World Poker Tour em Portuguese [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002350.ts
-#EXTINF:-1 tvg-id="X-Sports HD" tvg-name="X-Sports HD" tvg-logo="https://i.imgur.com/TgXwrdD.png" group-title="Canais | Esportes",X-Sports HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/953317.ts
-#EXTINF:-1 tvg-id="" tvg-name="Xumo Filmes Grátis" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/600x200.png?type=white_cropped" group-title="Canais | Diversos",Xumo Filmes Grátis
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002215.ts
-#EXTINF:-1 tvg-id="" tvg-name="YG TV" tvg-logo="https://i.imgur.com/zmK9o7z.png" group-title="Canais | Diversos",YG TV
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002185.ts
-#EXTINF:-1 tvg-id="" tvg-name="YTN" tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Canais | Diversos",YTN
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002281.ts
-#EXTINF:-1 tvg-id="Zapping Mix Esportes" tvg-name="Zapping Mix Esportes" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Esportes",Zapping Mix Esportes
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960719.ts
-#EXTINF:-1 tvg-id="Zapping Music Classics" tvg-name="Zapping Music Classics" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Classics
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960709.ts
-#EXTINF:-1 tvg-id="Zapping Music Hits" tvg-name="Zapping Music Hits" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Hits
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960710.ts
-#EXTINF:-1 tvg-id="Zapping Music LoFi" tvg-name="Zapping Music LoFi" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music LoFi
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960711.ts
-#EXTINF:-1 tvg-id="Zapping Music MPB" tvg-name="Zapping Music MPB" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music MPB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960712.ts
-#EXTINF:-1 tvg-id="Zapping Music Retro" tvg-name="Zapping Music Retro" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Retro
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960713.ts
-#EXTINF:-1 tvg-id="Zapping Music Rock" tvg-name="Zapping Music Rock" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Rock
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960714.ts
-#EXTINF:-1 tvg-id="Zapping Music Samba e Pagode" tvg-name="Zapping Music Samba e Pagode" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Samba e Pagode
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960715.ts
-#EXTINF:-1 tvg-id="Zapping Music Sertanejo" tvg-name="Zapping Music Sertanejo" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Sertanejo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960716.ts
-#EXTINF:-1 tvg-id="Zapping Music Soft Pop" tvg-name="Zapping Music Soft Pop" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Soft Pop
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960717.ts
-#EXTINF:-1 tvg-id="Zapping Music Urban Brasil" tvg-name="Zapping Music Urban Brasil" tvg-logo="https://i.imgur.com/T7vjcZ2.png" group-title="Canais | Variedades",Zapping Music Urban Brasil
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/960718.ts
-#EXTINF:-1 tvg-id="tv.escola.br" tvg-name="Zapping Sports HD" tvg-logo="https://i.imgur.com/CoOokWM.png" group-title="Canais | Esportes",Zapping Sports HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36999.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZenLIFE by Stingray" tvg-logo="https://image.xumo.com/v1/channels/channel/99992528/600x200.png?type=white_cropped" group-title="Canais | Diversos",ZenLIFE by Stingray
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002293.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zenlife by Stingray [BR]" tvg-logo="https://i.imgur.com/LOeM1OC.png" group-title="Canais | Diversos",Zenlife by Stingray [BR]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002320.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] A Vida de Um Bodybuilder" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] A Vida de Um Bodybuilder
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/100629.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Albert Einstein" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Albert Einstein
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39576.ts
-#EXTINF:-1 tvg-id="Velozes e Furiosos 24h" tvg-name="[DOC] Amazônia Selvagem" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Amazônia Selvagem
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81836.ts
-#EXTINF:-1 tvg-id="TV Beltrão FHD" tvg-name="[DOC] Antárdida" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Antárdida
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/162986.ts
-#EXTINF:-1 tvg-id="tv.jornal.br" tvg-name="[DOC] Civilizações Antigas" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Civilizações Antigas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91330.ts
-#EXTINF:-1 tvg-id="POLICIA 24 HORAS" tvg-name="[DOC] Elvis Presley" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Elvis Presley
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132045.ts
-#EXTINF:-1 tvg-id="Rei do Gado 24h" tvg-name="[DOC] Japão Yakuza" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Japão Yakuza
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81841.ts
-#EXTINF:-1 tvg-id="A Gata Comeu 24h" tvg-name="[DOC] Jornada ao Começo dos Tempos" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Jornada ao Começo dos Tempos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81840.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Leonardo da Vinci" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Leonardo da Vinci
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/61969.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] O Mais Procurado do Mundo" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] O Mais Procurado do Mundo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91740.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] O Que Aconteceu com o YAHOO!" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] O Que Aconteceu com o YAHOO!
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91738.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Os 20 Dias de Lázaro" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Os 20 Dias de Lázaro
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91570.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Putin" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Putin
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91728.ts
-#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="[DOC] Sertão Velho Cerrado" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Sertão Velho Cerrado
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/142707.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] Somália" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Somália
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/90974.ts
-#EXTINF:-1 tvg-id="DreamWorks" tvg-name="[DOC] Vida Selvagem Mundo Animal" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] Vida Selvagem Mundo Animal
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/142706.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[DOC] África Selvagem" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[DOC] África Selvagem
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81845.ts
-#EXTINF:-1 tvg-id=" MACARRONADA ESPECIAL DE SARDINHA" tvg-name="[RECEITA]  Macarronada Especial de Sardinha" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA]  Macarronada Especial de Sardinha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140226.ts
-#EXTINF:-1 tvg-id="[RECEITA] A Melhor Pizza Caseira" tvg-name="[RECEITA] A Melhor Pizza Caseira" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] A Melhor Pizza Caseira
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140249.ts
-#EXTINF:-1 tvg-id="[RECEITA] Arroz Carreteiro Completo" tvg-name="[RECEITA] Arroz Carreteiro Completo" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Arroz Carreteiro Completo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140268.ts
-#EXTINF:-1 tvg-id="ARROZ DOCE CARAMELIZADO" tvg-name="[RECEITA] Arroz Doce Caramelizado" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Arroz Doce Caramelizado
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140223.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolachinha de Nata" tvg-name="[RECEITA] Bolachinha de Nata" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolachinha de Nata
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140261.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolinho de Arroz" tvg-name="[RECEITA] Bolinho de Arroz" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolinho de Arroz
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140254.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolinho de Chuva Nevado" tvg-name="[RECEITA] Bolinho de Chuva Nevado" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolinho de Chuva Nevado
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140250.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolinho de Milho Frito da Roça" tvg-name="[RECEITA] Bolinho de Milho Frito da Roça" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolinho de Milho Frito da Roça
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140251.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolo de Laranja com Chocolate" tvg-name="[RECEITA] Bolo de Banana com Chocolate" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolo de Banana com Chocolate
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140257.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolo de Cenoura com Chocolate" tvg-name="[RECEITA] Bolo de Cenoura com Chocolate" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolo de Cenoura com Chocolate
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140253.ts
-#EXTINF:-1 tvg-id="[RECEITA] Bolo de Tapioca" tvg-name="[RECEITA] Bolo de Tapioca" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Bolo de Tapioca
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140258.ts
-#EXTINF:-1 tvg-id="BRIGADEIRO COM LEITE CONDENSADO" tvg-name="[RECEITA] Brigadeiro com Leite Condensado" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Brigadeiro com Leite Condensado
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140186.ts
-#EXTINF:-1 tvg-id="CARNE MOÍDA COM QUIABO" tvg-name="[RECEITA] Carne Moída com Quiabo" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Carne Moída com Quiabo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140227.ts
-#EXTINF:-1 tvg-id="[RECEITA] Cebola Crispy" tvg-name="[RECEITA] Cebola Crispy" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Cebola Crispy
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140265.ts
-#EXTINF:-1 tvg-id="CHOCOLATE QUENTE COM CONHAQUE" tvg-name="[RECEITA] Chocolate Quente com Conhaque" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Chocolate Quente com Conhaque
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140224.ts
-#EXTINF:-1 tvg-id=" COMO FAZER COSTELA NA AIR FRYER" tvg-name="[RECEITA] Como Fazer Costela na Air Fryer" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Como Fazer Costela na Air Fryer
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140180.ts
-#EXTINF:-1 tvg-id="[RECEITA] Crepioca de Banana" tvg-name="[RECEITA] Crepioca de Banana" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Crepioca de Banana
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140260.ts
-#EXTINF:-1 tvg-id="[RECEITA] Cuca de Uva da Roça" tvg-name="[RECEITA] Cuca de Uva da Roça" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Cuca de Uva da Roça
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140263.ts
-#EXTINF:-1 tvg-id="CUPIM COM MANTEIGA ASSADO NO FORNO" tvg-name="[RECEITA] Cupim com Manteiga Assado no Forno" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Cupim com Manteiga Assado no Forno
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140187.ts
-#EXTINF:-1 tvg-id="EMPADÃO DE FRANGO SUPER CREMOSO" tvg-name="[RECEITA] Empadão de Frango Super Cremoso" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Empadão de Frango Super Cremoso
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140229.ts
-#EXTINF:-1 tvg-id="ENROLADINHO DE PRESUNTO E QUEIJO" tvg-name="[RECEITA] Enroladinho de Presunto e Queijo" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Enroladinho de Presunto e Queijo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140200.ts
-#EXTINF:-1 tvg-id="[RECEITA] Frango Frito do KFC" tvg-name="[RECEITA] Frango Frito do KFC" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Frango Frito do KFC
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140252.ts
-#EXTINF:-1 tvg-id="[RECEITA] Iogurte Caseiro com 3 Ingredientes" tvg-name="[RECEITA] Iogurte Caseiro com 3 Ingredientes" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Iogurte Caseiro com 3 Ingredientes
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140266.ts
-#EXTINF:-1 tvg-id="JUNTE 3 INGREDIENTES E FAÇA UMA REFEIÇÃO INCRÍVEL" tvg-name="[RECEITA] Junte 3 Ingredientes e Faça Uma Refeição Incrível" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Junte 3 Ingredientes e Faça Uma Refeição Incrível
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140188.ts
-#EXTINF:-1 tvg-id="[RECEITA] Mousse de Limão" tvg-name="[RECEITA] Mousse de Limão" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Mousse de Limão
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140256.ts
-#EXTINF:-1 tvg-id="O MELHOR MOUSSE DE CHOCOLATE DO MUNDO" tvg-name="[RECEITA] O Melhor Mousse de Chocolate do Mundo" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] O Melhor Mousse de Chocolate do Mundo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140189.ts
-#EXTINF:-1 tvg-id="[RECEITA] Patê de Atum" tvg-name="[RECEITA] Patê de Atum" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Patê de Atum
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140259.ts
-#EXTINF:-1 tvg-id="PIPOCA DOCE IGUAL DE CINEMA" tvg-name="[RECEITA] Pipoca Docê Igual de Cinema" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Pipoca Docê Igual de Cinema
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140204.ts
-#EXTINF:-1 tvg-id="PIZZA FÁCIL COM MASSA MOLE" tvg-name="[RECEITA] Pizza Fácil com Massa Mole" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Pizza Fácil com Massa Mole
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140210.ts
-#EXTINF:-1 tvg-id="PUDIM RÁPIDO E FÁCIL NA AIR FRYER" tvg-name="[RECEITA] Pudim Rápido e Fácil na Air Freyer" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Pudim Rápido e Fácil na Air Freyer
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140213.ts
-#EXTINF:-1 tvg-id="[RECEITA] Pudim de Pão" tvg-name="[RECEITA] Pudim de Pão" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Pudim de Pão
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140262.ts
-#EXTINF:-1 tvg-id="PÃO CASEIRO" tvg-name="[RECEITA] Pão Caseiro" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Pão Caseiro
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140184.ts
-#EXTINF:-1 tvg-id=" PÃO CASEIRO DE BATATA" tvg-name="[RECEITA] Pão Caseiro de Batata" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Pão Caseiro de Batata
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140208.ts
-#EXTINF:-1 tvg-id="[RECEITA] Salada de Repolho" tvg-name="[RECEITA] Salada de Repolho" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Salada de Repolho
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140264.ts
-#EXTINF:-1 tvg-id="SORVETE CASEIRO CÉU AZUL" tvg-name="[RECEITA] Sorvete Caseiro Céu Azul" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Sorvete Caseiro Céu Azul
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140183.ts
-#EXTINF:-1 tvg-id=" SORVETE CREMOSO DE ABACAXI" tvg-name="[RECEITA] Sorvete Cremoso de Abacaxi" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Sorvete Cremoso de Abacaxi
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140181.ts
-#EXTINF:-1 tvg-id="SORVETE DE NINHO COM MORANGO" tvg-name="[RECEITA] Sorvete de Ninho com Morango" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Sorvete de Ninho com Morango
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140185.ts
-#EXTINF:-1 tvg-id="[RECEITA] Torta de Carne Moída de Liquidificador" tvg-name="[RECEITA] Torta de Carne Moída de Liquidificador" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Torta de Carne Moída de Liquidificador
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140255.ts
-#EXTINF:-1 tvg-id="TORTA DE SARDINHA DO MUNDO" tvg-name="[RECEITA] Torta de Sardinha" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Torta de Sardinha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140202.ts
-#EXTINF:-1 tvg-id="TRAVESSA DE MORANGO" tvg-name="[RECEITA] Travessa de Morango" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Travessa de Morango
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140206.ts
-#EXTINF:-1 tvg-id="[RECEITA] Yakisoba" tvg-name="[RECEITA] Yakisoba" tvg-logo="https://i.imgur.com/Ucdskyo.png" group-title="Treinos, Aulas e Receitas",[RECEITA] Yakisoba
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140267.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A CEO Secreta" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A CEO Secreta
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986088.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Chefa Não Finge Mais" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Chefa Não Finge Mais
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986089.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Dama Chefe: Da Traída à Amada" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Dama Chefe: Da Traída à Amada
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986090.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Doce Esposa Grávida Mimada pelo Marido Milionário" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Doce Esposa Grávida Mimada pelo Marido Milionário
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986091.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Esposa XXL do Prefeito:Seu Retorno Incrível" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Esposa XXL do Prefeito:Seu Retorno Incrível
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986092.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Herdeira Bilionária Divorciada" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Herdeira Bilionária Divorciada
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986093.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Incrivel Cecilia" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Incrivel Cecilia
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986094.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Vida Secreta do meu Marido Bilionário" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Vida Secreta do meu Marido Bilionário
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986098.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] A Última Batida por Amor DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] A Última Batida por Amor DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986101.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Alma Gêmea Indesejada" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Alma Gêmea Indesejada
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986095.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Amantes Inimigos" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Amantes Inimigos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986096.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Amor à Primeira Vista" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Amor à Primeira Vista
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986097.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Encontrei um Marido Bilionário e Sem-Teto para o Natal" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Encontrei um Marido Bilionário e Sem-Teto para o Natal
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986086.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Escuto Sua Voz" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Escuto Sua Voz
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986085.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Fortuna Revelada Meu Marido é de Estouro" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Fortuna Revelada Meu Marido é de Estouro
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986084.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Grávida pelo Pai do Meu Ex" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Grávida pelo Pai do Meu Ex
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986083.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Imortal? Já Estive Lá, Fiz Isso" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Imortal? Já Estive Lá, Fiz Isso
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986082.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Já que Você Nunca Foi Minha" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Já que Você Nunca Foi Minha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986081.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Mamãe, Não Chore, Papai Está Arrependido" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Mamãe, Não Chore, Papai Está Arrependido
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986080.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Meu Amante é um Sniper" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Meu Amante é um Sniper
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986079.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Meu Bebê Gângster Papai Me Mima até o Paraíso" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Meu Bebê Gângster Papai Me Mima até o Paraíso
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986078.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Meu Ex, Meu Amor: O Plano Perfeito" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Meu Ex, Meu Amor: O Plano Perfeito
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986087.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Rumo à Ruína: Pagar as Suas Ações DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Rumo à Ruína: Pagar as Suas Ações DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986108.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Segredos Da Orquídea DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Segredos Da Orquídea DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986107.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Sob a Luz das Flores Caídas DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Sob a Luz das Flores Caídas DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986105.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Sou Nada Mais Que Um Mortal DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Sou Nada Mais Que Um Mortal DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986104.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Sr. Oliveira, Seja Meu Obediente DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Sr. Oliveira, Seja Meu Obediente DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986106.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Substituta Acidental para Alfa DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Substituta Acidental para Alfa DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986103.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Substituta Errada para o Bilionário Implacável DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Substituta Errada para o Bilionário Implacável DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986102.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Viciado Nela: A Vida da Garota Mimada do CEO DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Viciado Nela: A Vida da Garota Mimada do CEO DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986100.ts
-#EXTINF:-1 tvg-id="" tvg-name="[REELSHORT] Você Será Meu Amor Novamente DUB" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Variados",[REELSHORT] Você Será Meu Amor Novamente DUB
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986099.ts
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="[SHOW]  ALOK" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW]  ALOK
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91577.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW]  Alok | Tomorrowland Brasil 2024" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW]  Alok | Tomorrowland Brasil 2024
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91311.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW]  Especial Zé Neto e Cristiano e Henrique e Juliano" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW]  Especial Zé Neto e Cristiano e Henrique e Juliano
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91278.ts
-#EXTINF:-1 tvg-id="ACDC Argentina 2009" tvg-name="[SHOW] ACDC Argentina 2009" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] ACDC Argentina 2009
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139124.ts
-#EXTINF:-1 tvg-id="ACDC England 1991" tvg-name="[SHOW] ACDC England 1991" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] ACDC England 1991
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139125.ts
-#EXTINF:-1 tvg-id="ACDC Playlist" tvg-name="[SHOW] ACDC Playlist" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] ACDC Playlist
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139123.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Aerosmith" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Aerosmith
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/42571.ts
-#EXTINF:-1 tvg-id="[SHOW] Ana Castela 2023" tvg-name="[SHOW] Ana Castela" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Ana Castela
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140151.ts
-#EXTINF:-1 tvg-id="[SHOW] Ana Castela - FEAPI 2023" tvg-name="[SHOW] Ana Castela - FEAPI 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Ana Castela - FEAPI 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140144.ts
-#EXTINF:-1 tvg-id="[SHOW] Atitude 67 - FESPOP Festival 2019" tvg-name="[SHOW] Atitude 67 - FESPOP Festival 2019" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Atitude 67 - FESPOP Festival 2019
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140136.ts
-#EXTINF:-1 tvg-id="[SHOW] Atitude 67 - Label 67 Multiclipe" tvg-name="[SHOW] Atitude 67 - Label 67 Multiclipe" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Atitude 67 - Label 67 Multiclipe
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140137.ts
-#EXTINF:-1 tvg-id="[SHOW] Audioslave Cuba 2005" tvg-name="[SHOW] Audioslave Cuba 2005" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Audioslave Cuba 2005
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139288.ts
-#EXTINF:-1 tvg-id="[SHOW] Audioslave Philadelphia 2005" tvg-name="[SHOW] Audioslave Philadelphia 2005" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Audioslave Philadelphia 2005
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139289.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Banda Calypso" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Banda Calypso
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39787.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Banda Forrozão das Antigas" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Banda Forrozão das Antigas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39786.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Barões da Pisadinha" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Barões da Pisadinha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/70576.ts
-#EXTINF:-1 tvg-id="[SHOW] Belo - As Melhores" tvg-name="[SHOW] Belo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Belo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140174.ts
-#EXTINF:-1 tvg-id="[SHOW] Belo - Salvador Fest 2023" tvg-name="[SHOW] Belo - Salvador Fest 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Belo - Salvador Fest 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140173.ts
-#EXTINF:-1 tvg-id="Black Sabbath Moscow 2016" tvg-name="[SHOW] Black Sabbath Moscow 2016" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Black Sabbath Moscow 2016
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139130.ts
-#EXTINF:-1 tvg-id="Black Sabbath Ozzfest 2005" tvg-name="[SHOW] Black Sabbath Ozzfest 2005" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Black Sabbath Ozzfest 2005
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139131.ts
-#EXTINF:-1 tvg-id="Black Sabbath Ukraina 2022" tvg-name="[SHOW] Black Sabbath Ukraina 2022" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Black Sabbath Ukraina 2022
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139129.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Bonde do Forró" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Bonde do Forró
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/70575.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Bruno & Marrone" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Bruno & Marrone
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91509.ts
-#EXTINF:-1 tvg-id="[SHOW] Bruno Diegues, Tiee e Mumuzinho" tvg-name="[SHOW] Bruno Diegues, Tiee e Mumuzinho" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Bruno Diegues, Tiee e Mumuzinho
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140111.ts
-#EXTINF:-1 tvg-id="[SHOW] Confra do Presenca" tvg-name="[SHOW] Confra do Presenca" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Confra do Presenca
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140096.ts
-#EXTINF:-1 tvg-id="Cristiano Araujo-In The Cities" tvg-name="[SHOW] Cristiano Araujo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Cristiano Araujo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132071.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] David Guetta" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] David Guetta
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39785.ts
-#EXTINF:-1 tvg-id="[SHOW] Dilsinho - As Melhores 2023" tvg-name="[SHOW] Dilsinho" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Dilsinho
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140211.ts
-#EXTINF:-1 tvg-id="[SHOW] Elvis Presley Black Leather Sit Down" tvg-name="[SHOW] Elvis Presley Black Leather Sit Down" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Elvis Presley Black Leather Sit Down
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139290.ts
-#EXTINF:-1 tvg-id="[SHOW] Elvis Presley Hawaii 1973" tvg-name="[SHOW] Elvis Presley Hawaii 1973" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Elvis Presley Hawaii 1973
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139291.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Especial Ana Castela e Simone Mendes 2024" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Especial Ana Castela e Simone Mendes 2024
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91258.ts
-#EXTINF:-1 tvg-id="[SHOW] Exaltasamba - As Melhores 2023" tvg-name="[SHOW] Exaltasamba" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Exaltasamba
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140192.ts
-#EXTINF:-1 tvg-id="[SHOW] Exaltasamba - DVD 25 Anos" tvg-name="[SHOW] Exaltasamba - DVD 25 Anos" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Exaltasamba - DVD 25 Anos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140190.ts
-#EXTINF:-1 tvg-id="Fernanda Brum - Da Eternidade" tvg-name="[SHOW] Fernanda Brum - Da Eternidade" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Fernanda Brum - Da Eternidade
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132026.ts
-#EXTINF:-1 tvg-id="Fernandinho - Galileu" tvg-name="[SHOW] Fernandinho - Galileu" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Fernandinho - Galileu
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132028.ts
-#EXTINF:-1 tvg-id="[SHOW] Fernando e Sorocaba - Modao (album completo)" tvg-name="[SHOW] Fernando e Sorocaba - Modao (album completo)" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Fernando e Sorocaba - Modao (album completo)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139301.ts
-#EXTINF:-1 tvg-id="[SHOW] Ferrugem - Mais Tocadas" tvg-name="[SHOW] Ferrugem" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Ferrugem
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140179.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Frank Aguiar" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Frank Aguiar
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39788.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Gabriela Rocha" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Gabriela Rocha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64461.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Gospel" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Gospel
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/68408.ts
-#EXTINF:-1 tvg-id="[SHOW] Grupo Revelação" tvg-name="[SHOW] Grupo Revelação" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Grupo Revelação
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140193.ts
-#EXTINF:-1 tvg-id="[SHOW] Guns N Roses 2023" tvg-name="[SHOW] Guns N Roses 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Guns N Roses 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139187.ts
-#EXTINF:-1 tvg-id="[SHOW] Guns N Roses Aftershock 2023" tvg-name="[SHOW] Guns N Roses Aftershock 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Guns N Roses Aftershock 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139186.ts
-#EXTINF:-1 tvg-id="[SHOW] Guns N Roses Rock in Rio 2017" tvg-name="[SHOW] Guns N Roses Rock in Rio 2017" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Guns N Roses Rock in Rio 2017
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139188.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Gustavo Lima" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Gustavo Lima
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/70574.ts
-#EXTINF:-1 tvg-id="[SHOW] Gusttavo Lima - Melhores Musicas 2023" tvg-name="[SHOW] Gusttavo Lima" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Gusttavo Lima
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139305.ts
-#EXTINF:-1 tvg-id="[SHOW] Heaven and Hell Germany 2009" tvg-name="[SHOW] Heaven and Hell Germany 2009" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Heaven and Hell Germany 2009
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139202.ts
-#EXTINF:-1 tvg-id="Henrique & Juliano - Ao Vivo em Brasilia" tvg-name="[SHOW] Henrique & Juliano" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Henrique & Juliano
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132070.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Hugo e Guilherme" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Hugo e Guilherme
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/69597.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] IVETE SANGALO" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] IVETE SANGALO
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91241.ts
-#EXTINF:-1 tvg-id="[SHOW] Inimigos da HP" tvg-name="[SHOW] Inimigos da HP" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Inimigos da HP
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140110.ts
-#EXTINF:-1 tvg-id="[SHOW] Iron Maiden 2014" tvg-name="[SHOW] Iron Maiden 2014" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Iron Maiden 2014
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139192.ts
-#EXTINF:-1 tvg-id="[SHOW] Iron Maiden Paris 2022" tvg-name="[SHOW] Iron Maiden Paris 2022" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Iron Maiden Paris 2022
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139193.ts
-#EXTINF:-1 tvg-id="[SHOW] Iron Maiden Rock in Rio 2001" tvg-name="[SHOW] Iron Maiden Rock in Rio 2001" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Iron Maiden Rock in Rio 2001
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139194.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] J.QUEST" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] J.QUEST
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91242.ts
-#EXTINF:-1 tvg-id="[SHOW] Jeito Moleque - Amo Noronha" tvg-name="[SHOW] Jeito Moleque - Amo Noronha" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Jeito Moleque - Amo Noronha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140108.ts
-#EXTINF:-1 tvg-id="[SHOW] Jeito Moleque - Só As Antigas" tvg-name="[SHOW] Jeito Moleque - Só As Antigas" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Jeito Moleque - Só As Antigas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140107.ts
-#EXTINF:-1 tvg-id="[SHOW] Jeito Moleque e Onze20 - Chama DVD Completo" tvg-name="[SHOW] Jeito Moleque e Onze20 - Chama DVD Completo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Jeito Moleque e Onze20 - Chama DVD Completo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140106.ts
-#EXTINF:-1 tvg-id="Jorge & Mateus  - Villa Mix Goiania" tvg-name="[SHOW] Jorge & Mateus" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Jorge & Mateus
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132044.ts
-#EXTINF:-1 tvg-id="[SHOW] Jorge e Mateus - Os Grandes Sucessos" tvg-name="[SHOW] Jorge e Mateus - Os Grandes Sucessos" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Jorge e Mateus - Os Grandes Sucessos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139299.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] João Neto e Frederico" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] João Neto e Frederico
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39790.ts
-#EXTINF:-1 tvg-id="[SHOW] Judas Priest 2008" tvg-name="[SHOW] Judas Priest 2008" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Judas Priest 2008
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139204.ts
-#EXTINF:-1 tvg-id="[SHOW] Judas Priest 30th aniversary British Steel" tvg-name="[SHOW] Judas Priest 30th aniversary British Steel" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Judas Priest 30th aniversary British Steel
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139203.ts
-#EXTINF:-1 tvg-id="[SHOW] Kamisa 10" tvg-name="[SHOW] Kamisa 10" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Kamisa 10
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140215.ts
-#EXTINF:-1 tvg-id="[SHOW] Kiss 2023 Sao Paulo" tvg-name="[SHOW] Kiss 2023 Sao Paulo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Kiss 2023 Sao Paulo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139216.ts
-#EXTINF:-1 tvg-id="[SHOW] Kiss Live in Helsingborg" tvg-name="[SHOW] Kiss Live in Helsingborg" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Kiss Live in Helsingborg
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139215.ts
-#EXTINF:-1 tvg-id="[SHOW] Lauana Prado Raiz Goiania" tvg-name="[SHOW] Lauana Prado Raiz Goiania" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Lauana Prado Raiz Goiania
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139298.ts
-#EXTINF:-1 tvg-id="[SHOW] Leo Santana Salvador Fest 2023" tvg-name="[SHOW] Leo Santana Salvador Fest 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Leo Santana Salvador Fest 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140143.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Leonardo Gonçalves" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Leonardo Gonçalves
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64458.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Linkin Park" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Linkin Park
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/63004.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Luan Santana" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Luan Santana
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/70573.ts
-#EXTINF:-1 tvg-id="Luan Santana - O Nosso Tempo e Hoje" tvg-name="[SHOW] Luan Santana - O Nosso Tempo e Hoje" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Luan Santana - O Nosso Tempo e Hoje
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132042.ts
-#EXTINF:-1 tvg-id="[SHOW] Ludmilla Planeta Atlantida 2023" tvg-name="[SHOW] Ludmilla Planeta Atlantida 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Ludmilla Planeta Atlantida 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140090.ts
-#EXTINF:-1 tvg-id="[SHOW] Ludmilla Salvador Fest 2023" tvg-name="[SHOW] Ludmilla Salvador Fest 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Ludmilla Salvador Fest 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140091.ts
-#EXTINF:-1 tvg-id="[SHOW] Ludmilla The Town 2023" tvg-name="[SHOW] Ludmilla The Town 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Ludmilla The Town 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140089.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] MAIARA E MARAISA" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] MAIARA E MARAISA
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91260.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Mais Tocadas Sertanejo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Mais Tocadas Sertanejo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64446.ts
-#EXTINF:-1 tvg-id="[SHOW] Manowar Blood In Brazil 1998" tvg-name="[SHOW] Manowar Blood In Brazil 1998" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Manowar Blood In Brazil 1998
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139205.ts
-#EXTINF:-1 tvg-id="[SHOW] Manowar Magic Circle Festival Volume 2 2008" tvg-name="[SHOW] Manowar Magic Circle Festival Volume 2 2008" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Manowar Magic Circle Festival Volume 2 2008
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139206.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Maná" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Maná
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/67437.ts
-#EXTINF:-1 tvg-id="Marilia Mendonca - Ao Vivo 2015" tvg-name="[SHOW] Marilia Mendonca - Ao Vivo 2015" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Marilia Mendonca - Ao Vivo 2015
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132040.ts
-#EXTINF:-1 tvg-id="Matheus e kauan - Na Praia" tvg-name="[SHOW] Matheus e Kauan - Na Praia" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Matheus e Kauan - Na Praia
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132037.ts
-#EXTINF:-1 tvg-id="[SHOW] Melhores Pagodes 2023 C" tvg-name="[SHOW] Melhores Pagodes" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Melhores Pagodes
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140103.ts
-#EXTINF:-1 tvg-id="[SHOW] Melhores Pagodes 2023 A" tvg-name="[SHOW] Melhores Pagodes 2023 A" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Melhores Pagodes 2023 A
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140101.ts
-#EXTINF:-1 tvg-id="[SHOW] Melhores Pagodes 2023 B" tvg-name="[SHOW] Melhores Pagodes 2023 B" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Melhores Pagodes 2023 B
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140102.ts
-#EXTINF:-1 tvg-id="[SHOW] Melhores Pagodes 2023 D" tvg-name="[SHOW] Melhores Pagodes 2023 D" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Melhores Pagodes 2023 D
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140104.ts
-#EXTINF:-1 tvg-id="[SHOW] Menos é Mais Campina Grande 2023" tvg-name="[SHOW] Menos é Mais Campina Grande 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Menos é Mais Campina Grande 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140097.ts
-#EXTINF:-1 tvg-id="[SHOW] Menos é Mais em Ilheus BA" tvg-name="[SHOW] Menos é Mais em Ilheus BA" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Menos é Mais em Ilheus BA
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140099.ts
-#EXTINF:-1 tvg-id="[SHOW] Menos é Mais no Brazolia Bar" tvg-name="[SHOW] Menos é Mais no Brazolia Bar" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Menos é Mais no Brazolia Bar
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140098.ts
-#EXTINF:-1 tvg-id="[SHOW] Menos é Mais, Ferrugem e Tiee" tvg-name="[SHOW] Menos é Mais, Ferrugem e Tiee" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Menos é Mais, Ferrugem e Tiee
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140100.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Menotti & Fabiano" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Menotti & Fabiano
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91244.ts
-#EXTINF:-1 tvg-id="Metallica Nimes 2009" tvg-name="[SHOW] Metallica Nimes 2009" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Metallica Nimes 2009
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139127.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Metálica" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Metálica
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/42577.ts
-#EXTINF:-1 tvg-id="[SHOW] Michael Jackson Brunei Royal Concert 1996" tvg-name="[SHOW] Michael Jackson Brunei Royal Concert 1996" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Michael Jackson Brunei Royal Concert 1996
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139293.ts
-#EXTINF:-1 tvg-id="[SHOW] Michael Jackson Bucharest The Dangerous Tour" tvg-name="[SHOW] Michael Jackson Bucharest The Dangerous Tour" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Michael Jackson Bucharest The Dangerous Tour
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139295.ts
-#EXTINF:-1 tvg-id="[SHOW] Michael Jackson Buenos Aires 1993" tvg-name="[SHOW] Michael Jackson Buenos Aires 1993" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Michael Jackson Buenos Aires 1993
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139294.ts
-#EXTINF:-1 tvg-id="[SHOW] Michael Jackson Japao" tvg-name="[SHOW] Michael Jackson Japao" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Michael Jackson Japao
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139292.ts
-#EXTINF:-1 tvg-id="[SHOW] Michael Jackson Munich 1997" tvg-name="[SHOW] Michael Jackson Munich 1997" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Michael Jackson Munich 1997
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139297.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Midian Lima" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Midian Lima
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64454.ts
-#EXTINF:-1 tvg-id="[SHOW] Mumuzinho" tvg-name="[SHOW] Mumuzinho" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Mumuzinho
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140164.ts
-#EXTINF:-1 tvg-id="[SHOW] Musicas Sertanejas 2023" tvg-name="[SHOW] Musicas Sertanejas 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Musicas Sertanejas 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139304.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] NATIRUTS" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] NATIRUTS
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91249.ts
-#EXTINF:-1 tvg-id="[SHOW] Nirvana 1993 Tallahassee" tvg-name="[SHOW] Nirvana 1993 Tallahassee" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Nirvana 1993 Tallahassee
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139189.ts
-#EXTINF:-1 tvg-id="[SHOW] Nirvana MTV Live 1993" tvg-name="[SHOW] Nirvana MTV Live 1993" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Nirvana MTV Live 1993
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139190.ts
-#EXTINF:-1 tvg-id="[SHOW] Nirvana Rio de Janeiro 1993" tvg-name="[SHOW] Nirvana Rio de Janeiro 1993" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Nirvana Rio de Janeiro 1993
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139191.ts
-#EXTINF:-1 tvg-id="[SHOW] Os Melhores Clipes de 2020" tvg-name="[SHOW] Os Melhores Clipes de 2020" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Os Melhores Clipes de 2020
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139302.ts
-#EXTINF:-1 tvg-id="[SHOW] Pablo - As Mais Tocadas 2023" tvg-name="[SHOW] Pablo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pablo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140222.ts
-#EXTINF:-1 tvg-id="[SHOW] Pagode Do Jeito Moleque DVD Completo" tvg-name="[SHOW] Pagode Do Jeito Moleque DVD Completo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pagode Do Jeito Moleque DVD Completo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140105.ts
-#EXTINF:-1 tvg-id="[SHOW] Pagode do Presenca 15 Anos" tvg-name="[SHOW] Pagode do Presenca 15 Anos" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pagode do Presenca 15 Anos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140095.ts
-#EXTINF:-1 tvg-id="[SHOW] Pagode do Presenca Made In Funk" tvg-name="[SHOW] Pagode do Presenca Made In Funk" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pagode do Presenca Made In Funk
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140092.ts
-#EXTINF:-1 tvg-id="[SHOW] Pagode do Presenca Made In Funk 2" tvg-name="[SHOW] Pagode do Presenca Made In Funk 2" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pagode do Presenca Made In Funk 2
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140093.ts
-#EXTINF:-1 tvg-id="[SHOW] Pagode do Presenca Samba e Pagode" tvg-name="[SHOW] Pagode do Presenca Samba e Pagode" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pagode do Presenca Samba e Pagode
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140094.ts
-#EXTINF:-1 tvg-id="[SHOW] Pagode do Quinteto em Floripa" tvg-name="[SHOW] Pagode do Quinteto em Floripa" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pagode do Quinteto em Floripa
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140142.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Pearl Jam" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pearl Jam
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/42444.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Pitty" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pitty
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/69598.ts
-#EXTINF:-1 tvg-id="[SHOW] Pixote Fã de Carteirinha Sunset DVD" tvg-name="[SHOW] Pixote - Fã de Carteirinha Sunset DVD" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pixote - Fã de Carteirinha Sunset DVD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140122.ts
-#EXTINF:-1 tvg-id="[SHOW] Pixote 2023 - As Melhores 2023" tvg-name="[SHOW] Pixote 2023 - As Melhores 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pixote 2023 - As Melhores 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140123.ts
-#EXTINF:-1 tvg-id="[SHOW] Pixote Trintou DVD" tvg-name="[SHOW] Pixote Trintou DVD" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pixote Trintou DVD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140121.ts
-#EXTINF:-1 tvg-id="[SHOW] Péricles - 10 Maiores Sucessos" tvg-name="[SHOW] Péricles" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Péricles
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140162.ts
-#EXTINF:-1 tvg-id="[SHOW] Pôr do Suel" tvg-name="[SHOW] Pôr do Suel" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Pôr do Suel
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140109.ts
-#EXTINF:-1 tvg-id="[SHOW] Queen" tvg-name="[SHOW] Queen" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Queen
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139195.ts
-#EXTINF:-1 tvg-id="[SHOW] Queen Rock In Rio 1985" tvg-name="[SHOW] Queen Rock In Rio 1985" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Queen Rock In Rio 1985
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139196.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] RAÇA NEGRA" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] RAÇA NEGRA
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91243.ts
-#EXTINF:-1 tvg-id="[SHOW] Rage Against The Machine 2010 Brasil" tvg-name="[SHOW] Rage Against The Machine 2010 Brasil" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Rage Against The Machine 2010 Brasil
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139208.ts
-#EXTINF:-1 tvg-id="[SHOW] Rage Against The Machine 2022" tvg-name="[SHOW] Rage Against The Machine 2022" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Rage Against The Machine 2022
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139209.ts
-#EXTINF:-1 tvg-id="[SHOW] Rage Against The Machine 2022 Raleigh" tvg-name="[SHOW] Rage Against The Machine 2022 Raleigh" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Rage Against The Machine 2022 Raleigh
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139210.ts
-#EXTINF:-1 tvg-id="[SHOW] Raça Negra 2023" tvg-name="[SHOW] Raça Negra 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Raça Negra 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140125.ts
-#EXTINF:-1 tvg-id="[SHOW] Raça Negra 40 Anos" tvg-name="[SHOW] Raça Negra 40 Anos" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Raça Negra 40 Anos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140124.ts
-#EXTINF:-1 tvg-id="[SHOW] Raça Negra DVD" tvg-name="[SHOW] Raça Negra DVD" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Raça Negra DVD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140126.ts
-#EXTINF:-1 tvg-id="Rock Red Hot Chili Peppers" tvg-name="[SHOW] Rock Red Hot Chili Peppers" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Rock Red Hot Chili Peppers
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132031.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Rose Nascimento" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Rose Nascimento
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64462.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] SANDY & JUNIOR" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] SANDY & JUNIOR
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91239.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] SEU JORGE - FESTIVAL ZEPELIM" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] SEU JORGE - FESTIVAL ZEPELIM
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91262.ts
-#EXTINF:-1 tvg-id="[SHOW] Sertanejo - Mais Tocadas do TikTok" tvg-name="[SHOW] Sertanejo - Mais Tocadas do TikTok" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Sertanejo - Mais Tocadas do TikTok
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139306.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Show da Viola" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Show da Viola
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39770.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Simone & Simaria" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Simone & Simaria
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91254.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] SÉRGIO REIS" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] SÉRGIO REIS
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91247.ts
-#EXTINF:-1 tvg-id="redetv.sul.br" tvg-name="[SHOW] THIAGUINHO - TARDEZINHA" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] THIAGUINHO - TARDEZINHA
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91515.ts
-#EXTINF:-1 tvg-id="[SHOW] TOP SERTANEJO 2020 - As Melhores do Ano" tvg-name="[SHOW] TOP SERTANEJO 2020 - As Melhores do Ano" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] TOP SERTANEJO 2020 - As Melhores do Ano
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139300.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Teodoro & Sampaio" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Teodoro & Sampaio
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/39791.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Thalles Roberto" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Thalles Roberto
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64460.ts
-#EXTINF:-1 tvg-id="[SHOW] The Rolling Stones 2017" tvg-name="[SHOW] The Rolling Stones 2017" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] The Rolling Stones 2017
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139212.ts
-#EXTINF:-1 tvg-id="[SHOW] The Rolling Stones Austin 2006" tvg-name="[SHOW] The Rolling Stones Austin 2006" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] The Rolling Stones Austin 2006
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139213.ts
-#EXTINF:-1 tvg-id="[SHOW] The Rolling Stones Buenos Aires" tvg-name="[SHOW] The Rolling Stones Buenos Aires" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] The Rolling Stones Buenos Aires
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139214.ts
-#EXTINF:-1 tvg-id="[SHOW] Thiaguinho - As Melhores 2023" tvg-name="[SHOW] Thiaguinho - As Melhores 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Thiaguinho - As Melhores 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140135.ts
-#EXTINF:-1 tvg-id="[SHOW] Thiaguinho - DVD Infinito (Vol. 1 e 2)" tvg-name="[SHOW] Thiaguinho - DVD Infinito (Vol. 1 e 2)" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Thiaguinho - DVD Infinito (Vol. 1 e 2)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140132.ts
-#EXTINF:-1 tvg-id="[SHOW] Thiaguinho - DVD Ousadia e Alegria" tvg-name="[SHOW] Thiaguinho - DVD Ousadia e Alegria" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Thiaguinho - DVD Ousadia e Alegria
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140133.ts
-#EXTINF:-1 tvg-id="[SHOW] Thiaguinho - Samba Brasil Fortaleza 2022" tvg-name="[SHOW] Thiaguinho - Samba Brasil Fortaleza 2022" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Thiaguinho - Samba Brasil Fortaleza 2022
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140134.ts
-#EXTINF:-1 tvg-id="[SHOW] Turma do Pagode - Esse é o Clima 2012 DVD Completo" tvg-name="[SHOW] Turma do Pagode - Esse é o Clima 2012 DVD Completo" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Turma do Pagode - Esse é o Clima 2012 DVD Completo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140127.ts
-#EXTINF:-1 tvg-id="[SHOW] Turma do Pagode - Pagodeira" tvg-name="[SHOW] Turma do Pagode - Pagodeira" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Turma do Pagode - Pagodeira
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140128.ts
-#EXTINF:-1 tvg-id="[SHOW] Turma do Pagode - TOP 10 2023" tvg-name="[SHOW] Turma do Pagode - TOP 10 2023" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Turma do Pagode - TOP 10 2023
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140129.ts
-#EXTINF:-1 tvg-id="[SHOW] Verao 2023 - Os Melhores Clipes" tvg-name="[SHOW] Verao 2023 - Os Melhores Clipes" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Verao 2023 - Os Melhores Clipes
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139303.ts
-#EXTINF:-1 tvg-id="Wesley Safadao - Em Casa" tvg-name="[SHOW] Wesley Safadao - Em Casa" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Wesley Safadao - Em Casa
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/132023.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Wesley Safadão" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Wesley Safadão
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/69595.ts
-#EXTINF:-1 tvg-id="[SHOW] Whitney Houston 1991" tvg-name="[SHOW] Whitney Houston 1991" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Whitney Houston 1991
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139197.ts
-#EXTINF:-1 tvg-id="[SHOW] Whitney Houston 1996" tvg-name="[SHOW] Whitney Houston 1996" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Whitney Houston 1996
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139198.ts
-#EXTINF:-1 tvg-id="[SHOW] Whitney Houston Argentina" tvg-name="[SHOW] Whitney Houston Argentina" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Whitney Houston Argentina
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/139199.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW] Xand Avião" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Xand Avião
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/70571.ts
-#EXTINF:-1 tvg-id="[SHOW] Zeca Pagodinho - 10 Maiores Sucessos" tvg-name="[SHOW] Zeca Pagodinho" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW] Zeca Pagodinho
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140203.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="[SHOW]ALEXANDRE PIRES" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",[SHOW]ALEXANDRE PIRES
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91250.ts
-#EXTINF:-1 tvg-id="20 Min DANCE CARDIO" tvg-name="[TREINO] 20 min Dance Cardio" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] 20 min Dance Cardio
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140130.ts
-#EXTINF:-1 tvg-id="Aeróbica levantar bumbum" tvg-name="[TREINO] Aeróbica Levantar Bumbum" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Aeróbica Levantar Bumbum
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140131.ts
-#EXTINF:-1 tvg-id="Aeróbica com Cardio" tvg-name="[TREINO] Aeróbica com Cardio" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Aeróbica com Cardio
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140116.ts
-#EXTINF:-1 tvg-id="Aeróbico" tvg-name="[TREINO] Aeróbico" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Aeróbico
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140112.ts
-#EXTINF:-1 tvg-id="Alongamento PERFEITO" tvg-name="[TREINO] Alongamento Perfeito" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Alongamento Perfeito
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140163.ts
-#EXTINF:-1 tvg-id="Cardio para Iniciantes" tvg-name="[TREINO] Cardio para Iniciantes" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Cardio para Iniciantes
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140113.ts
-#EXTINF:-1 tvg-id="Corpo Todo" tvg-name="[TREINO] Corpo Todo" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Corpo Todo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140115.ts
-#EXTINF:-1 tvg-id="Diminuir Barriga Rápido" tvg-name="[TREINO] Diminuir Barriga Rápido" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Diminuir Barriga Rápido
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140161.ts
-#EXTINF:-1 tvg-id="O melhor alongamento" tvg-name="[TREINO] O Melhor Alongamento" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] O Melhor Alongamento
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140166.ts
-#EXTINF:-1 tvg-id="PERNAS DEFINIDAS" tvg-name="[TREINO] Pernas Definidas" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Pernas Definidas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140169.ts
-#EXTINF:-1 tvg-id="Queimar muita caloria" tvg-name="[TREINO] Queimar Muita Caloria" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Queimar Muita Caloria
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140138.ts
-#EXTINF:-1 tvg-id="Queime mais calorias" tvg-name="[TREINO] Queime Mais Calorias" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Queime Mais Calorias
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140159.ts
-#EXTINF:-1 tvg-id="SECAR e DEFINIR" tvg-name="[TREINO] Secar e Definir" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Secar e Definir
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140140.ts
-#EXTINF:-1 tvg-id="Treino Derrete gordura" tvg-name="[TREINO] Treino Derrete gordura" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino Derrete gordura
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140149.ts
-#EXTINF:-1 tvg-id="TREINO FÁCIL para GASTAR ????700 calorias" tvg-name="[TREINO] Treino Fácil para Gastar 700 Calorias" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino Fácil para Gastar 700 Calorias
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140170.ts
-#EXTINF:-1 tvg-id="Treino de 10 Minutos" tvg-name="[TREINO] Treino de 10 Minutos" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino de 10 Minutos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140117.ts
-#EXTINF:-1 tvg-id="TREINO  EM CASA " tvg-name="[TREINO] Treino em Casa" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino em Casa
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140139.ts
-#EXTINF:-1 tvg-id="Treino para emagrecer em casa." tvg-name="[TREINO] Treino para Emagrecer em Casa" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino para Emagrecer em Casa
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140152.ts
-#EXTINF:-1 tvg-id="Treino pra queimar gordura" tvg-name="[TREINO] Treino para Queimar Gordura" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino para Queimar Gordura
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140154.ts
-#EXTINF:-1 tvg-id="Treino pra queimar gordura" tvg-name="[TREINO] Treino pra Queimar Gordura" tvg-logo="https://i.imgur.com/dma4UVP.png" group-title="Treinos, Aulas e Receitas",[TREINO] Treino pra Queimar Gordura
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/140141.ts
-#EXTINF:-1 tvg-id="" tvg-name="essential" tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_247/lg_channels/img/channel_logo/default/channel_logo.png" group-title="Canais | Diversos",essential
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/1002282.ts
-#EXTINF:-1 tvg-id="" tvg-name="Câmeras Ao Vivo | Elefantes - San Diego Zoo" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Elefantes - San Diego Zoo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/62234.ts
-#EXTINF:-1 tvg-id="https://i.imgur.com/LYcsHBm.png" tvg-name="Câmeras Ao Vivo | Morro da Guarita" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Morro da Guarita
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965485.ts
-#EXTINF:-1 tvg-id="" tvg-name="Câmeras Ao Vivo | Pinguins - San Diego Zoo" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Pinguins - San Diego Zoo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/62235.ts
-#EXTINF:-1 tvg-id=" Câmeras Ao Vivo | Quadra de Vôlei" tvg-name="Câmeras Ao Vivo | Praia da Cal" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praia da Cal
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965488.ts
-#EXTINF:-1 tvg-id=" Câmeras Ao Vivo | Praia da Cal" tvg-name="Câmeras Ao Vivo | Praça dos Navegantes" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praça dos Navegantes
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965487.ts
-#EXTINF:-1 tvg-id="" tvg-name="Câmeras Ao Vivo | Tigres - San Diego Zoo" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Tigres - San Diego Zoo
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/62233.ts
-#EXTINF:-1 tvg-id="TV Guarapari HD" tvg-name="Câmeras Ao Vivo |  Muro das Lamentações" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo |  Muro das Lamentações
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/162988.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="Câmeras Ao Vivo |  Nossa Senhora de Aparecida" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo |  Nossa Senhora de Aparecida
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/91279.ts
-#EXTINF:-1 tvg-id="nbr.br" tvg-name="Câmeras Ao Vivo |  Rio de Janeiro - Copacabana" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo |  Rio de Janeiro - Copacabana
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/81598.ts
-#EXTINF:-1 tvg-id="CAMERAS AO VIVO -BARRA DA TIJUCA" tvg-name="Câmeras Ao Vivo | Barra da Tijuca" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Barra da Tijuca
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87419.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Cantinho do Pescador - Orla Gastronômica" tvg-name="Câmeras Ao Vivo | Cantinho do Pescador - Orla Gastronômica" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Cantinho do Pescador - Orla Gastronômica
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965509.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Marina Pôr Do Sol" tvg-name="Câmeras Ao Vivo | Marina Pôr Do Sol" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Marina Pôr Do Sol
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965493.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Praça dos Navegantes" tvg-name="Câmeras Ao Vivo | Morro da Guarita" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Morro da Guarita
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965486.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Orla Gastronômica" tvg-name="Câmeras Ao Vivo | Orla Gastronômica" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Orla Gastronômica
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965512.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | San Diego Zoo Safari Park" tvg-name="Câmeras Ao Vivo | Ornitorrinco  San Diego Zoo Safari Park" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Ornitorrinco  San Diego Zoo Safari Park
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965516.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Quatro Praças" tvg-name="Câmeras Ao Vivo | Panorâmica Ilha dos Lobos" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Panorâmica Ilha dos Lobos
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965501.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | TPraia Grande I" tvg-name="Câmeras Ao Vivo | Praia Grande I" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praia Grande I
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965494.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Praia Grande II" tvg-name="Câmeras Ao Vivo | Praia Grande II" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praia Grande II
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965495.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Panorâmica Ilha dos Lobos" tvg-name="Câmeras Ao Vivo | Praia Paraíso" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praia Paraíso
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965504.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Praia da Guarita - (Guarita Gastronomia)" tvg-name="Câmeras Ao Vivo | Praia da Guarita - (Guarita Gastronomia)" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praia da Guarita - (Guarita Gastronomia)
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965510.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Prainha" tvg-name="Câmeras Ao Vivo | Prainha" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Prainha
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965511.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Praça Alberto Teixeira da Rosa" tvg-name="Câmeras Ao Vivo | Praça Alberto Teixeira da Rosa" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praça Alberto Teixeira da Rosa
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965497.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Panorâmica Ilha dos Lobos" tvg-name="Câmeras Ao Vivo | Praça Getúlio Vargas" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praça Getúlio Vargas
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965503.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Panorâmica Ilha dos Lobos" tvg-name="Câmeras Ao Vivo | Praça Pinheiro Machado" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praça Pinheiro Machado
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965502.ts
-#EXTINF:-1 tvg-id="Câmeras Ao Vivo | Praça XV" tvg-name="Câmeras Ao Vivo | Praça XV" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | Praça XV
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/965507.ts
-#EXTINF:-1 tvg-id="CAMERAS AO VIVO - FLORIDA" tvg-name="Câmeras Ao Vivo | São Paulo - Ubatuba" tvg-logo="https://i.imgur.com/WzCt3Md.png" group-title="Câmeras",Câmeras Ao Vivo | São Paulo - Ubatuba
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/87421.ts
-#EXTINF:-1 tvg-id="Vingadores Unidos [24h]" tvg-name="Clipes Sertanejo [24h]" tvg-logo="https://i.imgur.com/mvGW4r4.png" group-title="Shows",Clipes Sertanejo [24h]
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/955949.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="[24h] 101 Dalmatas" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Infantil",[24h] 101 Dalmatas
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/70109.ts
 #EXTINF:-1 tvg-id="44 GATOS" tvg-name="[24h] 44 Gatos" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Infantil",[24h] 44 Gatos
@@ -5147,3 +3910,33 @@ http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986076.ts
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/985650.ts
 #EXTINF:-1 tvg-id="" tvg-name="[24hs] Zé Colméia" tvg-logo="https://i.imgur.com/eSqxGvk.png" group-title="Canais | 24h Infantil",[24hs] Zé Colméia
 http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/986077.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37128.ts
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36992.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/B1DjY6Y.png" group-title="Canais | Documentarios",Discovery Channel
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37116.ts
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/B1DjY6Y.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36985.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery Home & Health" tvg-logo="https://i.imgur.com/1oJpopm.png" group-title="Canais | Documentarios",Discovery Home & Health
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36984.ts
+#EXTINF:-1 tvg-id="discoveryhome&health.br" tvg-name="Discovery Home & Health HD" tvg-logo="https://i.imgur.com/1oJpopm.png" group-title="Canais | Documentarios",Discovery Home & Health HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37115.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids" tvg-logo="https://i.imgur.com/fLazIiC.png" group-title="Canais | Infantil",Discovery Kids
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37113.ts
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/fLazIiC.png" group-title="Canais | Infantil",Discovery Kids HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36923.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/DdeeMP7.png" group-title="Canais | Documentarios",Discovery Science
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/51002.ts
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="https://i.imgur.com/DdeeMP7.png" group-title="Canais | Documentarios",Discovery Science HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36922.ts
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="https://i.imgur.com/cgowSsJ.png" group-title="Canais | Documentarios",Discovery Theater HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36983.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37112.ts
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png" group-title="Canais | Documentarios",Discovery Turbo HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36982.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/jJoaVsR.png" group-title="Canais | Documentarios",Discovery World
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/64498.ts
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://i.imgur.com/jJoaVsR.png" group-title="Canais | Documentarios",Discovery World HD
+http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/36981.ts
