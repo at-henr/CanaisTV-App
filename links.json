@@ -12,7 +12,7 @@
     "tv": "https://mgeb.top/embed/$tmdb/$seasonNum/$episodeNum"
   },
   "New": {
-    "movie": "https://embedplayapi.top/embed/$id",
-    "tv": "https://embedplayapi.top/embed/$id/$seasonNum/$episodeNum"
+    "movie": "https://warezcdn.lat/filme/$id",
+    "tv": "https://warezcdn.lat/serie/$id/$seasonNum/$episodeNum"
   }
 }
