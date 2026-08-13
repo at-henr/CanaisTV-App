@@ -8,8 +8,8 @@
     "tv": "https://superflixapi.pro/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
   },
   "Ultra": {
-    "movie": "https://mgeb.top/embed/$tmdb",
-    "tv": "https://mgeb.top/embed/$tmdb/$seasonNum/$episodeNum"
+    "movie": "https://superflixapi.pro/filme/$id#noLink",
+    "tv": "https://superflixapi.pro/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
   },
   "New": {
     "movie": "https://embedplayapi.top/embed/$id",
