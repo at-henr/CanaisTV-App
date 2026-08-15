@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FHD FONTE 1
 http://govsp.org:80/live/3llohwk4g9/kwf099q30o/1168948.ts
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="GLOBO TV BELÉM HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq9C3KQg0_ZDXkT-7Git3jJiWmBE5IQrA1tcT_Q2_M2FtztGvbu6NZaEv0_fLfxKA6vkvZQKOCH-Op_RH7fUhM5s55KAlETPj-21UcoOR3QNLTTd7l2jmnpTf2WTwrqq1TRfO9E2pKVXmWle8VBgL7Wdsjdhkos-l-3L8toP-rUQUBtwLtjC8_etvg/s1600/globo200.jpg" group-title="CANAIS | ESTADO DO PARÁ",GLOBO TV BELÉM FONTE 1
@@ -2690,641 +2691,89 @@ http://egecalu.online/live/861970655/687908312/d2ec2ad5-e4b5-466b-82f4-dd7cb76f6
 http://egecalu.online/live/861970655/687908312/a10c5a9f-50d9-4073-865c-45d364ae6d0c.ts
 #EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON
 http://egecalu.online/live/861970655/687908312/1ea2a3c7-931c-49a6-a945-a3c629c399ab.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S01
-http://egecalu.online/live/861970655/687908312/ee36946e-6d54-4754-8db6-653238cb281f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S02
-http://egecalu.online/live/861970655/687908312/ca062e8b-e39c-421f-9e95-5bc7c25501da.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S03
-http://egecalu.online/live/861970655/687908312/7a3297d3-3310-481b-9ad7-226834e2431e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S04
-http://egecalu.online/live/861970655/687908312/5176b954-8f1c-4270-8428-d093a3cb0a88.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S05
-http://egecalu.online/live/861970655/687908312/7c1206b3-ff13-4ca0-85e3-85d406c7bd86.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S06" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S06
-http://egecalu.online/live/861970655/687908312/a5299ff5-b3b4-44d5-b836-7e4b711080c3.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S07" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S07
-http://egecalu.online/live/861970655/687908312/fa51d04e-53ca-4c31-9af9-9b0e2b7d4ed8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S08" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S08
-http://egecalu.online/live/861970655/687908312/25724947-1bce-49ac-9c49-7e9023a9e948.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S09" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S09
-http://egecalu.online/live/861970655/687908312/3c1d7819-e6d7-4830-a61a-59d1cb37d188.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S10" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S10
-http://egecalu.online/live/861970655/687908312/dd563592-823c-430a-b165-4a02738beda6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S11" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S11
-http://egecalu.online/live/861970655/687908312/caa3228d-a499-4145-84d5-a51b567c3591.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S12" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S12
-http://egecalu.online/live/861970655/687908312/b062dd50-149e-43cd-b0b2-d619ebdab6c9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S13" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S13
-http://egecalu.online/live/861970655/687908312/f14a46ab-b60c-482c-9869-30661b708e49.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POKEMON S14" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POKEMON S14
-http://egecalu.online/live/861970655/687908312/683304b7-78d7-4fdd-9f49-fde95276d754.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POLEPOSITION" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POLEPOSITION
-http://egecalu.online/live/861970655/687908312/326b0d5b-b399-48f7-8eb3-d6e03bb2ee56.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POPEYE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POPEYE
-http://egecalu.online/live/861970655/687908312/09792ff4-81d5-4262-8f22-c1eeb2179473.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PANTERA COR DE ROSA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PANTERA COR DE ROSA
-http://egecalu.online/live/861970655/687908312/8dc9d930-7cb1-4612-b0a7-be8f390df4f2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PAPALEGUAS E COIOTE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PAPALEGUAS E COIOTE
-http://egecalu.online/live/861970655/687908312/b08668ad-2021-47f5-a7f1-066dacb79363.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS VALENTES COWBOYS DE MOO MESA" tvg-logo="" group-title="Canais 24h",24H-OS VALENTES COWBOYS DE MOO MESA
-http://egecalu.online/live/861970655/687908312/d9d11d52-5257-48b5-839d-5cbad719d9af.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS VERDADEIROS CA FANTASMAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS VERDADEIROS CA FANTASMAS
-http://egecalu.online/live/861970655/687908312/ea40e527-4920-406c-ad4b-7be1f50ba65d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS VIAJANTES DE MAYFLOWER" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS VIAJANTES DE MAYFLOWER
-http://egecalu.online/live/861970655/687908312/f6249a67-d3e0-465f-be51-ab769f6ef536.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS VINGADORES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS VINGADORES
-http://egecalu.online/live/861970655/687908312/905b1cb0-90ba-4636-b713-7e6c0864be8f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OSWALDO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OSWALDO
-http://egecalu.online/live/861970655/687908312/b6c7f52a-437b-40db-8c0f-26fd22d81953.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OVERMAN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OVERMAN
-http://egecalu.online/live/861970655/687908312/6b3b6c61-edd9-4561-afeb-bbeee04a0055.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MY LITTLE PONY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MY LITTLE PONY
-http://egecalu.online/live/861970655/687908312/2ecb2efa-304f-4076-a7c4-c42198cae407.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO
-http://egecalu.online/live/861970655/687908312/13ba0ed5-b965-45d8-8e81-c4506b8f0fdf.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S01
-http://egecalu.online/live/861970655/687908312/f853e2e8-35a4-41dc-850f-4027b836a165.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S02
-http://egecalu.online/live/861970655/687908312/0be9cd2a-1afa-4ff7-a539-db82e4166b2c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S03
-http://egecalu.online/live/861970655/687908312/7b3a3e01-62c7-449c-95f7-50c490338dee.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S04
-http://egecalu.online/live/861970655/687908312/8acc63c7-1dc0-41d1-abbe-3b8e56d4c922.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S05
-http://egecalu.online/live/861970655/687908312/029f3731-b307-47d0-bd52-4087a9066e6d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S06" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S06
-http://egecalu.online/live/861970655/687908312/4fa5dcec-a7ca-458a-a4f9-6da254b10c87.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S07" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S07
-http://egecalu.online/live/861970655/687908312/8327954e-220e-4aaf-b662-e75592c26c6f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S08" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S08
-http://egecalu.online/live/861970655/687908312/35f6dd3c-4a8a-480f-bbe9-b4a84c51a5a1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NARUTO CLASSICO S09" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NARUTO CLASSICO S09
-http://egecalu.online/live/861970655/687908312/ff549ece-8963-4b6e-84ba-15e0d4ff4a85.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NEON GENESIS EVANGELION" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NEON GENESIS EVANGELION
-http://egecalu.online/live/861970655/687908312/ca0e577d-5c1a-4880-aa04-6cb380ced2c7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NOSSA TURMA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NOSSA TURMA
-http://egecalu.online/live/861970655/687908312/079a947d-d961-4df0-a654-6b26c91a0351.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O CHEFINHO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O CHEFINHO
-http://egecalu.online/live/861970655/687908312/f13ba100-d3aa-4ef7-9dd8-f9a2aa720b1e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O FANTASMINHA  GALOPANTE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O FANTASMINHA  GALOPANTE
-http://egecalu.online/live/861970655/687908312/3a5fe838-c111-4457-b014-8ed5b8fbeb36.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O FANTASTICO MUNDO DE BOBBY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O FANTASTICO MUNDO DE BOBBY
-http://egecalu.online/live/861970655/687908312/2ec80788-c314-489d-9317-79b6a0698d93.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O INSPETOR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O INSPETOR
-http://egecalu.online/live/861970655/687908312/cbb09f0a-7876-4535-b448-65ba55dfe525.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O MASKARA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O MASKARA
-http://egecalu.online/live/861970655/687908312/593b07e3-38d7-48b5-821d-c63f9a39297a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O MASKARA SERIE ANIMADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O MASKARA SERIE ANIMADA
-http://egecalu.online/live/861970655/687908312/704fe6ee-57be-43a0-9a1f-3f01dafd8115.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O NOVO TESTAMENTO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O NOVO TESTAMENTO
-http://egecalu.online/live/861970655/687908312/fdd84c1b-5db2-41fd-ba9d-736e150e951d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O ONIBUS MAGICO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O ONIBUS MAGICO
-http://egecalu.online/live/861970655/687908312/67cb056f-2622-4518-8b1c-cda9745e16ca.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O PEQUENO PRINCIPE CLASSICO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O PEQUENO PRINCIPE CLASSICO
-http://egecalu.online/live/861970655/687908312/f5335da2-7a74-4b6b-a4a8-5d88124f117e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O PEQUENO SCOOBY DOO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O PEQUENO SCOOBY DOO
-http://egecalu.online/live/861970655/687908312/aa3c43a0-1fc4-43c4-a81b-b85bbf230726.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O PEQUENO URSO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O PEQUENO URSO
-http://egecalu.online/live/861970655/687908312/9f3c3543-0a46-4cdc-8fa8-820aea6a52a3.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O PRINCIPE DRAGAO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O PRINCIPE DRAGAO
-http://egecalu.online/live/861970655/687908312/89eeb70e-d0b7-4474-847f-109233f0c321.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O QUE HA DE NOVO SCOOBYDOO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O QUE HA DE NOVO SCOOBYDOO
-http://egecalu.online/live/861970655/687908312/f1ffe5d8-5dbe-48a6-80a8-76534805051c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O REI DO PEDA" tvg-logo="" group-title="Canais 24h",24H-O REI DO PEDA
-http://egecalu.online/live/861970655/687908312/7e267d23-4b98-4753-badb-1db6aa905e49.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O SEGREDO ALEM DO JARDIM" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O SEGREDO ALEM DO JARDIM
-http://egecalu.online/live/861970655/687908312/6a0eae39-205b-4b6d-b65b-9bb245c74f01.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O SHOW DO SCOOBY DOO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O SHOW DO SCOOBY DOO
-http://egecalu.online/live/861970655/687908312/cc199693-55d3-4134-8d0e-c9ea03d71b24.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O VIRA LATA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O VIRA LATA
-http://egecalu.online/live/861970655/687908312/e9a38c60-3e1f-4301-841b-ac4cc70440a7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-O XODO DA VOVO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-O XODO DA VOVO
-http://egecalu.online/live/861970655/687908312/09e78b50-8753-40d2-8d8b-34a37ed1d9ca.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OGGY E AS BARATAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OGGY E AS BARATAS
-http://egecalu.online/live/861970655/687908312/5982d907-24bd-415e-8a7c-5d93ecf20ed9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS APUROS DE PENELOPE CHARMOSA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS APUROS DE PENELOPE CHARMOSA
-http://egecalu.online/live/861970655/687908312/56bb9a5d-3a28-4a8d-802f-9734773ae3c9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS CASTORES PIRADOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS CASTORES PIRADOS
-http://egecalu.online/live/861970655/687908312/36737186-5daf-46fa-be8c-65480764e73d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES
-http://egecalu.online/live/861970655/687908312/05faa696-5f03-4b61-9d75-a0b672102875.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES S01
-http://egecalu.online/live/861970655/687908312/f1d636c7-98b4-4691-8ccb-08a81af31e96.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES S02
-http://egecalu.online/live/861970655/687908312/78883ea0-bbe2-4837-858e-752f3fdb3e52.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES S03
-http://egecalu.online/live/861970655/687908312/6c70e25e-75d0-4e24-9dd8-d94b80794054.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES S04
-http://egecalu.online/live/861970655/687908312/34ef195a-f074-48eb-836e-ccb3d5561f52.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES S05
-http://egecalu.online/live/861970655/687908312/c9fbc10c-057e-4c84-9db5-5c0dbaeaaa16.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS FLINTSTONES S06" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS FLINTSTONES S06
-http://egecalu.online/live/861970655/687908312/998ea2e8-64f8-4358-8c96-5b8b769eb902.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS GARGULAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS GARGULAS
-http://egecalu.online/live/861970655/687908312/bf3e961c-579b-4e35-b94b-866e865b172b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS IMPOSSIVEIS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS IMPOSSIVEIS
-http://egecalu.online/live/861970655/687908312/43b8d602-c216-4251-aa98-7a6aba2c8348.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS JETSONS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS JETSONS
-http://egecalu.online/live/861970655/687908312/f356c71c-47fa-4d18-9263-bd275d87ca04.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS JORGES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS JORGES
-http://egecalu.online/live/861970655/687908312/74ad0112-5425-4724-9746-99a21b93d879.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS JOVENS TITANS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS JOVENS TITANS
-http://egecalu.online/live/861970655/687908312/6a7782da-828e-443c-b4eb-cfbf9c7a47a7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS OBLONGS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS OBLONGS
-http://egecalu.online/live/861970655/687908312/2e3a0f5a-7cc1-47ce-8258-bcd400f6a2a6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS PADRINHOS MAGICOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS PADRINHOS MAGICOS
-http://egecalu.online/live/861970655/687908312/fb9f402d-c964-4acf-b450-a62098641ef3.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS PINGUINS DE MADAGASCAR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS PINGUINS DE MADAGASCAR
-http://egecalu.online/live/861970655/687908312/3a9418de-a616-4e71-a9ac-9e5484c4225e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SETE MONSTRINHOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SETE MONSTRINHOS
-http://egecalu.online/live/861970655/687908312/d488ce39-0da7-463f-83a8-011a44ee8e93.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S01
-http://egecalu.online/live/861970655/687908312/4168c421-05a6-4371-b68d-dbedf797ca82.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S02
-http://egecalu.online/live/861970655/687908312/7f4b08aa-d01f-4882-95b4-f9973a59d846.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S03
-http://egecalu.online/live/861970655/687908312/43ac0457-b7c9-4de5-84ac-98f8bc95c5d6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S04
-http://egecalu.online/live/861970655/687908312/d227fe77-dac6-4fcb-a7a7-858d5d9f7471.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S05
-http://egecalu.online/live/861970655/687908312/b828524b-ca26-4b90-87c9-7051682960a8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S06" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S06
-http://egecalu.online/live/861970655/687908312/dd7900fc-244a-45d8-b8b8-7e46cfc1b04a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S07" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S07
-http://egecalu.online/live/861970655/687908312/1368597e-bedd-4c71-8c7c-0c970d083efa.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S08" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S08
-http://egecalu.online/live/861970655/687908312/375ac676-208e-47b4-ab9f-519fdb7ac2c7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S09" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S09
-http://egecalu.online/live/861970655/687908312/cf6af6c0-8311-4c04-8ffb-8311cffc8d1f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S10" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S10
-http://egecalu.online/live/861970655/687908312/c7bee669-1bae-4104-84dc-caf257c8404c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S11" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S11
-http://egecalu.online/live/861970655/687908312/126de1f0-49fd-40d6-abe0-6c2a05d4234f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S12" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S12
-http://egecalu.online/live/861970655/687908312/b806faf2-5353-4364-8531-f2141d1b0a62.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S13" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S13
-http://egecalu.online/live/861970655/687908312/c98c8fdd-fded-4fc2-b82a-fe4db3d382f2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S14" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S14
-http://egecalu.online/live/861970655/687908312/f4ea6e25-4d6c-40de-925b-ca3c98791638.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S15" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S15
-http://egecalu.online/live/861970655/687908312/d36a3473-178f-47ac-bce6-2227c0c85fee.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S16" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S16
-http://egecalu.online/live/861970655/687908312/58af072b-7a88-4c57-a85c-5f39bd08393f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S17" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S17
-http://egecalu.online/live/861970655/687908312/d65b7295-6ed6-4436-b9ae-cc24c9f1fdf9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S18" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S18
-http://egecalu.online/live/861970655/687908312/5b04c698-c490-4787-8f4b-b72786878e79.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S19" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S19
-http://egecalu.online/live/861970655/687908312/b7142449-26dc-428e-8f87-012b75fc69c2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S20" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S20
-http://egecalu.online/live/861970655/687908312/6d36a6bf-635d-4344-a636-dd9568af196b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S21" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S21
-http://egecalu.online/live/861970655/687908312/d1a00275-6d81-405a-a556-fdd0bf044937.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S22" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S22
-http://egecalu.online/live/861970655/687908312/8bb23470-a3df-4c6d-8419-0ddb17904936.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S23" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S23
-http://egecalu.online/live/861970655/687908312/10ba6e9e-5611-4b8a-bd6f-0775b348fdb2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S24" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S24
-http://egecalu.online/live/861970655/687908312/886ae47a-3991-4ba0-9015-4fa43fc58025.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S25" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S25
-http://egecalu.online/live/861970655/687908312/5baa4717-4f99-47da-93c8-328340f61fc6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S26" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S26
-http://egecalu.online/live/861970655/687908312/5b26c35f-6494-4482-ac1f-4ae97b68d86e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S27" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S27
-http://egecalu.online/live/861970655/687908312/c87047cd-b2a5-4324-bdbf-125dadb986a4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SIMPSONS S28" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SIMPSONS S28
-http://egecalu.online/live/861970655/687908312/aaeb540f-a988-4791-b847-e047b404303e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SUPER GLOBETROTTERS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SUPER GLOBETROTTERS
-http://egecalu.online/live/861970655/687908312/2603f9f8-b13e-444b-99a3-b474b7e653ab.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS SUPER PATOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS SUPER PATOS
-http://egecalu.online/live/861970655/687908312/21cdc450-4e89-4288-858f-2f3e3203c5c6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MEU MELHOR AMIGO E UM MACACO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MEU MELHOR AMIGO E UM MACACO
-http://egecalu.online/live/861970655/687908312/9583fecd-507e-4175-8399-7f282d6efa23.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MEU TITIO AVO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MEU TITIO AVO
-http://egecalu.online/live/861970655/687908312/4945435e-3f17-4d6b-8dc1-af11f9fec552.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MIB HOMENS DE PRETO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MIB HOMENS DE PRETO
-http://egecalu.online/live/861970655/687908312/d81af896-c09e-43c5-a7a0-51936ab934fa.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MICKEY E DONALD" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MICKEY E DONALD
-http://egecalu.online/live/861970655/687908312/801453a8-7f7c-4021-9909-c1efe471b9e2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MIGTHOR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MIGTHOR
-http://egecalu.online/live/861970655/687908312/f6980dd9-8fd8-4e00-b73e-2bba858f0ed5.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MINI FILMES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MINI FILMES
-http://egecalu.online/live/861970655/687908312/2d4dd52f-7ed1-4fb1-b9a8-d79294737644.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MINI POLEGAR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MINI POLEGAR
-http://egecalu.online/live/861970655/687908312/c6a9edba-604e-417d-b369-218988698c28.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MIRACULOUS AS AVENTURAS DE LADYBUG" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MIRACULOUS AS AVENTURAS DE LADYBUG
-http://egecalu.online/live/861970655/687908312/aaa7edaf-65f4-4025-9ff9-e535ba9235c1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MISSION HILL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MISSION HILL
-http://egecalu.online/live/861970655/687908312/89b808d7-70ac-48af-9cea-b58418b7179e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MISTER MAGOO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MISTER MAGOO
-http://egecalu.online/live/861970655/687908312/85eab046-520c-413e-a7dd-961836c8c86e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MIX REYNOLD" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MIX REYNOLD
-http://egecalu.online/live/861970655/687908312/b8b37bec-272e-430d-9297-faad580df54b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MOBYDICK" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MOBYDICK
-http://egecalu.online/live/861970655/687908312/f0f59be8-5ba4-4e9d-a860-4725a3941523.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MONSTER RANCHER" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MONSTER RANCHER
-http://egecalu.online/live/861970655/687908312/20739471-3144-4f4e-9893-1ed3c36600eb.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MORANGUINHO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MORANGUINHO
-http://egecalu.online/live/861970655/687908312/db23776b-7b23-436c-acea-b488164c0233.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MORTAL KOMBAT" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MORTAL KOMBAT
-http://egecalu.online/live/861970655/687908312/cb9b31a8-f507-41e7-8a7c-11938af1f901.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MOSQUETE MOSQUITO E MOSCADO" tvg-logo="" group-title="Canais 24h",24H-MOSQUETE MOSQUITO E MOSCADO
-http://egecalu.online/live/861970655/687908312/1a58c937-c3db-4faa-82e1-4d05aa56b0f1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MR BEANS" tvg-logo="" group-title="Canais 24h",24H-MR BEANS
-http://egecalu.online/live/861970655/687908312/4966cac6-76cc-45ff-af58-6bf23f73a0f8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUCHA LUTA" tvg-logo="" group-title="Canais 24h",24H-MUCHA LUTA
-http://egecalu.online/live/861970655/687908312/3f62a3c9-291c-4909-b673-f7db2fc740f9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUMIAS VIVAS" tvg-logo="" group-title="Canais 24h",24H-MUMIAS VIVAS
-http://egecalu.online/live/861970655/687908312/37e62d31-f41a-4a7f-9d27-aca0a920c344.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUNDO BITA E OS ANIMAIS" tvg-logo="" group-title="Canais 24h",24H-MUNDO BITA E OS ANIMAIS
-http://egecalu.online/live/861970655/687908312/e9aae620-0aa7-4583-a3bf-383d33d7df4c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MUSCULO TOTAL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MUSCULO TOTAL
-http://egecalu.online/live/861970655/687908312/5f226227-012d-4b6f-a3dd-ce42451760df.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LARVA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LARVA
-http://egecalu.online/live/861970655/687908312/12b1cc25-8605-43de-9a91-7599619522b4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LAZYTOWN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LAZYTOWN
-http://egecalu.online/live/861970655/687908312/6354573e-e0b5-453c-8631-c5353ddf4c13.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LEAO DA MONTANHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LEAO DA MONTANHA
-http://egecalu.online/live/861970655/687908312/e0b10f76-0146-46a6-b1cc-10669eb00e38.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LEO O CAMINHAO CURIOSO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LEO O CAMINHAO CURIOSO
-http://egecalu.online/live/861970655/687908312/12f2677a-26d9-411c-84d2-0c9e0e58e40f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LIGA DA JUSTI" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LIGA DA JUSTI
-http://egecalu.online/live/861970655/687908312/5cd9591e-0d90-4384-a3c4-38bff2ca46d8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LIGEIRINHO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LIGEIRINHO
-http://egecalu.online/live/861970655/687908312/d8e5a983-48cc-4337-b814-b9f5c886f4d1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LIL BUSH" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LIL BUSH
-http://egecalu.online/live/861970655/687908312/1d9ac083-ff88-46fc-ae27-d3c86e7db64a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LILO E STITCH" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LILO E STITCH
-http://egecalu.online/live/861970655/687908312/69454515-bcde-40c2-87c1-79e414148856.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LIPPY E HARDY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LIPPY E HARDY
-http://egecalu.online/live/861970655/687908312/6c1ae001-8cf8-4885-a980-a1b7f33ff409.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LOONEY TUNES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LOONEY TUNES
-http://egecalu.online/live/861970655/687908312/daee9b95-f4a1-4225-9167-5ec919fbaea6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LULA LELE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LULA LELE
-http://egecalu.online/live/861970655/687908312/6299e6e1-761b-44f5-9f4f-78302a8cfffa.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LULUZINHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LULUZINHA
-http://egecalu.online/live/861970655/687908312/77ed59ca-55cd-4213-bbfb-bb99b0072598.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LUZINHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LUZINHA
-http://egecalu.online/live/861970655/687908312/ab86d828-2aa8-4b7a-b251-1de68b1529b4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MADELINE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MADELINE
-http://egecalu.online/live/861970655/687908312/53866552-7b8f-488f-b390-fd06d7e3d896.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MAGUILA O GORILA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MAGUILA O GORILA
-http://egecalu.online/live/861970655/687908312/d03adee2-9db6-4d30-8ac7-6eab8ab5f995.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MANDA CHUVA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MANDA CHUVA
-http://egecalu.online/live/861970655/687908312/ce89e1ca-9a9a-4085-bfea-0cd909a80daa.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MANUAL DO  NED" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MANUAL DO  NED
-http://egecalu.online/live/861970655/687908312/cb13e6be-ed1b-4ecd-a471-827f069520ff.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MAQUINAS VOADORAS DICK VIGARISTA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MAQUINAS VOADORAS DICK VIGARISTA
-http://egecalu.online/live/861970655/687908312/caef6038-3aca-496b-83df-5e1d24be31b8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARCELINO PAO E VINHO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MARCELINO PAO E VINHO
-http://egecalu.online/live/861970655/687908312/ca190e9d-bffd-42d6-9d65-a109fb7ae06d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARSUPILAMUS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MARSUPILAMUS
-http://egecalu.online/live/861970655/687908312/36b2ee0e-194b-4828-9ccc-2fefea9b125c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARTIN MYSTERY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MARTIN MYSTERY
-http://egecalu.online/live/861970655/687908312/6d24e969-2c00-40f6-a0e7-8c16520baa0b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL -ORDEM CRONOLOGICA 01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MARVEL -ORDEM CRONOLOGICA 01
-http://egecalu.online/live/861970655/687908312/d90cb9f5-c0da-4630-9c74-26b233babe2f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MARVEL DESENHO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MARVEL DESENHO
-http://egecalu.online/live/861970655/687908312/64fc4c69-0606-48f5-bc04-b66c20b1921f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MATRACA E MATRICA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MATRACA E MATRICA
-http://egecalu.online/live/861970655/687908312/1a142222-8d7e-4ccd-988d-cbd6c3dc76dd.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MECANIMAIS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MECANIMAIS
-http://egecalu.online/live/861970655/687908312/a0bd4ff7-f295-4192-a30e-059150864b21.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MEDABOT" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MEDABOT
-http://egecalu.online/live/861970655/687908312/7a437146-758a-49e4-a76c-8bcacdaf9c12.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MEGAMAN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MEGAMAN
-http://egecalu.online/live/861970655/687908312/54f18d22-d9d7-4ac6-aad6-abc716154fad.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MEGAS XLR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MEGAS XLR
-http://egecalu.online/live/861970655/687908312/31823a87-cfd4-4a12-bd96-51f3a6a4e3c7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-KICK BUTTOWSKI UM PROJETO DE DUBL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-KICK BUTTOWSKI UM PROJETO DE DUBL
-http://egecalu.online/live/861970655/687908312/df872fad-46e1-4905-ad98-cbac9aae8867.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-KIM POSSIBLE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-KIM POSSIBLE
-http://egecalu.online/live/861970655/687908312/01e79678-15ed-44a6-be96-a848ec91c9cc.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-KIMBA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-KIMBA
-http://egecalu.online/live/861970655/687908312/8b973874-83bb-4b28-b87a-c0ca62a9ec08.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-KND A TURMA DO BAIRRO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-KND A TURMA DO BAIRRO
-http://egecalu.online/live/861970655/687908312/e229b30a-202a-4d7d-9405-8a9cbe500952.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-KUNG FU PANDA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-KUNG FU PANDA
-http://egecalu.online/live/861970655/687908312/5703f228-44b8-47e2-bfc8-3585536e66f1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-KONG REI DOS MACACOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-KONG REI DOS MACACOS
-http://egecalu.online/live/861970655/687908312/f97d4d53-8c08-44eb-aaab-10ef9af09fca.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-LABORATORIO DE DEXTER" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-LABORATORIO DE DEXTER
-http://egecalu.online/live/861970655/687908312/dab14e3b-8253-4ef6-b13c-4b2c55ad5694.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JOSIE E AS GATINHAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JOSIE E AS GATINHAS
-http://egecalu.online/live/861970655/687908312/6532ae22-578c-417d-961f-88d814a4e5f2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JOHNNY BRAVO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JOHNNY BRAVO
-http://egecalu.online/live/861970655/687908312/17c3ca71-6130-45ad-8ecf-71af7dad36f8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JONNY QUEST" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JONNY QUEST
-http://egecalu.online/live/861970655/687908312/17ea6cc3-549c-4d7a-a551-015fa087a9e5.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-INCRIVEL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-INCRIVEL
-http://egecalu.online/live/861970655/687908312/707e29c3-0939-457a-84f2-e3578a6409fe.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-INCRIVEL HULK" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-INCRIVEL HULK
-http://egecalu.online/live/861970655/687908312/81dac35d-2ec2-44c5-b408-63297e5d14cf.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-INCRIVEL MUNDO DE GUMBAL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-INCRIVEL MUNDO DE GUMBAL
-http://egecalu.online/live/861970655/687908312/84779b74-a401-47f8-82ac-0032f93ddd49.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-INVASOR ZIM" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-INVASOR ZIM
-http://egecalu.online/live/861970655/687908312/c0b9122a-ba96-4b5a-a6a7-b042d66d35d8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-IRMAO DO JOREL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-IRMAO DO JOREL
-http://egecalu.online/live/861970655/687908312/81178486-d519-49b7-8887-47c6f2eea5c6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JAKERS! AS AVENTURAS DE PIGGLEY WINKS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JAKERS! AS AVENTURAS DE PIGGLEY WINKS
-http://egecalu.online/live/861970655/687908312/74fa60d6-0ff0-405d-a59b-73d858d78eab.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JAMBO O RUIVAO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JAMBO O RUIVAO
-http://egecalu.online/live/861970655/687908312/409bbe20-ab92-4c2c-aa5e-826cc78310dd.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JASPION" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JASPION
-http://egecalu.online/live/861970655/687908312/b4597e3d-c991-43c9-80ed-fede9d778668.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ILHA DOS DESAFIOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ILHA DOS DESAFIOS
-http://egecalu.online/live/861970655/687908312/60ade470-c019-4629-82c0-762738368232.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GARFIELD E SEUS AMIGOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GARFIELD E SEUS AMIGOS
-http://egecalu.online/live/861970655/687908312/e5455ab0-6814-46c8-840f-a855d2159eca.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GASPARZIHO E SEUS AMIGOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GASPARZIHO E SEUS AMIGOS
-http://egecalu.online/live/861970655/687908312/267619aa-db27-4e51-9257-c3ad7338c517.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GASPARZINHO O FANTASMA ESPACIAL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GASPARZINHO O FANTASMA ESPACIAL
-http://egecalu.online/live/861970655/687908312/3bc1f6a7-cff7-4f71-bd6f-675fc3595207.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GATO DE BOTAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GATO DE BOTAS
-http://egecalu.online/live/861970655/687908312/6ba16d95-01a9-45b6-b081-b17f7e4c109b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GATO FELIX" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GATO FELIX
-http://egecalu.online/live/861970655/687908312/56cdba84-7144-4adb-adb0-f5628f47c268.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GENERETOR REX" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GENERETOR REX
-http://egecalu.online/live/861970655/687908312/2b46ddc5-3849-431d-9af2-1cd1b002f52f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GO DIEGO GO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GO DIEGO GO
-http://egecalu.online/live/861970655/687908312/dd8b8e17-634a-489b-bb2f-5c27c35757e9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GUERREIRAS MAGICAS DE RAYEARTH" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GUERREIRAS MAGICAS DE RAYEARTH
-http://egecalu.online/live/861970655/687908312/f59c428d-da1b-4633-9ad4-3fd809d719b6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GUERREIROS MISTICOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GUERREIROS MISTICOS
-http://egecalu.online/live/861970655/687908312/04e3ecb0-9534-44b5-8290-8e7de810d56c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GUNDAM WING" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GUNDAM WING
-http://egecalu.online/live/861970655/687908312/e7d57e93-483d-4b0c-b1d8-e24da9006de3.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HANTARO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HANTARO
-http://egecalu.online/live/861970655/687908312/7d1a4d00-5a6b-4344-b463-dee9959632f7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HARVEY O ADVOGADO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HARVEY O ADVOGADO
-http://egecalu.online/live/861970655/687908312/76dda6ba-d492-4e74-b3a2-961439904fc4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HE-MAN 24H" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HE-MAN 24H
-http://egecalu.online/live/861970655/687908312/b25dbb4a-9425-4a9d-a5e9-33cd3035ffe0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HELLO KITTY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HELLO KITTY
-http://egecalu.online/live/861970655/687908312/02c1b6b3-013c-40ed-b836-2bab37fb56a4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HERCULES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HERCULES
-http://egecalu.online/live/861970655/687908312/152fc9e5-cc49-4f9f-936e-9a20868c8732.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HERCULOIDES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HERCULOIDES
-http://egecalu.online/live/861970655/687908312/0e6ade70-e7ea-4abd-b553-a146e6d120d0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HEY ARNOLD
-http://egecalu.online/live/861970655/687908312/020e258b-d3e7-4adf-839c-e992d109ec9d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HEY ARNOLD S01
-http://egecalu.online/live/861970655/687908312/1708f618-d4b1-4b84-aa1e-d3983c45b757.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HEY ARNOLD S02
-http://egecalu.online/live/861970655/687908312/123d610b-8e4e-4230-b517-864652791b9c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HEY ARNOLD S03
-http://egecalu.online/live/861970655/687908312/580a2b80-ab3e-4533-90ea-09cda552b8d1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HEY ARNOLD S04
-http://egecalu.online/live/861970655/687908312/a4b1be40-887d-4498-ab7c-4c03e1aa02f8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HEY ARNOLD S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HEY ARNOLD S05
-http://egecalu.online/live/861970655/687908312/60df191c-c64b-412c-bd9b-4f67d5949bee.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HICKORY DICKORY DOCK" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HICKORY DICKORY DOCK
-http://egecalu.online/live/861970655/687908312/ba64504d-f320-4285-b14f-dce2814e098a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HILDA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HILDA
-http://egecalu.online/live/861970655/687908312/aa52ba3d-7bf2-40d4-9f05-7cdb7ec4ab20.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HISTORINHAS DE DRAGOES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HISTORINHAS DE DRAGOES
-http://egecalu.online/live/861970655/687908312/cf7074de-9697-4b3e-86b2-321c86c01586.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HO HO OLIMPICS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HO HO OLIMPICS
-http://egecalu.online/live/861970655/687908312/a81b93eb-8d92-4830-8373-8da88847f974.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HOMEM ARANHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HOMEM ARANHA
-http://egecalu.online/live/861970655/687908312/793b9d6a-e63b-4479-9daa-78e9b0d79546.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HOMEM DE FERRO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HOMEM DE FERRO
-http://egecalu.online/live/861970655/687908312/ae98daeb-fec3-4b2f-9a0e-d71917de5013.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HOMEM PASSARO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HOMEM PASSARO
-http://egecalu.online/live/861970655/687908312/cce54a47-4fe4-4a72-8f6a-c87426200592.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-HOMEN ARANHA ACAO SEM LIMITES S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-HOMEN ARANHA ACAO SEM LIMITES S01
-http://egecalu.online/live/861970655/687908312/454be828-ccae-470e-9221-7af103c7ce77.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FUTURAMA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FUTURAMA
-http://egecalu.online/live/861970655/687908312/bf12d001-3ae8-4294-b2e3-a918bcc3eab4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GALAXY RANGER" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GALAXY RANGER
-http://egecalu.online/live/861970655/687908312/645588bf-5f37-4136-a07b-e3973b23d2f9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GALAXY TRIO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GALAXY TRIO
-http://egecalu.online/live/861970655/687908312/3e291dfb-e660-4e3b-8093-724429f1f85f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GALINHA PINTADINHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GALINHA PINTADINHA
-http://egecalu.online/live/861970655/687908312/a3a7b455-8868-47bb-9921-746d75935303.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FLASH GORDON" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FLASH GORDON
-http://egecalu.online/live/861970655/687908312/09295868-85cf-4508-b9bf-38f40ee995d0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FLY O PEQUENO GUERREIRO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FLY O PEQUENO GUERREIRO
-http://egecalu.online/live/861970655/687908312/e60b73ac-1ec6-4991-8b0b-283657d304a0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FRANKENSTEIN JUNIOR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FRANKENSTEIN JUNIOR
-http://egecalu.online/live/861970655/687908312/d33d5fa8-e3f5-4c65-82bc-33fef083b2cd.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FREAKAZOID" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FREAKAZOID
-http://egecalu.online/live/861970655/687908312/9ed81d4a-4508-441a-a2e1-554bb57801fd.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-EU SOU O MAXIMO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-EU SOU O MAXIMO
-http://egecalu.online/live/861970655/687908312/3417f1ac-37ac-4b50-ab82-2f0f0e057035.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FABULAS DA DISNEY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FABULAS DA DISNEY
-http://egecalu.online/live/861970655/687908312/22d01efb-1caf-45e2-9dc1-e7958297dd29.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FAISCA E FUMACA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FAISCA E FUMACA
-http://egecalu.online/live/861970655/687908312/f37d784f-ca38-4e15-b1f1-c075612fe3de.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FAMILIA DINOSSAURO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FAMILIA DINOSSAURO
-http://egecalu.online/live/861970655/687908312/dfa07e1f-2c4b-4940-8735-55151fc3c25f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FAMILIA URSO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FAMILIA URSO
-http://egecalu.online/live/861970655/687908312/3e95ec2c-14e5-469a-b4d9-c147f3f45f0b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FANTASMINHA LEGAL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FANTASMINHA LEGAL
-http://egecalu.online/live/861970655/687908312/3b9dc0c4-b24b-42ed-b023-8bd0019189d0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ESQUADRAO DE MARTE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ESQUADRAO DE MARTE
-http://egecalu.online/live/861970655/687908312/878a75ef-a0ba-4944-97e2-75aca5374fa3.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ESQUADRAO DO TEMPO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ESQUADRAO DO TEMPO
-http://egecalu.online/live/861970655/687908312/78e2192d-6247-4a00-8cb7-583e7c9ccb68.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-EEK THE CAT" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-EEK THE CAT
-http://egecalu.online/live/861970655/687908312/aa603224-9607-44ac-a73c-493ff0f3d69a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-EDGAR E ELLEN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-EDGAR E ELLEN
-http://egecalu.online/live/861970655/687908312/460cf4fb-e11e-4b92-8e58-71e488d2101d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DROPPY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DROPPY
-http://egecalu.online/live/861970655/687908312/859e957f-66de-4ab0-9610-22fd2841d8ca.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DUCK DODGERS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DUCK DODGERS
-http://egecalu.online/live/861970655/687908312/58e86f04-e76a-4676-87b4-ae179a57d736.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DUCKTALES OS CADORES DE AVENTURAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DUCKTALES OS CADORES DE AVENTURAS
-http://egecalu.online/live/861970655/687908312/30cfa22e-64cb-42c3-aa53-c416c0137ae6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DUDLEY DO RIGHT OF THE MOUNTIES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DUDLEY DO RIGHT OF THE MOUNTIES
-http://egecalu.online/live/861970655/687908312/c9dd2aad-0a3b-4f8c-b246-b01cbb8b0e27.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DUELO XAOLIN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DUELO XAOLIN
-http://egecalu.online/live/861970655/687908312/8c91d60e-5b04-4be2-8700-49cffd0fc360.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL CLASSICO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL CLASSICO
-http://egecalu.online/live/861970655/687908312/ba3a393d-23ed-4809-b1b8-2f3524511873.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL GT" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL GT
-http://egecalu.online/live/861970655/687908312/c5c650d7-f0a9-4331-bdc1-26d8a5646691.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER DEUS DA DESTRUICAO BILLS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL SUPER DEUS DA DESTRUICAO BILLS
-http://egecalu.online/live/861970655/687908312/88666f18-6239-42d5-bd11-0b0d1e10c3b7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER FREEZA DOURADO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL SUPER FREEZA DOURADO
-http://egecalu.online/live/861970655/687908312/6f3a5cc9-87a2-41e2-a3c3-935787a0b531.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL SUPER SOBREVIVENCIA DO UNIVERSO
-http://egecalu.online/live/861970655/687908312/9ac028fa-8f76-498a-8774-a218fcde1494.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER TRUNKS DO FUTURO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL SUPER TRUNKS DO FUTURO
-http://egecalu.online/live/861970655/687908312/20f39ebb-3865-4a6c-83b7-130dd11deeda.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL SUPER UNIVERSO 6" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL SUPER UNIVERSO 6
-http://egecalu.online/live/861970655/687908312/280da4d8-eb15-449e-b968-604bda917c60.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DE MAJIN BOO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL Z SAGA DE MAJIN BOO
-http://egecalu.online/live/861970655/687908312/909bad28-de3f-4c8b-9508-2dfda131e127.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DO GARLIC JR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL Z SAGA DO GARLIC JR
-http://egecalu.online/live/861970655/687908312/441278dc-ec17-4147-abc2-cde082225f9a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DOS ANDROIDES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL Z SAGA DOS ANDROIDES
-http://egecalu.online/live/861970655/687908312/de7a2b18-1338-4f8a-8ae0-e196662d684c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA DOS SAIYAJIN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL Z SAGA DOS SAIYAJIN
-http://egecalu.online/live/861970655/687908312/2fa5d851-93b6-4a9f-aecf-8a20acdecc6a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z SAGA FREEZA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL Z SAGA FREEZA
-http://egecalu.online/live/861970655/687908312/04f6dd13-4868-4660-9128-23862dfdb456.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAGON BALL Z TORNEIO DE OUTRO MUNDO
-http://egecalu.online/live/861970655/687908312/9e066cc6-3910-482b-ac5f-d15c2b165eb9.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DON DRACULA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DON DRACULA
-http://egecalu.online/live/861970655/687908312/4277294a-54cb-4c41-9a2c-ef89eaa5f2f8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DORA A AVENTUREIRA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DORA A AVENTUREIRA
-http://egecalu.online/live/861970655/687908312/02b43627-a85c-4101-8ee8-d25867dd012a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DOUG" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DOUG
-http://egecalu.online/live/861970655/687908312/614b4598-7e76-497f-a0f4-6a6bc0c27c41.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DR CALCA DIMENSIONAL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DR CALCA DIMENSIONAL
-http://egecalu.online/live/861970655/687908312/fa8c0194-9a11-48a3-a41b-4d0a99ea2e57.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DESENHOS BIBLICOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DESENHOS BIBLICOS
-http://egecalu.online/live/861970655/687908312/46f9c9c1-e3c7-430f-8587-6ba139950dee.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DIGIMON S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DIGIMON S01
-http://egecalu.online/live/861970655/687908312/1f4ea028-6ccb-4746-8cf5-04873e33bb3d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DIGIMON S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DIGIMON S05
-http://egecalu.online/live/861970655/687908312/d286c707-c460-47d1-9b5a-7d12c3e2dcad.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DIGMON S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DIGMON S02
-http://egecalu.online/live/861970655/687908312/0bb4cb9c-7ad2-4dd3-96f9-e64f0a1a9d74.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DIGMON S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DIGMON S03
-http://egecalu.online/live/861970655/687908312/d7dd659c-f56f-4e31-9f10-37a08afcdac8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DIGMON S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DIGMON S04
-http://egecalu.online/live/861970655/687908312/28922aba-aa01-42e4-93d5-3fc22880cfba.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DINO BOY E O VALE PERDIDO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DINO BOY E O VALE PERDIDO
-http://egecalu.online/live/861970655/687908312/1a8df18c-eb5c-4926-b7ab-0a52f288440a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CORAGEM O CAO COVARDE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CORAGEM O CAO COVARDE
-http://egecalu.online/live/861970655/687908312/047353fb-dc79-45a6-9fc2-0387e59bb1c0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CORRIDA MALUCA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CORRIDA MALUCA
-http://egecalu.online/live/861970655/687908312/51f0d1b1-494a-4207-8397-69785caecc16.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CURTAS METRAGENS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CURTAS METRAGENS
-http://egecalu.online/live/861970655/687908312/051320c5-0ffb-4d4c-a2b9-ab2abd695f03.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CYBERCHASE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CYBERCHASE
-http://egecalu.online/live/861970655/687908312/f2521d79-e7be-42cb-9eb4-fd4b3e8ae82e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DANNY PHANTOM" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DANNY PHANTOM
-http://egecalu.online/live/861970655/687908312/1ae32261-3dce-469f-9957-2da4cc071a7f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CLARENCIO O OTIMISTA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CLARENCIO O OTIMISTA
-http://egecalu.online/live/861970655/687908312/fbb5a30c-c64b-4433-8681-55ba46ac4274.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CLASSICOS DA DISNEY" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CLASSICOS DA DISNEY
-http://egecalu.online/live/861970655/687908312/bd79bc70-bc31-41ed-b304-d3d0aaa3638d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO PRIMEIRA TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHAVES DESENHO PRIMEIRA TEMPORADA
-http://egecalu.online/live/861970655/687908312/318ac3d0-7984-4dfe-ae27-4a8fa00f3cd4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES  DESENHO SEGUNDA TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHAVES  DESENHO SEGUNDA TEMPORADA
-http://egecalu.online/live/861970655/687908312/e3059a14-cd2d-458b-8857-aa8dc01a5e5a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO TERCEIRA TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHAVES DESENHO TERCEIRA TEMPORADA
-http://egecalu.online/live/861970655/687908312/4fa74a8d-d295-4d29-9d21-10144a7b0ffa.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES DESENHO QUARTA TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHAVES DESENHO QUARTA TEMPORADA
-http://egecalu.online/live/861970655/687908312/bc3c8637-e414-4bdc-9cda-f020bf18eae7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS DO SILVIO SANTOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PEGADINHAS DO SILVIO SANTOS
-http://egecalu.online/live/861970655/687908312/3c5911d6-6be7-44a0-b74b-586bc1fbe97a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JALALS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PEGADINHAS JALALS
-http://egecalu.online/live/861970655/687908312/124245c0-1418-46d5-a645-b22caf50191f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PEGADINHAS JOAO KLEBER" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PEGADINHAS JOAO KLEBER
-http://egecalu.online/live/861970655/687908312/14510eb5-0e4c-4c22-bc4e-78897458089e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TORAL 2015" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TORAL 2015
-http://egecalu.online/live/861970655/687908312/8d04223e-0676-481c-83d0-092d7a126f33.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 1999" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 1999
-http://egecalu.online/live/861970655/687908312/c09a79b4-b4aa-4921-89a1-aebf97a3012f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2000" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 2000
-http://egecalu.online/live/861970655/687908312/eb5158e6-6bc2-4959-9181-247088e85d35.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2006" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 2006
-http://egecalu.online/live/861970655/687908312/cf3c5fa6-1e30-4177-b58a-282dfce2337a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2007" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 2007
-http://egecalu.online/live/861970655/687908312/66e49a29-336a-43a1-9ee6-557ca09c70a1.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2012" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 2012
-http://egecalu.online/live/861970655/687908312/cd3a0e40-2155-4b25-a44a-e9dfb38b3fe6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2013" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 2013
-http://egecalu.online/live/861970655/687908312/21de5343-947c-4a92-a32e-9fe92072a74f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ZORRA TOTAL 2014" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ZORRA TOTAL 2014
-http://egecalu.online/live/861970655/687908312/4a8fda53-f3fb-4144-8bb6-c7fad0c02362.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SAI DE BAIXO S01
-http://egecalu.online/live/861970655/687908312/5022f591-7165-49e3-86af-43f1c53084ac.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SAI DE BAIXO S02
-http://egecalu.online/live/861970655/687908312/433ee4c1-fc91-4123-910f-eed77860424a.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SAI DE BAIXO S03
-http://egecalu.online/live/861970655/687908312/1652fd45-a825-401a-a989-bd2abb10c4c4.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SAI DE BAIXO S04
-http://egecalu.online/live/861970655/687908312/ea07fb5d-78d6-45e7-86ad-e7008ec59670.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SAI DE BAIXO S05" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SAI DE BAIXO S05
-http://egecalu.online/live/861970655/687908312/a0a53e9b-4b6d-4493-9834-6ab80f2ffc34.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SITIO DO PICA PAU AMARELO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SITIO DO PICA PAU AMARELO
-http://egecalu.online/live/861970655/687908312/ec795f81-e497-4791-8dd3-8dd362c42ac6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-WEBBULLYING NA TV" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-WEBBULLYING NA TV
-http://egecalu.online/live/861970655/687908312/23ed31fa-3e39-4422-8c39-988e71d91c47.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-POLICIA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-POLICIA
-http://egecalu.online/live/861970655/687908312/5e9e6e2d-806e-4ede-b321-8cb487bd4d27.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-REFUGIO MENTAL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-REFUGIO MENTAL
-http://egecalu.online/live/861970655/687908312/22d8d0c9-f6fe-49dd-af0c-8941e7fa952b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-SABADOS SECRETO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-SABADOS SECRETO
-http://egecalu.online/live/861970655/687908312/0e54120c-e7b6-4381-a8fa-7d8d5c85c20c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PARA RELAXAR E DORMIR" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PARA RELAXAR E DORMIR
-http://egecalu.online/live/861970655/687908312/f4f61dfc-147c-4b2d-bc09-bd5a5655ab02.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PARAFERNALHA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PARAFERNALHA
-http://egecalu.online/live/861970655/687908312/4bca240d-c453-4c47-81d3-6df0216608ca.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PORTAS DOS FUNDOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PORTAS DOS FUNDOS
-http://egecalu.online/live/861970655/687908312/44efbff7-fce0-4f28-b004-df6356899c21.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PAGODE DA OFENSA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PAGODE DA OFENSA
-http://egecalu.online/live/861970655/687908312/db290e82-b90b-42e0-bb54-7aaa0313ca04.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-MASTER TRASH E PANICO CHEF" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-MASTER TRASH E PANICO CHEF
-http://egecalu.online/live/861970655/687908312/ed4c222b-7a01-4d28-b6b6-cfe6400f607f.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-DRAMATURGIA PANICO NA TV" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-DRAMATURGIA PANICO NA TV
-http://egecalu.online/live/861970655/687908312/c0095266-aa17-40e0-b33e-a05659f72925.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PANICO TROLL" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PANICO TROLL
-http://egecalu.online/live/861970655/687908312/0f086190-aaaf-4610-aa13-c63912a307be.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-PARTOBA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-PARTOBA
-http://egecalu.online/live/861970655/687908312/62681c90-45c5-4f93-bef1-d237189b3328.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-JOHN LEITAO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-JOHN LEITAO
-http://egecalu.online/live/861970655/687908312/1f2fa652-a18b-4181-976c-d966a334ffed.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-GERSON ALBUQUERQUE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-GERSON ALBUQUERQUE
-http://egecalu.online/live/861970655/687908312/65c508d2-3609-4085-be1a-8dbfd2528959.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-EDU PRIMITIVO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-EDU PRIMITIVO
-http://egecalu.online/live/861970655/687908312/c47b9bd9-ff93-4af0-a727-4a44436cb6e0.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FATOS DESCONHECIDOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FATOS DESCONHECIDOS
-http://egecalu.online/live/861970655/687908312/0eb53fba-364f-4441-986e-7852a90a6f1b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FATOS INSANOS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FATOS INSANOS
-http://egecalu.online/live/861970655/687908312/abcc5dc8-4408-47be-ad0d-4817f126b591.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FILA DE PIADAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FILA DE PIADAS
-http://egecalu.online/live/861970655/687908312/eb727ec8-6874-40e8-9bb7-e8d096f59a46.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ENCRENCA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ENCRENCA
-http://egecalu.online/live/861970655/687908312/2e568c9c-c85a-4c07-b6cc-1d45c7248e67.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-ESCOLINHA DO PROFESSOR RAIMUNDO
-http://egecalu.online/live/861970655/687908312/0e783df8-906a-444d-a749-1d9d7fac960d.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-FITDANCE" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-FITDANCE
-http://egecalu.online/live/861970655/687908312/25effec1-24f8-48f8-b34c-f01a3397bba2.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CIENCIA TODO DIA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CIENCIA TODO DIA
-http://egecalu.online/live/861970655/687908312/42617747-e8eb-4c07-acf8-b5a41cfb66ac.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OCEANO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OCEANO
-http://egecalu.online/live/861970655/687908312/51418b15-9927-44a6-a8cf-a229ca110f0b.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-OS BARBIXAS" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-OS BARBIXAS
-http://egecalu.online/live/861970655/687908312/c5241974-92d6-4c6e-b6f2-06df85ca5bab.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NATUREZA S01
-http://egecalu.online/live/861970655/687908312/c26fd3f1-a4e6-4e04-add2-70391ef1ce88.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NATUREZA S02
-http://egecalu.online/live/861970655/687908312/9465310e-1069-4bc3-9ac7-ba592da3fe66.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NATUREZA S03
-http://egecalu.online/live/861970655/687908312/72ad0046-e7ef-4ac5-8346-7796cb166020.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-NATUREZA S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-NATUREZA S04
-http://egecalu.online/live/861970655/687908312/dde784b7-3b03-4397-9d6c-b21d3b96be57.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S01" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-BATES MOTEL S01
-http://egecalu.online/live/861970655/687908312/777f2793-f93a-4fb9-9106-d1c4bdf0e5cc.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S02" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-BATES MOTEL S02
-http://egecalu.online/live/861970655/687908312/9856e152-c1e4-44ef-8b07-c99e1ae25f33.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S03" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-BATES MOTEL S03
-http://egecalu.online/live/861970655/687908312/8cd5444f-3679-4922-91ba-ffb7ccee8ad8.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-BATES MOTEL S04" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-BATES MOTEL S04
-http://egecalu.online/live/861970655/687908312/816e2539-8479-46ce-8206-0544fbd0da3c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 1 TEMPORADA
-http://egecalu.online/live/861970655/687908312/e732819a-c398-43ea-b46a-6054fce5d477.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CAVALEIRO DOS ZODIACO SAINT SEIYA 2 TEMPORADA
-http://egecalu.online/live/861970655/687908312/6c24a740-b6c7-4d58-af10-6fe500ef5c55.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CAVALEIROS DO ZODIACO  SAGA DE ASGARD
-http://egecalu.online/live/861970655/687908312/a9190c22-85d6-4056-87c9-9e716b0f25ec.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CAVALEIROS DO ZODIACO  SAGA DE POSEIDON
-http://egecalu.online/live/861970655/687908312/bed09342-73c5-4520-bf09-8e95e45b878c.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CAVALEIROS DO ZODIACO SAGA TORNEIO GALACTICO
-http://egecalu.online/live/861970655/687908312/f9b4dc6c-b9a4-48ae-b630-9c970fb2a184.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CAVERNA DO DRAG" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CAVERNA DO DRAG
-http://egecalu.online/live/861970655/687908312/247cffb4-1d84-4429-92df-12a079147f8e.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHANPOLIN COLORADO" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHANPOLIN COLORADO
-http://egecalu.online/live/861970655/687908312/829cb3a0-de1a-4ea7-b00d-024bcc0940b6.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAPOLIN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHAPOLIN
-http://egecalu.online/live/861970655/687908312/4928f7f0-990c-48dd-a530-ce62af0866a7.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHARLIE CHAN" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHARLIE CHAN
-http://egecalu.online/live/861970655/687908312/90a52e2f-0655-4516-ae72-864d51ab36f5.ts
-#EXTINF:-1 tvg-id="" tvg-name="24H-CHAVES" tvg-logo="https://i.imgur.com/XlYKNTb.png" group-title="Canais 24h",24H-CHAVES
-http://egecalu.online/live/861970655/687908312/6f254955-1c5d-41f4-923f-3ea43c24eb3d.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE FHD" tvg-logo="https://i.imgur.com/Nr88Lwi.jpeg" group-title="Canais Abertos",TVE FHD
+http://egecalu.online/live/861970655/687908312/4dfa8726-d6f9-43ea-93b4-d4e08ab46b76.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE HD" tvg-logo="https://i.imgur.com/Nr88Lwi.jpeg" group-title="Canais Abertos",TVE HD
+http://egecalu.online/live/861970655/687908312/6d78ffe6-e714-4ae8-8ec1-0092c08c0347.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVE SD" tvg-logo="https://i.imgur.com/Nr88Lwi.jpeg" group-title="Canais Abertos",TVE SD
+http://egecalu.online/live/861970655/687908312/cae4e914-3499-4fe3-8521-181eada97df0.ts
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Baiano 02 (Eventos)" tvg-logo="http://canais.is/imgs/ppv-channel.png" group-title="Canais PPV",Campeonato Baiano 02 (Eventos)
+http://egecalu.online/live/861970655/687908312/9b614ee2-a97b-4412-a1c8-ecd573b248f3.ts
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Baiano 03 (Eventos)" tvg-logo="http://canais.is/imgs/ppv-channel.png" group-title="Canais PPV",Campeonato Baiano 03 (Eventos)
+http://egecalu.online/live/861970655/687908312/9f6e61e1-c2a6-43c3-8826-91a31bdd118e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Baiano 04 (Eventos)" tvg-logo="http://canais.is/imgs/ppv-channel.png" group-title="Canais PPV",Campeonato Baiano 04 (Eventos)
+http://egecalu.online/live/861970655/687908312/9968bf4b-94f0-4adc-915b-3412dca5d54c.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Universo TV" tvg-logo="https://i.imgur.com/ykI1F4u.png" group-title="Canais Abertos",Rede Universo TV
+http://egecalu.online/live/861970655/687908312/f974456d-5c7b-43f5-be0b-a29c5ea3ea91.ts
+#EXTINF:-1 tvg-id="" tvg-name="Play TV Horse" tvg-logo="https://i.imgur.com/aTWp8vb.png" group-title="Canais Abertos",Play TV Horse
+http://egecalu.online/live/861970655/687908312/39561be6-7162-4d0c-9e10-1968d1a97db9.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png" group-title="Canais Abertos",Rede Brasil HD
+http://egecalu.online/live/861970655/687908312/b73d934b-6834-4097-89a9-73d0314ccf1c.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kings League Brasil 01 (Eventos)" tvg-logo="https://cdn.ome.lt/i2XyzEdYiA4t0GpgwZTDZgBnyyY=/1200x630/smart/extras/conteudos/imagem_2024-12-05_162526902.png" group-title="Canais PPV",Kings League Brasil 01 (Eventos)
+http://egecalu.online/live/861970655/687908312/07330d48-4521-4be0-a155-f928783cc779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kings League Brasil 02 (Eventos)" tvg-logo="https://cdn.ome.lt/i2XyzEdYiA4t0GpgwZTDZgBnyyY=/1200x630/smart/extras/conteudos/imagem_2024-12-05_162526902.png" group-title="Canais PPV",Kings League Brasil 02 (Eventos)
+http://egecalu.online/live/861970655/687908312/de7290fa-f7f2-48c2-9d81-83f720544aa8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kings League Brasil 03 (Eventos)" tvg-logo="https://cdn.ome.lt/i2XyzEdYiA4t0GpgwZTDZgBnyyY=/1200x630/smart/extras/conteudos/imagem_2024-12-05_162526902.png" group-title="Canais PPV",Kings League Brasil 03 (Eventos)
+http://egecalu.online/live/861970655/687908312/5afed588-41e1-46d1-8644-eaf23edbcb2f.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RPC Cascavel HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="Canais Globo Sul",Globo RPC Cascavel HD
+http://egecalu.online/live/861970655/687908312/68a1acbe-435f-4f87-9984-69659ad6a561.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV WS BRASIL" tvg-logo="https://tvws.rasbr.top/wp-content/uploads/2025/02/LOGO-ICONE-SITE.png" group-title="Canais Variedades",TV WS BRASIL
+http://egecalu.online/live/861970655/687908312/de71a68b-b171-4eb9-a680-9dcf97da3168.ts
+#EXTINF:-1 tvg-id="ZYA581" tvg-name="GLOBO TV ANHANGUERA ITUMBIARA HD" tvg-logo="http://www.tmsimg.com/assets/s76485_ll_h3_aa.png" group-title="Canais Globo Centro Oeste",GLOBO TV ANHANGUERA ITUMBIARA HD
+http://egecalu.online/live/861970655/687908312/dae7752d-563b-4a23-b20a-13649e458b37.ts
+#EXTINF:-1 tvg-id="ZYA573" tvg-name="GLOBO TV ANHANGUERA ANAPOLIS HD" tvg-logo="http://www.tmsimg.com/assets/s76191_ll_h3_aa.png" group-title="Canais Globo Centro Oeste",GLOBO TV ANHANGUERA ANAPOLIS HD
+http://egecalu.online/live/861970655/687908312/48eaa995-3155-446f-9d2b-074c86791688.ts
+#EXTINF:-1 tvg-id="ZYA588" tvg-name="GLOBO TV ANHANGUERA JATAI HD" tvg-logo="http://www.tmsimg.com/assets/s76491_ll_h3_aa.png" group-title="Canais Globo Centro Oeste",GLOBO TV ANHANGUERA JATAI HD
+http://egecalu.online/live/861970655/687908312/817134f2-1395-47d1-bf88-7e5c2c01a210.ts
+#EXTINF:-1 tvg-id="ZYA579" tvg-name="GLOBO TV ANHANGUERA LUZIANIA HD" tvg-logo="http://www.tmsimg.com/assets/s76188_ll_h3_aa.png" group-title="Canais Globo Centro Oeste",GLOBO TV ANHANGUERA LUZIANIA HD
+http://egecalu.online/live/861970655/687908312/f7f2e83e-514f-4314-9f94-d8d30aa9778c.ts
+#EXTINF:-1 tvg-id="ZYA583" tvg-name="GLOBO TV ANHANGUERA PORANGATU HD" tvg-logo="http://www.tmsimg.com/assets/s76487_ll_h3_aa.png" group-title="Canais Globo Centro Oeste",GLOBO TV ANHANGUERA PORANGATU HD
+http://egecalu.online/live/861970655/687908312/a425cff3-8f4f-4ab6-8a3c-73fc33a6eded.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Nova Juarez HD" tvg-logo="https://i.imgur.com/ThGl8Jn.jpeg" group-title="Canais Abertos",TV Nova Juarez HD
+http://egecalu.online/live/861970655/687908312/76af7bec-1852-439a-9c78-81deb79979fb.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS SD" tvg-logo="https://i.imgur.com/vj91sr0.jpeg" group-title="Rede Sbt",SBT NEWS SD
+http://egecalu.online/live/861970655/687908312/1041e6c2-8cd1-48ad-bb92-ac953cabfd85.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS HD" tvg-logo="https://i.imgur.com/vj91sr0.jpeg" group-title="Rede Sbt",SBT NEWS HD
+http://egecalu.online/live/861970655/687908312/373a13a9-348f-445d-9832-a45044169c2f.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS FHD" tvg-logo="https://i.imgur.com/vj91sr0.jpeg" group-title="Rede Sbt",SBT NEWS FHD
+http://egecalu.online/live/861970655/687908312/eb833d63-85d9-42a8-9e32-50a06e09e7b1.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT NEWS FHD [H265]" tvg-logo="https://i.imgur.com/vj91sr0.jpeg" group-title="Rede Sbt",SBT NEWS FHD [H265]
+http://egecalu.online/live/861970655/687908312/4bb01a2f-fc60-404f-a39c-64dc6821ac7d.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="https://i.ibb.co/026xb1y/SD.png" group-title="Canais Premiere",Premiere 8
+http://egecalu.online/live/861970655/687908312/8a020d06-1d86-449c-93fe-5f566d5f9090.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desimpedidos TV 02 (Eventos)" tvg-logo="https://i.imgur.com/114ERq0.png" group-title="Canais PPV",Desimpedidos TV 02 (Eventos)
+http://egecalu.online/live/861970655/687908312/d8fda2a0-7fe8-4930-a86a-0c6189313ff7.ts
+#EXTINF:-1 tvg-id="" tvg-name="Desimpedidos TV 01 (Eventos)" tvg-logo="https://i.imgur.com/114ERq0.png" group-title="Canais PPV",Desimpedidos TV 01 (Eventos)
+http://egecalu.online/live/861970655/687908312/9f7ff1de-0fea-4e06-9094-4ad692b265e6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia Vitória da Conquista" tvg-logo="https://i.ibb.co/SwnJ2p9/SD.png" group-title="Canais Globo Nordeste",Globo Bahia Vitória da Conquista
+http://egecalu.online/live/861970655/687908312/00e14e1d-cd77-48ba-8693-6c8c4c642cae.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo Bahia Vitória da Conquista HD" tvg-logo="https://i.ibb.co/TDKXW0PQ/HD.png" group-title="Canais Globo Nordeste",Globo Bahia Vitória da Conquista HD
+http://egecalu.online/live/861970655/687908312/68b1e696-fae6-4989-a960-c6ec585c9060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Adam Sandler" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Adam Sandler
+http://egecalu.online/live/861970655/687908312/e4d58f83-c73a-4827-bcfe-376a32cd28b6.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Apocalipse" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Apocalipse
+http://egecalu.online/live/861970655/687908312/6a86e5eb-9ba5-4f9b-9d99-a9b3d8e98dcc.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Arnold Schwarzenegger" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Arnold Schwarzenegger
+http://egecalu.online/live/861970655/687908312/684d5987-6b9e-430c-aadd-a5c32acb00fb.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Brad Pitt" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Brad Pitt
+http://egecalu.online/live/861970655/687908312/fa08487f-2add-4752-9b6a-8547193ab42a.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Denzel Washington" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Denzel Washington
+http://egecalu.online/live/861970655/687908312/88532f1f-df2f-4821-8a72-e62ca2660a46.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Dwayne Johnson" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Dwayne Johnson
+http://egecalu.online/live/861970655/687908312/7fe0f42c-64a8-472c-bd0f-b3fa2be665a2.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Especial de Natal" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Especial de Natal
+http://egecalu.online/live/861970655/687908312/2bd64ef7-c22d-46a8-ac58-9e0eebb44e33.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Jackie Chan" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Jackie Chan
+http://egecalu.online/live/861970655/687908312/1f987168-8645-4cf0-9774-174cfbbea9f0.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Os Trapalhões" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Os Trapalhões
+http://egecalu.online/live/861970655/687908312/fb2a443b-4cbd-4756-a72e-0fa90a917785.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Quentin Tarantino" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Quentin Tarantino
+http://egecalu.online/live/861970655/687908312/77378257-99db-466c-aadb-76d2913885cf.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Rambo" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Rambo
+http://egecalu.online/live/861970655/687908312/c91815b6-aaae-4ed0-a236-92b3696d0014.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Stallone" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Stallone
+http://egecalu.online/live/861970655/687908312/3a33b318-26f7-4c4f-a7c6-e37701f77a8e.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cine: Will Smith" tvg-logo="http://yan.boatv.at/imgs/CINE24H.png" group-title="Filmes 24h",Cine: Will Smith
+http://egecalu.online/live/861970655/687908312/1eb3fa01-a789-49aa-b31b-d618b149a2dc.ts
+#EXTINF:-1 tvg-id="" tvg-name="FlamengoTV" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="Canais PPV",FlamengoTV
+http://egecalu.online/live/861970655/687908312/2fe34965-7f99-486e-bb63-28bd1575423f.ts
