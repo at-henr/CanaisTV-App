@@ -1,8 +1,4 @@
 {
-  "Master": {
-    "movie": "https://myembed.biz/filme/$id",
-    "tv": "https://myembed.biz/serie/$id/$seasonNum/$episodeNum"
-  },
   "Rápido": {
     "movie": "https://superflixapi.pro/filme/$id#noLink",
     "tv": "https://superflixapi.pro/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
