@@ -7,7 +7,7 @@
     "movie": "https://mgeb.top/embed/$tmdb",
     "tv": "https://mgeb.top/embed/$tmdb/$seasonNum/$episodeNum"
   },
-  "New": {
+  "Recomendado": {
     "movie": "https://embedplayapi.top/embed/$id",
     "tv": "https://embedplayapi.top/embed/$id/$seasonNum/$episodeNum"
   }
