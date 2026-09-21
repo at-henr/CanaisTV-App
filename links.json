@@ -1,7 +1,7 @@
 {
   "Rápido": {
-    "movie": "https://superflixapi.monster/filme/$id#noLink",
-    "tv": "https://superflixapi.monster/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
+    "movie": "https://superflixapi.quest/filme/$id#noLink",
+    "tv": "https://superflixapi.quest/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
   },
  "Ultra": {
     "movie": "https://mgeb.top/embed/$tmdb",
