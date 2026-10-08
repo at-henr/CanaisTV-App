@@ -4,8 +4,8 @@
     "tv": "https://superflixapi.quest/serie/$tmdb/$seasonNum/$episodeNum#noEpList#noLink"
   },
  "Ultra": {
-    "movie": "https://mgeb.top/embed/$tmdb",
-    "tv": "https://mgeb.top/embed/$tmdb-$seasonNum-$episodeNum"
+    "movie": "https://mgeb.site/embed/$tmdb",
+    "tv": "https://mgeb.site/embed/$tmdb-$seasonNum-$episodeNum"
 },
   "Recomendado": {
     "movie": "https://embedplayapi.top/embed/$id",
