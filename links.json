@@ -5,7 +5,7 @@
   },
  "Ultra": {
     "movie": "https://mgeb.lat/embed/$tmdb",
-    "tv": "https://mgeb.lat/embed/embed/$tmdb-$seasonNum-$episodeNum"
+    "tv": "https://mgeb.lat/embed/$tmdb-$seasonNum-$episodeNum"
 },
   "Recomendado": {
     "movie": "https://embedplayapi.top/embed/$id",
